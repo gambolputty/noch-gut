@@ -1,0 +1,14 @@
+# Dependencies
+node_modules/
+
+# Environment
+.env
+
+# TypeScript
+*.tsbuildinfo
+
+# Recency tracking (session persistence for social media posts)
+.recency/
+
+# Logs
+*.log

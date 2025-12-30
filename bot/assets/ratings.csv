@@ -1,0 +1,162 @@
+rating,weight,categories
+Einwandfrei.,60,
+Gut.,40,
+Kein Problem.,25,
+Akzeptabel.,15,
+Schmeckt noch.,12,
+Nicht schlecht.,10,
+Hat noch.,10,
+Wie erwartet.,10,
+Geht.,8,
+Würde wieder.,8,
+Überraschend gut.,6,
+Solide.,6,
+Funktioniert.,5,
+Klassiker.,5,
+Tadellos.,4,
+Unauffällig.,4,
+Besser als erwartet.,15,
+In Ordnung.,12,
+Unbedenklich.,8,
+Essbar.,6,
+Genießbar.,5,
+Problemlos.,8,
+Noch gut.,10,
+Passt.,6,
+Okay.,8,
+Brauchbar.,4,
+Vertretbar.,3,
+Hinnehmbar.,3,
+Erwartungsgemäß.,4,
+Keine Beanstandung.,5,
+Ohne Befund.,3,
+Unerwartet frisch.,4,
+Besser als gedacht.,6,
+Hätte schlimmer sein können.,3,
+Nichts auszusetzen.,5,
+Kein Grund zur Klage.,3,
+Wie am ersten Tag.,2,
+Fast wie neu.,2,
+Noch Jahre gut.,2,
+Zeitlos.,2,
+Unverwüstlich.,2,
+Hält ewig.,2,
+Bewährt.,4,
+Zuverlässig.,4,
+Konstant.,3,
+Stabil.,3,
+Robust.,2,
+Beständig.,2,
+Riecht interessant.,8,en:cheeses|en:fermented-foods|en:fermented-milk-products
+Intensiver geworden.,5,en:cheeses|en:fermented-foods
+Gereift.,4,en:cheeses
+Kräftiger.,4,en:cheeses|en:fermented-foods
+Würziger.,3,en:cheeses
+Charaktervoll.,2,en:cheeses
+Noch knusprig.,6,en:biscuits|en:crackers|en:chips-and-fries|en:breakfast-cereals
+Etwas weich.,5,en:biscuits|en:crackers|en:breads
+Nicht mehr knusprig.,4,en:biscuits|en:crackers|en:chips-and-fries
+Weich geworden.,3,en:biscuits|en:crackers|en:breads
+Noch Biss.,3,en:biscuits|en:crackers|en:chips-and-fries
+Süßer geworden.,4,en:jams|en:honeys|en:syrups|en:sweet-spreads
+Kristallisiert.,3,en:honeys|en:syrups
+Kandiert.,2,en:honeys|en:syrups|en:jams
+Eingedickt.,2,en:jams|en:syrups|en:sauces
+Schärfer geworden.,4,en:hot-sauces|en:mustards|en:condiments
+Eingedampft.,2,en:sauces|en:condiments
+Konzentrierter.,2,en:sauces|en:condiments|en:soups
+Textur verändert.,3,
+Farbe verändert.,3,
+Konsistenz anders.,2,
+Optisch verändert.,2,
+Dunkler geworden.,2,en:sauces|en:condiments|en:oils
+Heller geworden.,1,
+Trüb geworden.,2,en:oils
+Aufgelöst.,1,en:instant-products|en:powders
+Verklumpt.,2,en:instant-products|en:powders|en:flours
+Zusammengebacken.,2,en:sugars|en:salts|en:instant-products
+Separiert.,1,en:sauces|en:dressings
+Mild geworden.,3,en:hot-sauces|en:spices|en:condiments
+Abgestumpft.,2,en:spices|en:herbs
+Aroma verflogen.,2,en:spices|en:herbs|en:teas|en:coffees
+Noch aromatisch.,3,en:spices|en:herbs|en:teas|en:coffees
+Geschmack erhalten.,4,
+Vollständig.,2,
+Intakt.,3,
+Unversehrt.,2,
+Makellos.,2,
+Perfekt.,2,
+Ideal.,1,
+Mustergültig.,1,
+Vorbildlich.,1,
+Exemplarisch.,1,
+Neutral.,4,
+Dezent.,3,
+Subtil.,2,
+Fein.,3,
+Angenehm.,4,
+Mild.,4,
+Sanft.,2,
+Weich.,2,
+Zart.,2,
+Rund.,2,
+Ausgewogen.,3,
+Harmonisch.,2,
+Stimmig.,2,
+Typisch.,4,
+Authentisch.,2,
+Original.,2,
+Echt.,3,
+Rein.,2,
+Sauber.,3,
+Frisch genug.,4,
+Ausreichend.,5,
+Genügend.,3,
+Befriedigend.,4,
+Zufriedenstellend.,4,
+Annehmbar.,4,
+Tolerierbar.,2,
+Erträglich.,2,
+Machbar.,2,
+Möglich.,2,
+Denkbar.,1,
+Vorstellbar.,1,
+Weiß angelaufen.,3,en:chocolates|en:cocoa-and-its-products
+Etwas bröckelig.,2,en:confectioneries|en:chocolates
+Textur erhalten.,4,en:frozen-foods|en:frozen-desserts|en:ice-creams
+Gut aufgetaut.,3,en:frozen-foods|en:frozen-desserts
+Sauce angedickt.,4,en:meals|en:combination-meals
+Zusammengewachsen.,3,en:meals
+Typisch Dose.,3,en:canned-foods|en:canned-vegetables|en:canned-fruits
+Saft trüb.,2,en:canned-foods|en:canned-fruits
+Schön knackig.,5,en:nuts|en:seeds|en:nuts-and-their-products
+Etwas muffig.,2,en:nuts|en:nuts-and-their-products
+Schön gereift.,4,en:meats-and-their-products|en:sausages|en:prepared-meats
+Rand verfärbt.,2,en:meats-and-their-products|en:sausages
+Wie frisch.,4,en:pastas|en:rices|en:noodles
+Säuerlicher.,3,en:yogurts|en:fermented-milk-products|en:dairy-desserts
+Fester geworden.,2,en:yogurts|en:fermented-milk-products|en:dairy-desserts
+Würze intensiver.,3,en:soups|en:broths
+Streichfähig.,4,en:spreads|en:salted-spreads
+Etwas pappig.,2,en:breakfast-cereals|en:mueslis
+Länger gekocht.,2,en:pastas|en:noodles
+Noch klar.,4,en:oils
+Leicht trüb.,2,en:oils|en:fats
+Aroma da.,3,
+Sättigt.,3,
+Knackt noch.,3,en:chocolates
+Wärmt.,4,en:soups
+Herzhaft.,4,en:sausages
+Erfüllt den Zweck.,2,
+Lässt sich essen.,2,
+Kann man machen.,2,
+Nicht steinhart.,3,en:breads
+Lässt sich kauen.,2,en:breads
+Schmeckt nach Käse.,3,en:cheeses
+Zerbröselt nicht.,2,en:biscuits
+Geht runter.,2,
+Macht was es soll.,2,
+Fleisch erkennbar.,2,en:meats
+Riecht noch.,3,
+Lässt sich reiben.,2,en:cheeses
+Streichbar.,3,en:butters

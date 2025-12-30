@@ -1,0 +1,18 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Open Food Facts dump (large file, download separately)
+openfoodfacts-products.jsonl.gz
+openfoodfacts-products.jsonl
+
+# Generated output
+products.csv
+species.csv
