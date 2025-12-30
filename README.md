@@ -39,12 +39,8 @@ uv sync
 # Open Food Facts: Deutsche Lebensmittel extrahieren
 uv run openfoodfacts process --data openfoodfacts/openfoodfacts-products.jsonl -o openfoodfacts/products.csv
 
-# Wikidata: Ausgestorbene Arten extrahieren
-uv run wikidata-extinct -o wikidata-extinct/species.csv
-
 # CSVs zum Bot kopieren
 cp openfoodfacts/products.csv ../bot/assets/
-cp wikidata-extinct/species.csv ../bot/assets/extinct-species.csv
 ```
 
 ### Generator (Bot)
