@@ -1,1197 +1,1197 @@
-*Nudeln* von *FRoSTA*. Abgelaufen 2011. Gegessen am 20. September 2025. Nicht schlecht.
+*Hartkäse* von *Nur Nur Natur*. Abgelaufen 2013. Gegessen am 19. Dezember 2016. Einwandfrei.
 
-*Honig, flüssig*. Abgelaufen 11.2018. Gegessen am 8. Januar 2023. Süßer geworden.
+*Norwegischer Stremel Lachs Natur*. Abgelaufen 2012. Gegessen am 22. September 2018. Heller geworden.
 
-*Jumbo Rosinen Rodzynki Jumbo*. 8 Jahre drüber. Überraschend gut.
+*Haselnüsse*. 6 Jahre drüber. Typisch.
 
-*Bio-Steinofenpizza - Gegrilltes Gemüse* von *Gut Bio*. Abgelaufen 2011. Gegessen am 15. September 2020. Einwandfrei.
+*Thai Hühnersuppe*. Abgelaufen 10.2022. Gegessen am 16. Oktober 2024. Noch gut.
 
-*Bio Morzzarella*. Abgelaufen 2011. Gegessen am 16. November 2020. Original.
+*Müsli* von *Golden Bridge*. Abgelaufen 06.2017. Gegessen am 21. Oktober 2024. In Ordnung.
 
 ---
 
-*Kakao-Kipferl* von *Wicklein*. Abgelaufen 2008. Gegessen am 12. Juni 2015. Weich.
+*Sauerkirschen gefroren* von *Edeka*. Abgelaufen 04.2022. Gegessen am 12. November 2025. Unbedenklich.
 
-*Cinna Rollies - Bio-Zimtschnecken*. Abgelaufen 2014. Gegessen am 15. Juni 2023. Brauchbar.
+*Bio-Knusperknäcke-Snack Dinkel & Quinoa* von *Aldi Bio*. Abgelaufen 2007. Gegessen am 9. Juni 2019. Überraschend gut.
 
-*Rapsöl CZ*. 4 Jahre drüber. Passt.
+*Mehl* von *Mühlengold*. Abgelaufen 05.2017. Gegessen am 22. Februar 2021. Akzeptabel.
 
-*Sahne* von *Incopack NV*. Abgelaufen 2013. Gegessen am 21. November 2019. Unerwartet frisch.
+*5-Korn Müsli Schoko Kakaonibs*. Abgelaufen 05.2016. Gegessen am 26. Oktober 2023. Besser als erwartet.
 
-*Bio-Schoko Reiswaffeln Minis mit Vollmilchschokolade* von *Ener Bio*. Abgelaufen 2006. Gegessen am 10. November 2022. Geht runter.
+*Weizenkleie grob*. 11 Jahre drüber. Stabil.
 
 ---
 
-*Gewürzgurken*. Abgelaufen 2012. Gegessen am 6. September 2024. Hätte schlimmer sein können.
+*Wurst* von *Wiltmann*. Abgelaufen 2008. Gegessen am 21. Januar 2019. Rund.
 
-*Schinken* von *Gut & Günstig*. Abgelaufen 2014. Gegessen am 11. April 2020. Okay.
+*Bio-Sonnenblume natives Öl* von *Ölmühle Oberschwaben*. Abgelaufen 2010. Gegessen am 17. März 2012. Mild.
 
-*Aufstrich*. Abgelaufen 2007. Gegessen am 8. März 2015. Tut's noch.
+*Aufstrich* von *Lidl Kania*. Abgelaufen 2009. Gegessen am 3. Dezember 2018. Weich.
 
-*Giotto Momenti inspiriert von Zimtstern*. 2 Jahre drüber. Genießbar.
+*Gourmet Fruchtjoghurt*. Abgelaufen 2013. Gegessen am 8. März 2019. Hätte schlimmer sein können.
 
-*Kekse* von *HaferHerz*. Abgelaufen 2014. Gegessen am 3. Mai 2017. Subtil.
+*Halbfett-Butter*. 10 Jahre drüber. Kein Problem.
 
 ---
 
-*Bio-Datteln, Bio Deglet Nour* von *Morgenland*. Abgelaufen 11.2015. Gegessen am 6. März 2021. Sättigt.
+*Grillsenf*. 12 Jahre drüber. Würde wieder.
 
-*Röst Gemüse Vier Jahreszeiten* von *iglo*. Abgelaufen 11.2015. Gegessen am 22. April 2020. Gut.
+*Müller Milch Reis Erdbeere*. Abgelaufen 11.2018. Gegessen am 10. März 2021. Wie erwartet.
 
-*Vegetarischer Gemuese-Eintopf*. Abgelaufen 2007. Gegessen am 10. Oktober 2017. Hat noch.
+*Frucht-Kugeln, Feige - Dattel - Cashew* von *Seeberger*. Abgelaufen 07.2018. Gegessen am 19. September 2021. Vollständig.
 
-*Paprika, edelsüß*. 3 Jahre drüber. Unauffällig.
+*Bio-Tomaten Salsa alla pizzaiola bio* von *Coop Naturaplan*. Abgelaufen 12.2020. Gegessen am 10. Januar 2024. Passt.
 
-*Bio-Dinkel Stollenstückchen* von *Bohlsener Mühle*. Abgelaufen 2009. Gegessen am 14. Mai 2012. Frisch genug.
+*Wurst* von *Gourmet Finest Cuisine*. Abgelaufen 2006. Gegessen am 18. Juli 2016. Rand verfärbt.
 
 ---
 
-*BIO Curryblätter* von *pikantum*. Abgelaufen 02.2023. Gegessen am 17. September 2025. Genügend.
+*Gebratene Nudeln - Thailändische Art*. Abgelaufen 05.2019. Gegessen am 19. Juni 2021. Gut.
 
-*Nudeln*. Abgelaufen 02.2015. Gegessen am 13. Juni 2023. Perfekt.
+*Puddingpulver Schokolade 2er-Pack*. 10 Jahre drüber. Bewährt.
 
-*Reibekäse leight*. 3 Jahre drüber. Zufriedenstellend.
+*Bio-Exquisit Dunkle Kakao-Creme* von *Eingenmarke Kaufland*. Abgelaufen 2014. Gegessen am 22. November 2016. Essbar.
 
-*Kartoffeltaschen Spinat & Mozzarella*. Abgelaufen 09.2022. Gegessen am 21. September 2025. Macht was es soll.
+*Käse* von *Gutes Land*. Abgelaufen 2013. Gegessen am 4. Juni 2019. Hält ewig.
 
-*Marokkanische Salzzitronen* von *Saliamo*. Abgelaufen 2006. Gegessen am 25. Mai 2013. Unbedenklich.
+*Porridge Schoko-Kakaonibs*. Abgelaufen 10.2016. Gegessen am 7. November 2022. Zart.
 
 ---
 
-*Bio Mini-Maiswaffeln - Popcorn* von *Gut bio*. Abgelaufen 12.2018. Gegessen am 1. Juli 2024. Stimmig.
+*Petersilie gerebelt*. 13 Jahre drüber. Schmeckt noch.
 
-*Kartoffelchips* von *Lorenz*. Abgelaufen 02.2018. Gegessen am 18. Januar 2025. Vollständig.
+*Nudeln* von *Jeden Tag*. Abgelaufen 12.2019. Gegessen am 2. Mai 2025. Vertretbar.
 
-*Bonbons*. Abgelaufen 04.2017. Gegessen am 24. Februar 2024. Kein Problem.
+*Bio-Bissfest Udon Nudeln* von *Reishunger*. Abgelaufen 2012. Gegessen am 19. März 2018. Besser als gedacht.
 
-*Steinofen Pizza Hawaii*. 12 Jahre drüber. Besser als erwartet.
+*Instantnudeln* von *NONGSHIM*. Abgelaufen 2007. Gegessen am 20. Januar 2017. Kein Grund zur Klage.
 
-*Eis*. Abgelaufen 07.2019. Gegessen am 17. Juli 2022. Farbe verändert.
+*Dandesan*. Abgelaufen 06.2019. Gegessen am 26. Juli 2022. Einwandfrei.
 
 ---
 
-*Geflügel-Wiener Würstchen*. 3 Jahre drüber. Essbar.
+*Gnocchi Klassik*. 4 Jahre drüber. Fein.
 
-*Vegane Gulaschsuppe* von *Felix*. Abgelaufen 05.2020. Gegessen am 14. Dezember 2025. Befriedigend.
+*Ja Sahne Pudding*. Abgelaufen 09.2021. Gegessen am 3. September 2025. Macht was es soll.
 
-*Brot* von *Jaus*. Abgelaufen 2010. Gegessen am 28. Mai 2018. Einwandfrei.
+*Kartoffel Püree das Komplette*. Abgelaufen 02.2015. Gegessen am 14. Februar 2019. Okay.
 
-*Kekse*. Abgelaufen 2010. Gegessen am 7. März 2025. Klassiker.
+*Bio chia samen* von *Natur pur*. Abgelaufen 06.2021. Gegessen am 27. Mai 2025. Erwartungsgemäß.
 
-*Der große Bauer XL Banane*. 4 Jahre drüber. Geht.
+*Schwedische Kesselchips Meersalz* von *Sun Snacks*. Abgelaufen 11.2015. Gegessen am 2. November 2022. Noch gut.
 
 ---
 
-*Pasta - Maccheroni kurz N° 44*. 3 Jahre drüber. Wie erwartet.
+*Hörnli Extra Gross*. Abgelaufen 06.2018. Gegessen am 25. Januar 2023. Wie frisch.
 
-*Bio Baumnüsse* von *Coop*. Abgelaufen 03.2022. Gegessen am 16. Juni 2024. In Ordnung.
+*Go Regio Elstar, Äpfel*. 12 Jahre drüber. Problemlos.
 
-*Himbeer Konfitüre / Mühlh.* von *Mühlhäuser*. Abgelaufen 2012. Gegessen am 8. Oktober 2023. Okay.
+*Kirschen, süss*. 11 Jahre drüber. In Ordnung.
 
-*Delikatess Gemüse Brühe*. Abgelaufen 2013. Gegessen am 18. Juni 2019. Exemplarisch.
+*Bio-Petersilie, tiefgefroren* von *Rewe*. Abgelaufen 2007. Gegessen am 12. Februar 2021. Genießbar.
 
-*Langnese Bee Easy Obst-blütenhonig*. 2 Jahre drüber. Makellos.
+*Müsli* von *Ovomaltine*. Abgelaufen 12.2020. Gegessen am 16. April 2023. Geht runter.
 
 ---
 
-*Ga-Jol Salzlakritz zuckerfrei* von *A/S Galle & Jessen*. Abgelaufen 2011. Gegessen am 7. August 2025. Problemlos.
+*Hühnersuppe mit fideli*. Abgelaufen 03.2023. Gegessen am 5. März 2025. Sanft.
 
-*Dreikorn-Flocken* von *Kutmühle*. Abgelaufen 2006. Gegessen am 11. März 2018. Intakt.
+*Hustenbonbon Mischung*. 13 Jahre drüber. Hat noch.
 
-*Wurst*. Abgelaufen 05.2022. Gegessen am 27. März 2025. Aroma da.
+*Fruchtjoghurt* von *Milsani*. Abgelaufen 2009. Gegessen am 4. Juni 2015. Unauffällig.
 
-*Dinkel Fadennudeln*. 5 Jahre drüber. Akzeptabel.
+*Bio-Mini-Falafel* von *Soto*. Abgelaufen 08.2015. Gegessen am 26. Oktober 2022. Brauchbar.
 
-*Nudeln* von *Bürger*. Abgelaufen 2011. Gegessen am 5. Januar 2024. Nichts auszusetzen.
+*Hirseflocken*. Abgelaufen 10.2021. Gegessen am 2. März 2024. Nicht schlecht.
 
 ---
 
-*Nudelsoße*. Abgelaufen 2014. Gegessen am 26. Juli 2019. Passt.
+*Aufstrich* von *Vitaquell*. Abgelaufen 01.2023. Gegessen am 5. Oktober 2025. Subtil.
 
-*Speisezwiebeln, Rot* von *Rewe Regional*. Abgelaufen 2012. Gegessen am 26. Mai 2019. Schmeckt noch.
+*Pflanzliche Scheiben*. Abgelaufen 09.2018. Gegessen am 10. April 2025. Heller geworden.
 
-*Gummibärchen* von *Storck / nimm2*. Abgelaufen 05.2018. Gegessen am 15. März 2025. Hinnehmbar.
+*Gourmet Muscheln in Tomatensauce*. 17 Jahre drüber. Akzeptabel.
 
-*Einhorn bits* von *Lidl*. Abgelaufen 11.2019. Gegessen am 18. August 2024. Überraschend gut.
+*Müsli* von *Seitenbacher*. Abgelaufen 12.2023. Gegessen am 1. Dezember 2025. Hinnehmbar.
 
-*E/Blätterteig* von *EDEKA*. Abgelaufen 11.2020. Gegessen am 9. September 2024. Robust.
+*Nudeln* von *Bamboo Garden*. Abgelaufen 2010. Gegessen am 24. Mai 2016. Gut.
 
 ---
 
-*Baumkuchenspitzen Weiss* von *Aldi*. Abgelaufen 2007. Gegessen am 1. Juli 2022. Echt.
+*Brotkörbchen Pumpernickel Roggenvollkornbrot*. Abgelaufen 2008. Gegessen am 13. Juli 2016. Wie erwartet.
 
-*Griessklößchen* von *Bürger*. Abgelaufen 2008. Gegessen am 28. April 2013. Denkbar.
+*Seitan Würstchen Classico*. 3 Jahre drüber. Stabil.
 
-*Couscous gigante alla Libanese* von *Gourmet Finest Cuisine*. Abgelaufen 05.2017. Gegessen am 9. Dezember 2024. Zart.
+*Wurst* von *Dulano*. Abgelaufen 06.2016. Gegessen am 10. September 2022. Funktioniert.
 
-*Eis* von *Langnese*. Abgelaufen 2014. Gegessen am 13. Juni 2019. Vertretbar.
+*Aufstrich* von *Menken*. Abgelaufen 2009. Gegessen am 27. September 2017. Konzentrierter.
 
-*Knorr Zigeunersauce*. 6 Jahre drüber. Gut.
+*Hähnchen Salat*. 2 Jahre drüber. Möglich.
 
 ---
 
-*Brot* von *Meggle*. Abgelaufen 2013. Gegessen am 26. Juli 2016. Besser als erwartet.
+*Müsli crunchy Heidelbeere* von *Crownfield*. Abgelaufen 01.2016. Gegessen am 19. März 2023. Kein Problem.
 
-*Omas Nudelsalat* von *Kühlmann*. Abgelaufen 2009. Gegessen am 7. August 2024. Nicht schlecht.
+*Bio-Quinoa dreierlei Mischung OFFEN* von *DmBio*. Abgelaufen 07.2023. Gegessen am 5. Oktober 2025. Bewährt.
 
-*Bio-Kinder Basis Müsli mit feinen Dinkelflakes* von *DmBio*. Abgelaufen 2007. Gegessen am 21. Juni 2016. Ohne Befund.
+*Bio Emmentaler Käse*. Abgelaufen 03.2021. Gegessen am 12. Januar 2025. Ausreichend.
 
-*Rein Pflanzlich Vegane Lasagne* von *Food for Future*. Abgelaufen 2009. Gegessen am 10. August 2025. Kein Problem.
+*Milch-Jumbo-Riegel - Nuss-Nugat-Creme* von *Aldi*. Abgelaufen 2014. Gegessen am 16. Juli 2025. Befriedigend.
 
-*Haribo Waldgeister*. Abgelaufen 01.2022. Gegessen am 5. September 2025. Rein.
+*Rewe Bio Dinkel Eier Spätzle*. Abgelaufen 11.2016. Gegessen am 5. Juli 2023. Passt.
 
 ---
 
-*Meica Mini wini Geflügel*. 3 Jahre drüber. Würde wieder.
+*Zwiebelkuchen Elsässer Art*. 10 Jahre drüber. Klassiker.
 
-*Rahm-Gemüse Erbsen & Karotten*. 4 Jahre drüber. Typisch.
+*Meersalz mit Rosa Beeren & Rosenblätter*. 9 Jahre drüber. Einwandfrei.
 
-*Bio-BLISS BALLS Nuss-Nougat Füllung* von *DmBio*. Abgelaufen 09.2017. Gegessen am 12. Januar 2021. Tut's noch.
+*Chips* von *PepsiCo*. Abgelaufen 04.2016. Gegessen am 8. Dezember 2020. Noch Biss.
 
-*Kichererbsen* von *Suntat*. Abgelaufen 2007. Gegessen am 17. August 2019. Stimmig.
+*Aufstrich* von *Gutes Land*. Abgelaufen 2014. Gegessen am 2. Juli 2021. Perfekt.
 
-*Tomatensoße*. Abgelaufen 06.2016. Gegessen am 5. Februar 2021. Tadellos.
+*Crème brûlée mit Karamellzucker* von *Best Moments*. Abgelaufen 06.2015. Gegessen am 19. April 2023. Annehmbar.
 
 ---
 
-*Frühlingsrollen Yellow Curry*. 5 Jahre drüber. Noch gut.
+*Vegane Wiener Würstchen* von *Veggy Friends*. Abgelaufen 03.2021. Gegessen am 1. April 2024. Ohne Befund.
 
-*Schokoadenlolly aus Vollmilchschokolade* von *Gut & Günstig*. Abgelaufen 2014. Gegessen am 1. Januar 2025. Zeitlos.
+*Genießer-Salami - Klassik*. 2 Jahre drüber. Schmeckt noch.
 
-*Bio-Meer-Salz mit jodhaltigen Algen* von *Rapunzel*. Abgelaufen 10.2021. Gegessen am 12. April 2024. Einwandfrei.
+*Bayerischer Weißkrautsalat* von *Hochholzer*. Abgelaufen 09.2022. Gegessen am 23. Juni 2025. Unbedenklich.
 
-*Brot Chips Paprika & Chili* von *Sommer*. Abgelaufen 2014. Gegessen am 25. Januar 2020. Unbedenklich.
+*Käse-Würstchen* von *Kaufland*. Abgelaufen 04.2016. Gegessen am 4. Januar 2022. Schön gereift.
 
-*Brot*. Abgelaufen 2009. Gegessen am 4. November 2024. Essbar.
+*Bio-Kürbiskerne in zartbitter* von *EnerBio*. Abgelaufen 2010. Gegessen am 4. Juli 2016. Besser als erwartet.
 
 ---
 
-*Eis auf Kokosnussmilchbasis*. 6 Jahre drüber. Sättigt.
+*Kichererbsen Couscous* von *Alnatura*. Abgelaufen 01.2021. Gegessen am 16. Juli 2024. Unverwüstlich.
 
-*Zitronengras* von *Trader Joe's*. Abgelaufen 2013. Gegessen am 16. März 2017. Neutral.
+*Apfel-Schnüre*. Abgelaufen 2009. Gegessen am 6. März 2013. Echt.
 
-*Obst* von *Markt Tag*. Abgelaufen 12.2018. Gegessen am 7. Juni 2024. Befriedigend.
+*Piroggen Kartoffel-Quark-Füllung*. 4 Jahre drüber. Genügend.
 
-*Schoko Erdnuss Berge* von *Meienburg*. Abgelaufen 06.2023. Gegessen am 6. August 2025. Machbar.
+*Bio-Hafer Riegel Mandel & Haselnuss* von *Alnatura*. Abgelaufen 2012. Gegessen am 24. April 2025. Mild.
 
-*Gemüse*. Abgelaufen 03.2020. Gegessen am 13. November 2022. Akzeptabel.
+*Apfelscheiben ungeschwefelt* von *Jenne Mühle*. Abgelaufen 2011. Gegessen am 26. Februar 2022. Überraschend gut.
 
 ---
 
-*Bonbons* von *Schogetten*. Abgelaufen 12.2018. Gegessen am 28. Dezember 2021. Lässt sich essen.
+*PUR Apfelmus*. Abgelaufen 2011. Gegessen am 19. Dezember 2021. Okay.
 
-*Bio-Echte Bourbon Vanille* von *Nicol Gärtner*. Abgelaufen 10.2016. Gegessen am 15. April 2023. Fast wie neu.
+*Zimtsterne*. 5 Jahre drüber. Würde wieder.
 
-*Eier plätzchen*. Abgelaufen 02.2015. Gegessen am 9. November 2025. Schmeckt noch.
+*Schwedisches Hafergebäck* von *Covo*. Abgelaufen 12.2021. Gegessen am 28. November 2025. Brauchbar.
 
-*Salatfreunde Farmersalat*. 9 Jahre drüber. In Ordnung.
+*Nigari Tofu geräuchert*. 7 Jahre drüber. Nicht schlecht.
 
-*Joghurtkräuter* von *Lebensbaum*. Abgelaufen 09.2015. Gegessen am 6. April 2020. Hat noch.
+*Bio-Bioländer Schnittkäse* von *Andechser Natur*. Abgelaufen 09.2021. Gegessen am 12. September 2024. Riecht interessant.
 
 ---
 
-*Bonbons*. Abgelaufen 01.2018. Gegessen am 2. Dezember 2022. Geht.
+*Penne-gemüse-mix* von *K-Classic*. Abgelaufen 09.2015. Gegessen am 6. August 2018. Angenehm.
 
-*Bananen Mehl*. 6 Jahre drüber. Gut.
+*Erdbeer Gelee*. Abgelaufen 2014. Gegessen am 5. April 2023. Gut.
 
-*Sauerkraut mit Seitan* von *Aldi*. Abgelaufen 10.2015. Gegessen am 13. März 2025. Zart.
+*Schokokuchen Backmischung*. 2 Jahre drüber. In Ordnung.
 
-*Veganer Schinken Spicker Bunte Paprika* von *Rügenwalder Mühle*. Abgelaufen 2011. Gegessen am 16. Oktober 2014. Ausgewogen.
+*Soße* von *Thai Pride*. Abgelaufen 2012. Gegessen am 10. Juli 2017. Ausreichend.
 
-*Buchweizengrütze mittel* von *Hofgut*. Abgelaufen 2010. Gegessen am 9. Juni 2025. Funktioniert.
+*Klare Suppe gefroren*. 7 Jahre drüber. Rund.
 
 ---
 
-*Bio-Salamissimo* von *Wiltmann*. Abgelaufen 06.2016. Gegessen am 10. September 2020. Rand verfärbt.
+*Bio 3-Korn Getreidebrei* von *Babydream*. Abgelaufen 04.2020. Gegessen am 27. Januar 2025. Akzeptabel.
 
-*Pizza Oktoberfest* von *Netto*. Abgelaufen 2011. Gegessen am 14. Dezember 2020. Problemlos.
+*Wurst* von *mago*. Abgelaufen 2012. Gegessen am 13. Oktober 2019. Tolerierbar.
 
-*Essig*. Abgelaufen 2007. Gegessen am 20. November 2025. Annehmbar.
+*K-take it Veggie Bio Tofu Geschnetzeltes*. Abgelaufen 03.2015. Gegessen am 20. September 2018. Stabil.
 
-*Kalifornische Mandeln blanchiert & geröstet*. 7 Jahre drüber. Kein Problem.
+*Freche Freunde Feine Karotte*. 7 Jahre drüber. Geschmack erhalten.
 
-*Kuchen* von *Favorina*. Abgelaufen 10.2019. Gegessen am 3. Juli 2024. Exemplarisch.
+*Suppe* von *Lidl Kania*. Abgelaufen 03.2022. Gegessen am 7. November 2025. Konsistenz anders.
 
 ---
 
-*Pilz-Plätzli*. Abgelaufen 2007. Gegessen am 18. August 2013. Unerwartet frisch.
+*Bio-Yuvals Tahina* von *Königsteinmühle*. Abgelaufen 07.2021. Gegessen am 23. Juni 2024. Einwandfrei.
 
-*Fisch* von *iglo*. Abgelaufen 2011. Gegessen am 27. April 2021. Solide.
+*Schweinefleisch* von *Dulano*. Abgelaufen 02.2019. Gegessen am 24. März 2021. Intakt.
 
-*Frischkäsezubereitung mit Lauch* von *Rewe eigene Herstellung*. Abgelaufen 12.2018. Gegessen am 15. Juli 2023. Okay.
+*Hirtenkäsewürfel*. Abgelaufen 01.2016. Gegessen am 18. Januar 2019. Frisch genug.
 
-*Trockenpflaumen entsteint*. Abgelaufen 2010. Gegessen am 25. April 2023. Macht was es soll.
+*Tomaten stückig*. 7 Jahre drüber. Besser als gedacht.
 
-*Softe Honigkugeln* von *Deluxe*. Abgelaufen 2012. Gegessen am 7. September 2020. Bewährt.
+*Brötchen* von *T. D. Global Food*. Abgelaufen 03.2017. Gegessen am 12. April 2019. Unerwartet frisch.
 
 ---
 
-*Mini Pizza Schinken* von *Mondo Italiano*. Abgelaufen 01.2022. Gegessen am 25. April 2025. Besser als erwartet.
+*Vegane Crunchy Schnitzel* von *Plan B*. Abgelaufen 2013. Gegessen am 19. August 2017. Wie erwartet.
 
-*Bio-Quinoa Kugeln* von *Bio DM*. Abgelaufen 04.2017. Gegessen am 10. Mai 2019. Mild.
+*Wildpreiselbeeren Vanillegeschmack* von *Gourmet Finest Cuisine*. Abgelaufen 2009. Gegessen am 22. Dezember 2014. Besser als erwartet.
 
-*Eier* von *S-Budget*. Abgelaufen 2007. Gegessen am 11. März 2015. Brauchbar.
+*Bio-Tassenkuchen Stracciatella* von *DmBio*. Abgelaufen 02.2018. Gegessen am 2. Mai 2024. Kein Problem.
 
-*Schokolade*. Abgelaufen 09.2022. Gegessen am 7. Oktober 2024. Nicht schlecht.
+*Kürbiskerne grün* von *Meienburg*. Abgelaufen 04.2015. Gegessen am 4. März 2020. Essbar.
 
-*Schokohase Vollmilch*. 7 Jahre drüber. Vertretbar.
+*Teigwaren, Chinesen-Nudeln*. Abgelaufen 11.2023. Gegessen am 9. November 2025. Optisch verändert.
 
 ---
 
-*Pure Chia Saat* von *Body and Fit*. Abgelaufen 2006. Gegessen am 10. Januar 2023. Ausreichend.
+*Fruchtaufstrich Himbeer*. 13 Jahre drüber. Aroma vorhanden.
 
-*Bio-Freche Freunde Knusper-Flips Mais&Karotte* von *erdbär*. Abgelaufen 10.2016. Gegessen am 21. August 2024. Einwandfrei.
+*Leicht halbfett Margarine* von *Landkost*. Abgelaufen 03.2015. Gegessen am 10. August 2023. Vorbildlich.
 
-*Lasagne Rind* von *Italiamo*. Abgelaufen 2012. Gegessen am 4. August 2016. Sanft.
+*Aufstrich* von *Friedrich Göbber GmbH*. Abgelaufen 2014. Gegessen am 9. August 2019. Hätte schlimmer sein können.
 
-*Sandwich Käse & Rucola Creme*. Abgelaufen 12.2019. Gegessen am 20. April 2022. Besser als gedacht.
+*Bio-Koffein schoko riegel* von *Koawach*. Abgelaufen 04.2022. Gegessen am 1. Mai 2024. Neutral.
 
-*Crème Brûlée-Törtchen*. 2 Jahre drüber. Noch Jahre gut.
+*SCHOKOLETTO Schokoflockenkuchen mit Glasur* von *Ruf*. Abgelaufen 2006. Gegessen am 23. Februar 2020. Weich geworden.
 
 ---
 
-*Junge Möhrchen* von *K Classic*. Abgelaufen 08.2022. Gegessen am 20. Dezember 2024. Akzeptabel.
+*Winter Kracher Paprika*. Abgelaufen 2010. Gegessen am 24. April 2017. Zuverlässig.
 
-*Tortelloni tiefgefroren* von *Mondo Italiano*. Abgelaufen 2009. Gegessen am 22. August 2015. Typisch.
+*Laktosefrei eiskrem zartbitter*. 3 Jahre drüber. Solide.
 
-*Eis* von *Rewe frei von*. Abgelaufen 05.2021. Gegessen am 7. Dezember 2025. Subtil.
+*Vanille Molke Riegel*. Abgelaufen 2008. Gegessen am 11. September 2024. Ausgewogen.
 
-*Südtiroler Bauernsuppe*. 10 Jahre drüber. Zusammengewachsen.
+*Obst* von *Natur Pur*. Abgelaufen 11.2020. Gegessen am 12. März 2025. Tadellos.
 
-*Basmati Reis Traditionell* von *The House of Rice*. Abgelaufen 08.2017. Gegessen am 19. August 2019. Aroma da.
+*Fruchtgenuss Limited Edition Sunny orange*. 4 Jahre drüber. In Ordnung.
 
 ---
 
-*Roter Tortenguss fix gezuckert* von *Dr. Oetker*. Abgelaufen 2013. Gegessen am 21. Januar 2017. Zufriedenstellend.
+*Vollkornbrot feinkörnig*. Abgelaufen 2014. Gegessen am 22. November 2023. Geht runter.
 
-*Aufstrich* von *enerBio*. Abgelaufen 2007. Gegessen am 27. Dezember 2020. Schmeckt noch.
+*Thunfisch-Röllchen* von *Vitasia*. Abgelaufen 2013. Gegessen am 8. Juli 2024. Noch gut.
 
-*Erbsen Mini*. Abgelaufen 09.2021. Gegessen am 25. Februar 2024. Noch gut.
+*Rewe Bio Basmatireis weiß*. Abgelaufen 12.2019. Gegessen am 14. September 2022. Schmeckt noch.
 
-*Veganer Leverkäse-Aufschnitt - Pizza* von *My Vay*. Abgelaufen 12.2015. Gegessen am 14. Juni 2020. Intakt.
+*Geflügel-Fond* von *Feine Küche Jürgen Langbein*. Abgelaufen 2007. Gegessen am 20. Dezember 2012. Hat noch.
 
-*Mini Schoko Küsse* von *Edeka*. Abgelaufen 04.2015. Gegessen am 15. Mai 2020. Klassiker.
+*Nudeln* von *Betty Bossi*. Abgelaufen 04.2021. Gegessen am 13. August 2025. Wie frisch.
 
 ---
 
-*Fruchtgummi* von *Red Band*. Abgelaufen 04.2022. Gegessen am 28. Februar 2025. Würde wieder.
+*Bio-streichcreme, Paprika-chili* von *NaturGut*. Abgelaufen 05.2018. Gegessen am 25. November 2020. Funktioniert.
 
-*Schokolade*. Abgelaufen 12.2020. Gegessen am 28. Mai 2024. Nichts auszusetzen.
+*Bio Schalotten* von *Prince de Bretagne*. Abgelaufen 11.2016. Gegessen am 8. November 2021. Passt.
 
-*Chia-Samen*. Abgelaufen 2012. Gegessen am 14. Juni 2021. Konsistenz anders.
+*Hummus mit Schwartzkümmel*. Abgelaufen 04.2020. Gegessen am 1. August 2025. Annehmbar.
 
-*Riesen-Bohnen* von *Real*. Abgelaufen 2010. Gegessen am 13. März 2023. Problemlos.
+*Hardegger Fondue L'original*. 2 Jahre drüber. Gut.
 
-*Bio-Dinkel gepufft mit Honig gesüßt* von *Naturgut*. Abgelaufen 10.2018. Gegessen am 9. April 2022. Echt.
+*Corn Dog Teigmischung* von *Kania*. Abgelaufen 2008. Gegessen am 18. Oktober 2013. Unbedenklich.
 
 ---
 
-*Obst* von *Clever*. Abgelaufen 2014. Gegessen am 24. März 2024. Heller geworden.
+*Hausmacher Gulasch* von *simon-fleisch*. Abgelaufen 08.2018. Gegessen am 21. Juni 2023. Zeitlos.
 
-*Gewürzgurken*. Abgelaufen 08.2017. Gegessen am 2. März 2025. In Ordnung.
+*Ritter Sport - Smarties in Weisser Schokolade*. 4 Jahre drüber. Befriedigend.
 
-*Sticks Salzstangen*. 12 Jahre drüber. Konstant.
+*Reibekäse* von *Étoile D’Or*. Abgelaufen 02.2016. Gegessen am 15. Juli 2024. Nicht schlecht.
 
-*Linsen*. Abgelaufen 2012. Gegessen am 14. Juli 2025. Hat noch.
+*Frischkäse Schinken Snack*. 3 Jahre drüber. Stabil.
 
-*Bio-Ananasringe im eigenen Saft* von *Dennree*. Abgelaufen 04.2020. Gegessen am 28. Mai 2025. Mild.
+*Wurst* von *Dulano*. Abgelaufen 01.2021. Gegessen am 17. April 2024. Tolerierbar.
 
 ---
 
-*Joghurt* von *Mövenpick*. Abgelaufen 06.2023. Gegessen am 8. September 2025. Kein Problem.
+*Bio-Freche freunde* von *erdbär GmbH*. Abgelaufen 2010. Gegessen am 24. November 2024. Kein Problem.
 
-*Original griechischer Sahnejoghurt*. Abgelaufen 2012. Gegessen am 8. Dezember 2018. Vorstellbar.
+*Gehackte Tomaten Basilikum* von *K-Bio*. Abgelaufen 2013. Gegessen am 13. Juli 2020. Unversehrt.
 
-*Dinkel-Schneckerl Nudeln*. 13 Jahre drüber. Ohne Befund.
+*Tomaten stückig - Bio*. Abgelaufen 11.2020. Gegessen am 22. August 2025. Sättigt.
 
-*Veganer Aufschnitt Nach Lyoner Art Mit Grillgemüse* von *Edeka*. Abgelaufen 2012. Gegessen am 7. Juni 2024. Passt.
+*Weisse Schokoladenkuvertüre*. 9 Jahre drüber. Knackt noch.
 
-*Fisch*. Abgelaufen 2011. Gegessen am 21. Oktober 2014. Einwandfrei.
+*Sojasauce gf* von *Pearl River Bridge*. Abgelaufen 09.2017. Gegessen am 10. März 2021. Einwandfrei.
 
 ---
 
-*Joghurt*. Abgelaufen 2014. Gegessen am 23. August 2018. Bewährt.
+*Konditorwaffeln*. Abgelaufen 2014. Gegessen am 10. Juli 2019. Kein Grund zur Klage.
 
-*Salz-Dill-Gurken Original Spreewälder* von *Spreewald Feldmann*. Abgelaufen 07.2021. Gegessen am 11. November 2025. Unerwartet frisch.
+*Casarecce Nudeln*. Abgelaufen 2006. Gegessen am 16. Oktober 2016. Harmonisch.
 
-*Löwentaler gerieben* von *Unsere Heimat*. Abgelaufen 10.2023. Gegessen am 13. Oktober 2025. Unbedenklich.
+*Heumilch Käse herzhaft*. Abgelaufen 11.2016. Gegessen am 20. Juli 2024. Intensiver geworden.
 
-*VEGAN Fleischsalat* von *Kühlmann*. Abgelaufen 2007. Gegessen am 24. März 2018. Frisch genug.
+*Eis* von *Mucci*. Abgelaufen 2012. Gegessen am 17. September 2014. Akzeptabel.
 
-*Balkan Käse* von *REWE*. Abgelaufen 10.2017. Gegessen am 14. August 2025. Besser als erwartet.
+*Weiße Schokolade* von *Schogetten*. Abgelaufen 2013. Gegessen am 17. Dezember 2022. Besser als erwartet.
 
 ---
 
-*Black Shine mit Aktivkohle* von *Dontodent*. Abgelaufen 06.2023. Gegessen am 11. Dezember 2025. Okay.
+*Salami-Sticks Pikant*. Abgelaufen 2008. Gegessen am 28. Mai 2012. Keine Beanstandung.
 
-*Vollkorn Und Wildreis* von *Rewe*. Abgelaufen 2007. Gegessen am 28. Januar 2020. Perfekt.
+*Bio-Vollkorn Sprialen* von *BioTropic GmbH*. Abgelaufen 04.2017. Gegessen am 18. März 2021. Rein.
 
-*Bio-Waldbeere Konfitüre* von *Ener Bio*. Abgelaufen 2013. Gegessen am 6. Juni 2021. Dezent.
+*Sahne* von *Gutes Land*. Abgelaufen 10.2018. Gegessen am 5. Oktober 2024. Optisch verändert.
 
-*Vegane Geniesserscheiben - Würzig* von *Take IT veggie*. Abgelaufen 2008. Gegessen am 13. Oktober 2019. Vertretbar.
+*Minis mit Kümmel*. Abgelaufen 08.2022. Gegessen am 24. Dezember 2025. Noch gut.
 
-*Schokocreme*. Abgelaufen 05.2017. Gegessen am 19. Mai 2023. Gut.
+*Feine Vanille-Kipferl Dinkelmehl*. 10 Jahre drüber. Frisch genug.
 
 ---
 
-*Rum-krokant*. 8 Jahre drüber. Noch gut.
+*Vollmilch-Schokolade Crispies*. Abgelaufen 05.2015. Gegessen am 12. Oktober 2024. Neutral.
 
-*Bio-Kokosöl desodoriert* von *mituso*. Abgelaufen 03.2020. Gegessen am 5. Juni 2023. Machbar.
+*Fisch* von *Rügen Juwel*. Abgelaufen 2011. Gegessen am 4. September 2019. Bewährt.
 
-*Schokocreme* von *Schwartau*. Abgelaufen 2014. Gegessen am 8. September 2018. Tut's noch.
+*Blechkuchen - Bienenstich* von *B+F Bakery & Food*. Abgelaufen 08.2018. Gegessen am 18. April 2022. Funktioniert.
 
-*Fleischsalat pikant*. Abgelaufen 02.2023. Gegessen am 19. Juli 2025. Intakt.
+*Popchips Paprika* von *Kelly’s*. Abgelaufen 08.2022. Gegessen am 5. Dezember 2024. Klassiker.
 
-*Kaugummi Xylit-Pro - Spearmint*. 4 Jahre drüber. Essbar.
+*Fix Salatdressing Dill-Kräuter* von *Norma*. Abgelaufen 2011. Gegessen am 24. November 2015. Subtil.
 
 ---
 
-*Lindor weiß*. Abgelaufen 2013. Gegessen am 28. Mai 2024. Besser als gedacht.
+*Baumkuchen - Zartbitter* von *Netto MD*. Abgelaufen 2007. Gegessen am 3. Mai 2010. Vollständig.
 
-*Käse*. Abgelaufen 2009. Gegessen am 28. Dezember 2021. Konsistenz anders.
+*Honigcreme*. 4 Jahre drüber. Sanft.
 
-*Bio-Gebrannte Mandel Aufstrich* von *Eisblümerl Naturkost*. Abgelaufen 01.2022. Gegessen am 8. Januar 2024. Sauber.
+*The Wonder - Vegane Flammenspieße hot*. Abgelaufen 10.2016. Gegessen am 11. November 2018. Wie erwartet.
 
-*Tomatensoße* von *Knorr*. Abgelaufen 04.2021. Gegessen am 1. Dezember 2024. Genießbar.
+*Wurst* von *Ponnath*. Abgelaufen 2006. Gegessen am 8. April 2009. Essbar.
 
-*Brot*. Abgelaufen 2014. Gegessen am 8. Juli 2021. Tolerierbar.
+*Kekse* von *Loacker*. Abgelaufen 2008. Gegessen am 5. Februar 2019. Brauchbar.
 
 ---
 
-*Holzkiste mit 45 Golddublonen*. 5 Jahre drüber. Wie erwartet.
+*Fackelbrot Chicken Teriyaki* von *Bard*. Abgelaufen 2013. Gegessen am 24. Dezember 2016. Überraschend gut.
 
-*Nudeln* von *Alb Gold Teigwaren GmbH*. Abgelaufen 08.2017. Gegessen am 28. Juli 2022. In Ordnung.
+*Schmelzscheiben - Toast* von *Hofburger*. Abgelaufen 2009. Gegessen am 13. August 2019. Okay.
 
-*Champignons Weiß* von *Lidl*. Abgelaufen 2010. Gegessen am 9. Oktober 2023. Akzeptabel.
+*Kichererbsen in gesalzenem Wasser* von *Real*. Abgelaufen 2010. Gegessen am 5. September 2016. Unauffällig.
 
-*Pommes Duchesse* von *Migros*. Abgelaufen 11.2015. Gegessen am 10. Juli 2022. Hat noch.
+*Gold fischli Sesam*. 7 Jahre drüber. Vertretbar.
 
-*Knedle* von *Jawo*. Abgelaufen 2008. Gegessen am 3. März 2024. Geht.
+*6 gekochte bunte Eier*. Abgelaufen 2012. Gegessen am 14. April 2022. In Ordnung.
 
 ---
 
-*Holzofenpizza Milanese* von *Aldi*. Abgelaufen 12.2022. Gegessen am 10. Dezember 2024. Kein Problem.
+*Aprikosen getrocknet, ungeschwefelt* von *Minderleinsmühle*. Abgelaufen 08.2021. Gegessen am 26. Juni 2025. Zuverlässig.
 
-*Hot dog würstchen* von *K-Classic*. Abgelaufen 09.2021. Gegessen am 5. Juni 2025. Macht was es soll.
+*Aufstrich* von *Gut & Günstig*. Abgelaufen 09.2022. Gegessen am 16. Juni 2025. Konstant.
 
-*Fleischmürbsalz* von *Kotanyi*. Abgelaufen 12.2022. Gegessen am 13. Dezember 2024. Kann man machen.
+*Kokos-Schnitte - Schoko*. Abgelaufen 09.2015. Gegessen am 4. Oktober 2019. Dezent.
 
-*Bio-Gebackenes Hafermüsli mit zartbitterschokolade* von *Turtle*. Abgelaufen 03.2016. Gegessen am 18. August 2023. Nicht schlecht.
+*Gewürzgurken* von *Beste Ernte*. Abgelaufen 2009. Gegessen am 24. Januar 2025. Möglich.
 
-*Wurst* von *Gut & Günstig*. Abgelaufen 2013. Gegessen am 25. Januar 2018. Einwandfrei.
+*Veganer Aufschnitt nach Salami-Art* von *Veggie Friends*. Abgelaufen 07.2019. Gegessen am 6. Januar 2024. Einwandfrei.
 
 ---
 
-*Dessert Vanillegeschmack aus Soja*. Abgelaufen 02.2015. Gegessen am 23. März 2019. Geht runter.
+*Schokolierte Salzbrezel* von *Alpenfeststyle*. Abgelaufen 09.2021. Gegessen am 5. Februar 2025. Zeitlos.
 
-*Farmer gourmet Delikatess Hinterkochschinken*. 2 Jahre drüber. Erwartungsgemäß.
+*Kräuter Oliven grün* von *Feinkost Dittmann*. Abgelaufen 2008. Gegessen am 13. Juni 2016. Original.
 
-*Aufstrich* von *Feinkost Popp*. Abgelaufen 04.2020. Gegessen am 25. Dezember 2023. Ohne Befund.
+*Paprika Reis Topf* von *Globus*. Abgelaufen 2006. Gegessen am 9. Oktober 2012. Gut.
 
-*Bonbons* von *Choceur*. Abgelaufen 04.2016. Gegessen am 11. Dezember 2021. Annehmbar.
+*Frühstücksbrei Kakao Banane*. Abgelaufen 03.2022. Gegessen am 26. Oktober 2025. Lässt sich essen.
 
-*Bio-Aufstrich Rote Beete Meerrettich* von *Biozentrale*. Abgelaufen 2006. Gegessen am 8. April 2015. Zart.
+*Bio-Müsli Früchte* von *Bio Sonne*. Abgelaufen 2014. Gegessen am 16. März 2023. Unbedenklich.
 
 ---
 
-*Peperoncini mit Käse gefüllt*. Abgelaufen 2011. Gegessen am 1. Januar 2024. Hinnehmbar.
+*Tagliatelles mit Lachs* von *Bofrost*. Abgelaufen 2009. Gegessen am 15. Juni 2022. Hätte schlimmer sein können.
 
-*Tomaten Cremesuppe vegetarisch* von *Ökoland*. Abgelaufen 12.2017. Gegessen am 16. Mai 2021. Konstant.
+*HOT DOG Brötchen*. Abgelaufen 2011. Gegessen am 13. Februar 2019. Ausgewogen.
 
-*Wurst*. Abgelaufen 2009. Gegessen am 16. September 2018. Besser als erwartet.
+*Emsländer Käsekuchen*. 2 Jahre drüber. Schmeckt noch.
 
-*Bio Fruchtjoghurt mild Himbeere-Holunderbeere*. 17 Jahre drüber. Noch gut.
+*Fleischwürze*. 5 Jahre drüber. Akzeptabel.
 
-*Weiße Schokolade* von *Chocola*. Abgelaufen 12.2018. Gegessen am 3. Oktober 2021. Unauffällig.
+*Delique Senf Fein Gemahlen Mittelscharf*. 9 Jahre drüber. Noch gut.
 
 ---
 
-*Kuchen* von *Mike Mitchell's*. Abgelaufen 07.2019. Gegessen am 12. August 2024. Nichts auszusetzen.
+*Knusper-Früchte getrockneter Apfel & Erdbeere* von *Tabaluga*. Abgelaufen 09.2020. Gegessen am 10. Juni 2024. Besser als erwartet.
 
-*Bio-Schwarzer Sesam* von *Arche*. Abgelaufen 09.2022. Gegessen am 26. Mai 2025. Unbedenklich.
+*Mais* von *SUPREMO*. Abgelaufen 2010. Gegessen am 9. Oktober 2021. Fein.
 
-*Marshmallows Früchte*. 3 Jahre drüber. Tut's noch.
+*Beerenmarmelade* von *Darbo*. Abgelaufen 2010. Gegessen am 1. August 2025. Hat noch.
 
-*Delikatess Mortadella Mit Pistazien* von *Edeka*. Abgelaufen 06.2022. Gegessen am 25. April 2025. Schmeckt noch.
+*Bio-Backmischung zimtschnecken* von *DmBio*. Abgelaufen 02.2015. Gegessen am 10. Januar 2019. Sauber.
 
-*Gewürzgurken*. Abgelaufen 02.2017. Gegessen am 27. Dezember 2024. Authentisch.
+*Kichererbsen* von *Eridanous*. Abgelaufen 2011. Gegessen am 20. Februar 2021. Schön knackig.
 
 ---
 
-*Paté de Oliva Empeltre*. 2 Jahre drüber. Erfüllt den Zweck.
+*Steinofenbrötchen rustikal*. Abgelaufen 02.2016. Gegessen am 8. August 2021. Unerwartet frisch.
 
-*Wunderland*. Abgelaufen 07.2016. Gegessen am 27. Februar 2019. Original.
+*Reiswaffeln Honig*. 12 Jahre drüber. Aroma vorhanden.
 
-*Schinken* von *Zimmermann*. Abgelaufen 08.2018. Gegessen am 3. Oktober 2025. Fleisch erkennbar.
+*Bio-Dinkel aus Deutschland* von *Bio Company*. Abgelaufen 02.2023. Gegessen am 6. Juli 2025. Vollständig.
 
-*Wurst* von *Landbeck*. Abgelaufen 2012. Gegessen am 21. September 2024. Weich.
+*Brot* von *Coop*. Abgelaufen 2007. Gegessen am 15. November 2015. Tadellos.
 
-*Kekse* von *Griesson*. Abgelaufen 2012. Gegessen am 11. Oktober 2022. Essbar.
+*Rapsöl Spray*. Abgelaufen 2006. Gegessen am 2. August 2023. Besser als gedacht.
 
 ---
 
-*Schokolade* von *Back Family*. Abgelaufen 2008. Gegessen am 6. März 2020. Besser als gedacht.
+*Kartoffel-Roggen-Krüstchen*. 5 Jahre drüber. Wie erwartet.
 
-*Karls Erdbeer Vollmich-Bonbons*. Abgelaufen 01.2019. Gegessen am 24. September 2025. Gut.
+*Nüsse* von *Alesto*. Abgelaufen 06.2020. Gegessen am 18. September 2022. Befriedigend.
 
-*Nürberger Elisenlebkuchen glasiert ohne Mehl* von *Georg Goess*. Abgelaufen 04.2015. Gegessen am 19. April 2020. Okay.
+*Bubble weisse Luftschokolade*. Abgelaufen 01.2018. Gegessen am 14. Dezember 2024. Kein Problem.
 
-*Obst* von *Interlazaro*. Abgelaufen 2008. Gegessen am 26. Dezember 2017. Würde wieder.
+*Wurst* von *Metzgerfrisch*. Abgelaufen 2014. Gegessen am 11. November 2019. Passt.
 
-*Bio-Apfelmus Mit Mango* von *Natur aktiv*. Abgelaufen 2010. Gegessen am 8. Dezember 2025. Hält ewig.
+*Aufstrich* von *Tat*. Abgelaufen 10.2019. Gegessen am 8. Dezember 2022. Machbar.
 
 ---
 
-*Gewürzgurken* von *Westhof Bio*. Abgelaufen 2013. Gegessen am 14. Juni 2016. Dezent.
+*Kultur Heidelbeeren Klasse I*. 3 Jahre drüber. Überraschend gut.
 
-*Fruchtjoghurt*. Abgelaufen 02.2020. Gegessen am 12. März 2024. Einwandfrei.
+*Runde braune Lebkuchen Zartbitterschokolade* von *Aachener Zucker und Backwaren Paul Schaeffer*. Abgelaufen 04.2019. Gegessen am 13. Januar 2025. Geht runter.
 
-*China Nudeln*. 3 Jahre drüber. Sauber.
+*Bio-Gyoza mit Rindfleisch* von *Viči*. Abgelaufen 12.2018. Gegessen am 24. Januar 2021. Einwandfrei.
 
-*Deutsche Honig*. Abgelaufen 2011. Gegessen am 3. September 2019. Vorstellbar.
+*Maoam Kracher Sommer Edition*. Abgelaufen 10.2018. Gegessen am 13. Juni 2021. In Ordnung.
 
-*Soße*. Abgelaufen 04.2021. Gegessen am 25. Oktober 2025. Frisch genug.
+*Pudding* von *Milbona*. Abgelaufen 2013. Gegessen am 20. April 2023. Gut.
 
 ---
 
-*Tomatensoße* von *Hela*. Abgelaufen 01.2017. Gegessen am 13. Juni 2020. Wie erwartet.
+*Saure Kirschen*. Abgelaufen 2008. Gegessen am 22. März 2017. Keine Beanstandung.
 
-*Käse* von *Kaufland Classic*. Abgelaufen 03.2021. Gegessen am 25. Juli 2025. Geschmack erhalten.
+*Spinatlasagne*. 3 Jahre drüber. Macht was es soll.
 
-*Bio Geflügelsalami* von *Wiltmann*. Abgelaufen 12.2015. Gegessen am 26. August 2019. Optisch verändert.
+*Butter Karamell Waffeln*. Abgelaufen 06.2016. Gegessen am 6. November 2025. Noch knusprig.
 
-*Bio-Sauerkraut aus Österreich* von *Natur aktiv*. Abgelaufen 2013. Gegessen am 4. Juni 2021. Reicht.
+*Aufstrich* von *Marhaba*. Abgelaufen 05.2015. Gegessen am 27. Mai 2021. Hinnehmbar.
 
-*Soße*. Abgelaufen 2012. Gegessen am 24. Januar 2023. Problemlos.
+*Knäckebrot glutenfrei* von *Roland*. Abgelaufen 04.2020. Gegessen am 22. Juni 2022. Intakt.
 
 ---
 
-*Apfel Braeburn*. 8 Jahre drüber. Akzeptabel.
+*Bio-Cache Bruch* von *Gepa*. Abgelaufen 10.2017. Gegessen am 11. September 2021. Unverwüstlich.
 
-*Südsee-Ingwer* von *Farmer's Snack*. Abgelaufen 03.2017. Gegessen am 8. Mai 2025. Überraschend gut.
+*Käse* von *Lidl*. Abgelaufen 2013. Gegessen am 28. Dezember 2021. Zuverlässig.
 
-*Leberwurst,gro* von *Netto*. Abgelaufen 2011. Gegessen am 27. November 2013. Nicht schlecht.
+*Gurkenscheiben Pepinillos*. Abgelaufen 10.2021. Gegessen am 15. März 2024. Unauffällig.
 
-*Bergkäse mild*. 6 Jahre drüber. Hat noch.
+*Bio-Steinofen Flammkuchen*. 2 Jahre drüber. Noch Jahre gut.
 
-*Käse* von *Leckerrom*. Abgelaufen 2010. Gegessen am 14. Januar 2023. Geht.
+*Soße* von *Knorr*. Abgelaufen 01.2018. Gegessen am 24. Mai 2024. Textur verändert.
 
 ---
 
-*Fruchtjoghurt*. Abgelaufen 2007. Gegessen am 10. September 2019. Unversehrt.
+*Soße* von *Sonnen Bassermann*. Abgelaufen 2006. Gegessen am 2. März 2021. Ohne Befund.
 
-*Wurst* von *Metzgerfrisch*. Abgelaufen 03.2020. Gegessen am 14. Dezember 2022. Vorbildlich.
+*Bio-Reiswaffeln - Honig* von *Nur Nur Natur*. Abgelaufen 2012. Gegessen am 16. Mai 2022. Nichts auszusetzen.
 
-*Obstriegel - Cranberry-Sauerkirsch-Geschmack* von *Aldi*. Abgelaufen 2009. Gegessen am 14. Dezember 2015. Klassiker.
+*Geflügel-Frikadellenbällchen* von *Abbelen*. Abgelaufen 03.2015. Gegessen am 21. November 2020. Schmeckt noch.
 
-*Steinpilze geschnitten* von *Pilz Krone*. Abgelaufen 2006. Gegessen am 12. Oktober 2016. Lässt sich essen.
+*Bio-Sauerrahm*. Abgelaufen 03.2020. Gegessen am 8. April 2024. Intensiver geworden.
 
-*Käse Maccaroni-Topf* von *Erasco*. Abgelaufen 05.2017. Gegessen am 13. April 2023. Funktioniert.
+*Dinkel Porridge Cranberry-Sauerkirsche*. 3 Jahre drüber. Kann man machen.
 
 ---
 
-*Schokoladen-Rübli* von *Günthart*. Abgelaufen 2014. Gegessen am 16. Dezember 2016. Kein Problem.
+*Bio-Linsenwaffeln - Tomate-Paprika* von *Gut Bio*. Abgelaufen 07.2022. Gegessen am 24. Juni 2025. Problemlos.
 
-*Bio Pasra* von *Biog*. Abgelaufen 2012. Gegessen am 8. April 2016. Neutral.
+*5 Knacker, geräuchert* von *Aldi*. Abgelaufen 12.2017. Gegessen am 17. April 2021. Akzeptabel.
 
-*Brötchen* von *BBQ*. Abgelaufen 2007. Gegessen am 15. Juli 2019. Typisch.
+*Schlemmerfilet Bordelaise Kräuter-Crème fraîche*. Abgelaufen 01.2021. Gegessen am 18. April 2024. Besser als erwartet.
 
-*Rotköhlchen* von *Querbeet*. Abgelaufen 2013. Gegessen am 21. Juli 2016. Noch gut.
+*Öko-Delikatesswiener*. 2 Jahre drüber. Unerwartet frisch.
 
-*Schinken Spicker*. 8 Jahre drüber. Gut.
+*Kuchen* von *K-CLASSIC*. Abgelaufen 04.2017. Gegessen am 9. Mai 2025. Geht.
 
 ---
 
-*Tiefkühlpizza*. Abgelaufen 2014. Gegessen am 15. Januar 2022. Solide.
+*Plant-based Pfeffer Medaillon* von *Green Mountain*. Abgelaufen 04.2018. Gegessen am 28. August 2023. Besser als gedacht.
 
-*Instantnudeln* von *Mama*. Abgelaufen 04.2021. Gegessen am 17. April 2024. Passt.
+*Bio-Glutenfreies Basismüsli Bauckhoh* von *Bauck Hof*. Abgelaufen 05.2022. Gegessen am 22. Mai 2024. Makellos.
 
-*Eiweiß-Käsekuchen - Vanille*. 9 Jahre drüber. Einwandfrei.
+*Knusper frische vier Käse* von *Trattoria Alfredo*. Abgelaufen 03.2016. Gegessen am 12. Mai 2021. Wie erwartet.
 
-*Irischer traditioneller Cheddar in Scheiben* von *Aldi*. Abgelaufen 2006. Gegessen am 8. Januar 2020. Stimmig.
+*Almighurt Quetschbeutel - Himbeere*. Abgelaufen 2013. Gegessen am 22. März 2024. Zufriedenstellend.
 
-*Mikrowellenpommes* von *REWE Beste Wahl*. Abgelaufen 10.2016. Gegessen am 26. Oktober 2020. Ohne Befund.
+*Kerrygold Irischer Cheddar würzig*. 9 Jahre drüber. Lässt sich essen.
 
 ---
 
-*Obst* von *Mikado*. Abgelaufen 08.2020. Gegessen am 16. Dezember 2022. Erfüllt den Zweck.
+*Eis* von *Nestlé*. Abgelaufen 01.2017. Gegessen am 11. Mai 2025. Funktioniert.
 
-*Fisch*. Abgelaufen 2014. Gegessen am 6. September 2025. Würde wieder.
+*Harmonie*. Abgelaufen 2006. Gegessen am 12. Februar 2009. Perfekt.
 
-*Beerenmarmelade* von *Rewe*. Abgelaufen 08.2020. Gegessen am 17. Dezember 2022. Besser als gedacht.
+*Erbsen Fein mit Pariser Karotten*. Abgelaufen 2007. Gegessen am 3. August 2021. Mild.
 
-*Delikatess Gewürzgurken*. 2 Jahre drüber. Besser als erwartet.
+*Bio-Klare Brühe Organic Bio* von *Sana Essence*. Abgelaufen 01.2020. Gegessen am 20. September 2024. Einwandfrei.
 
-*Hey Burger - Gemüse* von *HEYNUTS Bio-Manufaitur*. Abgelaufen 01.2019. Gegessen am 8. Februar 2025. Essbar.
+*Müsli* von *Crownfield*. Abgelaufen 2013. Gegessen am 22. September 2016. Gut.
 
 ---
 
-*Schokoladenschneemännchen* von *Netto MD*. Abgelaufen 2013. Gegessen am 18. Oktober 2015. Nichts auszusetzen.
+*Schoko-Eier Milchcreme*. Abgelaufen 11.2015. Gegessen am 19. Mai 2019. Optisch verändert.
 
-*Lidl Blaubeeren getrocknet & gesüßt* von *Alesto*. Abgelaufen 2014. Gegessen am 12. März 2017. Dezent.
+*Erdnüsse mit Honig und Salz*. 5 Jahre drüber. Geschmack erhalten.
 
-*Bio Rahmspinat* von *delite*. Abgelaufen 10.2021. Gegessen am 6. November 2024. Angenehm.
+*Butterkekse schottisches Mürbegebäck* von *ALDI Taste of British Isles*. Abgelaufen 12.2019. Gegessen am 23. Mai 2024. Noch Biss.
 
-*Lachs Creme* von *Abba*. Abgelaufen 2008. Gegessen am 4. März 2014. Wie erwartet.
+*Blumenkohl Hähnchen Curry* von *Maggi*. Abgelaufen 2010. Gegessen am 25. Februar 2012. Zuverlässig.
 
-*Heimkommen*. Abgelaufen 2010. Gegessen am 16. August 2017. Noch Jahre gut.
+*Fisch* von *Rügen Juwel*. Abgelaufen 2014. Gegessen am 7. November 2025. Sauber.
 
 ---
 
-*Andechser Natur - Joghurt mild Heidelbeere*. 2 Jahre drüber. Riecht interessant.
+*Bio-Hanfsaat Streichzart Hanfkrem Kürbis Rosa Pfeffer* von *hanfwerk*. Abgelaufen 11.2016. Gegessen am 11. Mai 2019. Noch gut.
 
-*Aufstrich* von *dmBio*. Abgelaufen 12.2019. Gegessen am 10. Januar 2023. Tadellos.
+*Gewürzgurken* von *Condy*. Abgelaufen 10.2022. Gegessen am 5. Mai 2025. Unbedenklich.
 
-*Bio-Apfel mit Banane* von *Alnatura*. Abgelaufen 10.2015. Gegessen am 15. August 2021. Optisch verändert.
+*Mini-Stick Mix Edelbitter Mousse*. Abgelaufen 2012. Gegessen am 13. Dezember 2019. Subtil.
 
-*Käse* von *Alpenhain*. Abgelaufen 03.2018. Gegessen am 28. Februar 2022. Echt.
+*Dinkel Amaretti mit Mandeln*. 4 Jahre drüber. Nichts auszusetzen.
 
-*Rauch-Mandeln*. Abgelaufen 12.2016. Gegessen am 23. Dezember 2018. Rein.
+*Bio-Unsere Bourbon Vanille* von *RUF*. Abgelaufen 2012. Gegessen am 25. Juli 2019. Essbar.
 
 ---
 
-*Feine Salatcreme*. 3 Jahre drüber. Annehmbar.
+*Tomatensauce mit Rucola und Grana Padano g.U. Käse*. Abgelaufen 2007. Gegessen am 20. Februar 2020. In Ordnung.
 
-*Leberwurst Schnittlauch* von *Rügenwalder*. Abgelaufen 04.2022. Gegessen am 17. Juni 2024. Hat noch.
+*Cashewkerne hot Chilli* von *Basic*. Abgelaufen 2008. Gegessen am 11. Oktober 2014. Okay.
 
-*Spring Rolls - Frühlingsrollen mit Poulet* von *J. Bank's World Food - Migros*. Abgelaufen 12.2019. Gegessen am 19. November 2023. Schmeckt noch.
+*Trüffel gehobelt in Olivenöl*. Abgelaufen 10.2016. Gegessen am 19. November 2022. Befriedigend.
 
-*Streuselliebe Zuckerdekor* von *Ruf*. Abgelaufen 09.2016. Gegessen am 20. September 2019. Brauchbar.
+*Frucht Bruschetta Sauerkirsche Apfel*. 2 Jahre drüber. Unverwüstlich.
 
-*Nudeln* von *Rewe Beste Wahl*. Abgelaufen 2008. Gegessen am 11. Februar 2024. Macht was es soll.
+*Bio-Veganes Haselnuss Eis* von *Dennree*. Abgelaufen 11.2023. Gegessen am 27. November 2025. Tolerierbar.
 
 ---
 
-*Dessertcreme, Vanillegeschmack* von *Gut & günstig*. Abgelaufen 08.2016. Gegessen am 27. August 2019. Kein Problem.
+*Waldbeere Konfitüre* von *Ener Bio*. Abgelaufen 2013. Gegessen am 21. Februar 2022. Problemlos.
 
-*Pumps aus Vollmilchschokolade*. 7 Jahre drüber. Gut.
+*Sylter Dressing + Balsamico*. Abgelaufen 2012. Gegessen am 15. September 2017. Erwartungsgemäß.
 
-*Käse* von *Frico*. Abgelaufen 2010. Gegessen am 24. September 2012. Erträglich.
+*Marmor Kuchen*. 7 Jahre drüber. Harmonisch.
 
-*Linsentopf mit Speck*. 4 Jahre drüber. Fast wie neu.
+*Joghurt auf Frucht Pfirsich-Maracuja*. 17 Jahre drüber. Frisch genug.
 
-*Tomate-Nudeltopf* von *Dreistern*. Abgelaufen 06.2017. Gegessen am 21. Oktober 2024. Nicht schlecht.
+*Mangostreifen*. Abgelaufen 2013. Gegessen am 1. Juni 2023. Unversehrt.
 
 ---
 
-*Schwäbischer Kartoffel-Salat* von *Dahlhoff*. Abgelaufen 2012. Gegessen am 2. August 2021. Einwandfrei.
+*Erbs&Rüebli Spargel* von *M-Classic*. Abgelaufen 2011. Gegessen am 25. August 2014. Kein Problem.
 
-*Lindt Marc De Champange*. Abgelaufen 08.2018. Gegessen am 28. Februar 2021. Genießbar.
+*Gemüse* von *Bonduelle*. Abgelaufen 04.2018. Gegessen am 3. Juli 2024. Sanft.
 
-*Beerenmarmelade* von *Darbo*. Abgelaufen 06.2022. Gegessen am 10. August 2024. Makellos.
+*Mini-Churros - Creme mit Vanillegeschmack* von *Cookie Bros*. Abgelaufen 06.2019. Gegessen am 18. Dezember 2022. Brauchbar.
 
-*Soße* von *Delikato*. Abgelaufen 09.2015. Gegessen am 12. Dezember 2018. Intakt.
+*Bio-Bouillon mit Rindfleisch* von *Erntesegen*. Abgelaufen 07.2022. Gegessen am 13. Juli 2025. Ohne Befund.
 
-*Hi Spice Kräuterquak Gewürz*. Abgelaufen 08.2015. Gegessen am 28. September 2019. Klassiker.
+*Sushi Lachsbox* von *Eathappy Togo GmbH*. Abgelaufen 2007. Gegessen am 25. Mai 2009. Perfekt.
 
 ---
 
-*Bonbons* von *Dr. Quendt*. Abgelaufen 06.2020. Gegessen am 4. November 2022. Noch gut.
+*Majoran gerebelt NF*. Abgelaufen 01.2017. Gegessen am 9. Juni 2025. Möglich.
 
-*Gewürzgurken* von *Dittmann*. Abgelaufen 2013. Gegessen am 27. Januar 2025. Original.
+*Heidelbeere Weisse Schokolade*. 3 Jahre drüber. Typisch.
 
-*Kekse* von *De Beukelaer*. Abgelaufen 12.2017. Gegessen am 2. August 2022. Essbar.
+*Olivenöl* von *Edeka*. Abgelaufen 06.2021. Gegessen am 20. März 2025. Besser als erwartet.
 
-*Schnitzel Wiener Art, flüssig gewürzt* von *Jack's Farm*. Abgelaufen 2006. Gegessen am 26. September 2025. Problemlos.
+*Tortellini mit Fleisch*. Abgelaufen 2009. Gegessen am 19. August 2014. Nicht schlecht.
 
-*Bio-Kleine Sardinen* von *Pan do Mar*. Abgelaufen 12.2018. Gegessen am 21. Dezember 2023. Dezent.
+*Öl Kürbiskernöl*. 4 Jahre drüber. Stimmig.
 
 ---
 
-*Sonnenblumenkerne Geschält* von *Meienburg*. Abgelaufen 2008. Gegessen am 19. Februar 2016. Neutral.
+*Pommes frites Würzsalz* von *Columbia*. Abgelaufen 10.2017. Gegessen am 17. Oktober 2024. Zeitlos.
 
-*Frische Tortelli mit Spinat-Mascarpone Füllung*. Abgelaufen 2008. Gegessen am 3. Juli 2014. In Ordnung.
+*Cremiger Quarkgenuss - Pfirsich-Maracuja* von *Milsani*. Abgelaufen 2014. Gegessen am 25. März 2018. Denkbar.
 
-*Beemster Pikant*. 14 Jahre drüber. Riecht interessant.
+*Veganes Filet Like Fish Olive Knoblauch* von *Food for Future*. Abgelaufen 2013. Gegessen am 15. Juni 2025. Textur verändert.
 
-*Sauce Bolognese vom Schwein* von *Rochlitzer Fleisch- und Wurstwaren AG*. Abgelaufen 2007. Gegessen am 7. August 2016. Passt.
+*Obstriegel Apfel* von *Crownfield*. Abgelaufen 08.2019. Gegessen am 14. Januar 2022. Angenehm.
 
-*Bio-Dinkelkekse* von *Babydream*. Abgelaufen 2014. Gegessen am 21. März 2020. Nicht mehr knusprig.
+*Lach Gummi*. Abgelaufen 05.2015. Gegessen am 19. Juli 2020. Tadellos.
 
 ---
 
-*Kochschinken mit Steinpilzen verfeinert* von *REWE Feine Welt*. Abgelaufen 2009. Gegessen am 7. Januar 2024. Unauffällig.
+*Brot* von *Spar*. Abgelaufen 2011. Gegessen am 13. September 2015. Einwandfrei.
 
-*Joghurt*. Abgelaufen 12.2023. Gegessen am 12. Dezember 2025. Sauber.
+*Kourabiedes* von *Iosifidis*. Abgelaufen 2011. Gegessen am 11. Juni 2013. Noch gut.
 
-*Natives Kokosöl kaltgepresst*. 7 Jahre drüber. Wie erwartet.
+*Käse - Quäse Protein mild*. Abgelaufen 05.2022. Gegessen am 21. Oktober 2024. Schmeckt noch.
 
-*Bio-Nuss-Nougat* von *DmBio*. Abgelaufen 2006. Gegessen am 26. September 2010. Echt.
+*Vollmilchschokolade* von *Choceur*. Abgelaufen 07.2020. Gegessen am 12. Juni 2025. Solide.
 
-*Dinkel Backerbsen* von *Alnatura*. Abgelaufen 2013. Gegessen am 4. November 2023. Erfüllt den Zweck.
+*Weißwurst Senf*. Abgelaufen 08.2018. Gegessen am 1. März 2023. Hat noch.
 
 ---
 
-*Vegane Burgermischung*. Abgelaufen 11.2017. Gegessen am 15. Oktober 2024. Perfekt.
+*Wurstragout mit Kartoffeln* von *Traditionelle Genüsse*. Abgelaufen 09.2015. Gegessen am 2. März 2022. Funktioniert.
 
-*Mandel spritz*. 4 Jahre drüber. Sättigt.
+*Kuchenglasur Vollmilch*. Abgelaufen 2007. Gegessen am 9. Dezember 2016. Akzeptabel.
 
-*Käse* von *Gutes Land*. Abgelaufen 2009. Gegessen am 15. Juni 2018. Ausreichend.
+*Frischcreme Paprika* von *Bedda*. Abgelaufen 10.2019. Gegessen am 24. Februar 2025. Problemlos.
 
-*BIO Weisse Bohnen in Tomatensauce* von *Coop*. Abgelaufen 06.2016. Gegessen am 11. Januar 2024. Machbar.
+*Bio-Goji-Beeren* von *ener Bio*. Abgelaufen 2007. Gegessen am 24. Oktober 2017. Geht.
 
-*Thai Austernsoße* von *Blue Elephant*. Abgelaufen 02.2021. Gegessen am 7. Januar 2024. Kein Problem.
+*Penne Rigate Nudeln* von *ja!*. Abgelaufen 11.2021. Gegessen am 28. Juli 2024. Annehmbar.
 
 ---
 
-*Fruchtjoghurt*. Abgelaufen 12.2022. Gegessen am 16. Dezember 2024. Vollständig.
+*Zwetschge Fruchtaufstrich*. Abgelaufen 02.2023. Gegessen am 24. Dezember 2025. Hält ewig.
 
-*Vegane Teewurst Fein*. 2 Jahre drüber. Typisch.
+*Chili Gewürzaroma-Zubereitung*. 11 Jahre drüber. Konzentrierter.
 
-*Speisekartoffel vorwiegend festkochend* von *Böhmer*. Abgelaufen 2007. Gegessen am 2. Februar 2025. Nicht schlecht.
+*Salsa verde*. Abgelaufen 2014. Gegessen am 11. November 2020. Gut.
 
-*Sahne* von *Gutes Land*. Abgelaufen 2010. Gegessen am 10. September 2024. Akzeptabel.
+*Rucola-Süßkartoffel-Ecken* von *Avita*. Abgelaufen 12.2015. Gegessen am 27. Oktober 2025. Passt.
 
-*Eier* von *Hof Müller-Hartmann*. Abgelaufen 2014. Gegessen am 10. September 2022. Zeitlos.
+*Vollmilchschokolade* von *Milka*. Abgelaufen 08.2023. Gegessen am 7. Dezember 2025. Kein Problem.
 
 ---
 
-*Nudeln* von *Garofalo*. Abgelaufen 09.2016. Gegessen am 18. Juni 2025. Mild.
+*Ziegenfrischkäsetaler mit Feigen-Tapenade*. Abgelaufen 04.2019. Gegessen am 5. Oktober 2022. Unbedenklich.
 
-*Brot* von *Spar*. Abgelaufen 08.2023. Gegessen am 15. November 2025. Einwandfrei.
+*HALS BonBons* von *Bronchibon*. Abgelaufen 2011. Gegessen am 7. März 2019. Konstant.
 
-*Bio-Dinkelflocken, zart* von *K Bio*. Abgelaufen 05.2021. Gegessen am 13. Dezember 2025. Würde wieder.
+*Kürbissuppe mit Jalapenos*. Abgelaufen 2007. Gegessen am 22. März 2021. Subtil.
 
-*Kekse* von *Sommer*. Abgelaufen 06.2017. Gegessen am 22. Februar 2020. Unerwartet frisch.
+*Currywurstsauce gewürzt* von *Aldi*. Abgelaufen 08.2018. Gegessen am 9. August 2025. Makellos.
 
-*Wurst*. Abgelaufen 07.2023. Gegessen am 3. August 2025. Konsistenz anders.
+*Bio Schalotten lang* von *Bio Freshi*. Abgelaufen 2008. Gegessen am 1. Juli 2012. Ideal.
 
 ---
 
-*Bärlauch Creme*. 2 Jahre drüber. Tadellos.
+*Vegan Curry aufschnitt* von *Rügenwalder Mühle*. Abgelaufen 2010. Gegessen am 1. Februar 2017. Frisch genug.
 
-*Bio-Joghurt Himbeere-Granatapfel* von *Paul Söbbeke*. Abgelaufen 2011. Gegessen am 20. April 2014. Rein.
+*Bio-Puten Bierschinken*. Abgelaufen 2013. Gegessen am 26. September 2020. Konsistenz anders.
 
-*Gewürzgurken*. Abgelaufen 2008. Gegessen am 19. Januar 2021. Gut.
+*Hähnchen-Ecken Nacho-Style mit Dips*. 11 Jahre drüber. Intakt.
 
-*Vegane Mortadella klassik* von *Billie Green*. Abgelaufen 2014. Gegessen am 14. Februar 2023. Reicht.
+*Porridge Hafermahlzeit Apfel-Zimt*. 4 Jahre drüber. Okay.
 
-*Wurst*. Abgelaufen 2012. Gegessen am 7. Juli 2019. Okay.
+*Nüsse* von *Jeden Tag*. Abgelaufen 2012. Gegessen am 23. März 2020. Rund.
 
 ---
 
-*Gnocchi - nach italienischer Art*. 7 Jahre drüber. Lässt sich essen.
+*Himberre mit weniger zucker*. Abgelaufen 2009. Gegessen am 28. Januar 2013. Lässt sich essen.
 
-*Obst* von *Ja!*. Abgelaufen 10.2017. Gegessen am 5. August 2022. Keine Beanstandung.
+*Obst* von *Trofipack*. Abgelaufen 06.2015. Gegessen am 17. Juni 2022. Überraschend gut.
 
-*Chiftele de pui* von *Saint Alby*. Abgelaufen 04.2016. Gegessen am 12. August 2018. Ideal.
+*Lachgummi Cola Flaschies* von *Storck nimm2*. Abgelaufen 01.2017. Gegessen am 2. Juli 2022. Wie erwartet.
 
-*Bio-Tomatensuppe* von *Aldi*. Abgelaufen 2006. Gegessen am 8. September 2009. Weich.
+*Maggi Fix Würstchen Gulasch*. 3 Jahre drüber. Kein Grund zur Klage.
 
-*Öl Kokos* von *Dr Goerg*. Abgelaufen 05.2023. Gegessen am 16. Dezember 2025. Schmeckt noch.
+*Bio-Hühnerfleisch mit Brühe* von *Stadtgut Görlitz*. Abgelaufen 2006. Gegessen am 17. Juni 2014. Einwandfrei.
 
 ---
 
-*Rahmkäse Bärlauch*. Abgelaufen 2013. Gegessen am 17. Dezember 2020. Farbe verändert.
+*Klassische Spezialitäten* von *Lindt*. Abgelaufen 12.2016. Gegessen am 4. Dezember 2025. Besser als gedacht.
 
-*Kloßteig*. 3 Jahre drüber. Vorbildlich.
+*Sambal Oelek - fruchtig*. Abgelaufen 05.2017. Gegessen am 7. Oktober 2025. Besser als erwartet.
 
-*Obst*. Abgelaufen 03.2023. Gegessen am 9. März 2025. Unbedenklich.
+*Speisequark - Magerstufe*. 2 Jahre drüber. Schmeckt noch.
 
-*Schnittlauch Gefriergetrocknet*. Abgelaufen 2012. Gegessen am 20. März 2018. Wie erwartet.
+*Kuchen* von *Best Moments*. Abgelaufen 03.2020. Gegessen am 14. Dezember 2022. Echt.
 
-*Wurst* von *Provital*. Abgelaufen 2009. Gegessen am 2. Oktober 2013. Genügend.
+*Erdbeer 80 % Fruchtanteil*. Abgelaufen 2009. Gegessen am 20. Juni 2022. Keine Beanstandung.
 
 ---
 
-*Kuchen* von *Biscoteria*. Abgelaufen 01.2017. Gegessen am 12. September 2022. Kein Problem.
+*KitKat Singles* von *Nestlé*. Abgelaufen 11.2015. Gegessen am 4. November 2025. Etwas bröckelig.
 
-*Kartoffel Gratin*. Abgelaufen 06.2015. Gegessen am 12. August 2022. Beständig.
+*Bio-Rinderbouillon, Würfel* von *Alnatura*. Abgelaufen 02.2022. Gegessen am 26. September 2025. Funktioniert.
 
-*Soße*. Abgelaufen 11.2015. Gegessen am 1. Oktober 2021. Textur verändert.
+*Harzer Käse klassisch* von *Ja!*. Abgelaufen 2008. Gegessen am 20. Juni 2014. Charaktervoll.
 
-*Roggen Pur* von *Mühlengold*. Abgelaufen 2013. Gegessen am 20. Dezember 2019. Echt.
+*Hamburger Pattys*. Abgelaufen 2011. Gegessen am 19. April 2022. Gut.
 
-*Brot* von *Mühlengold*. Abgelaufen 2008. Gegessen am 11. Juni 2013. Geht.
+*Grand Légère Schnittkäse - leicht & mild*. 2 Jahre drüber. Aroma vorhanden.
 
 ---
 
-*Bio-Schokolade Sierra Leone Feine Bitter* von *DmBio*. Abgelaufen 2012. Gegessen am 3. Februar 2015. Passt.
+*Suppengemüse mit würziger Brühe* von *iglo*. Abgelaufen 2013. Gegessen am 14. Februar 2023. Hat noch.
 
-*Nüsse* von *Nectaflor*. Abgelaufen 2011. Gegessen am 16. November 2017. Solide.
+*Walnuss-Torte*. Abgelaufen 12.2017. Gegessen am 7. März 2023. Kein Problem.
 
-*Weiße Schokolade mit erdbeere*. Abgelaufen 01.2015. Gegessen am 15. Dezember 2022. Überraschend gut.
+*Bio-Paprika Creme pikant* von *Nabio*. Abgelaufen 03.2017. Gegessen am 6. September 2023. Tadellos.
 
-*Heidelbeeren gefriergetrocknet*. 2 Jahre drüber. Essbar.
+*Wurst* von *Kupfer*. Abgelaufen 2013. Gegessen am 20. Juli 2021. Unerwartet frisch.
 
-*Bio-Schoko-Schamane* von *mind sweets GmbH*. Abgelaufen 11.2022. Gegessen am 25. Mai 2025. Noch gut.
+*Marmelade Sauerkirsche*. Abgelaufen 10.2020. Gegessen am 10. Dezember 2022. Passt.
 
 ---
 
-*Bio Kidney Bohnen* von *Natur Gut*. Abgelaufen 2006. Gegessen am 2. August 2014. Einwandfrei.
+*Nudeln in Tomatensoße*. 9 Jahre drüber. Genügend.
 
-*Kaiser-schman*. Abgelaufen 01.2020. Gegessen am 8. Oktober 2022. Hat noch.
+*Findus Champignonsplätzli* von *Nestlé*. Abgelaufen 06.2020. Gegessen am 15. Dezember 2025. Brauchbar.
 
-*Desira Quark Liebling Kirsche*. 2 Jahre drüber. Stabil.
+*Bio Süssrahmbutter* von *Nord Frische*. Abgelaufen 2013. Gegessen am 2. März 2016. Mild.
 
-*Bio-Vollkorn Bio Basmati Reis* von *Reishunger*. Abgelaufen 2012. Gegessen am 12. Februar 2018. Gut.
+*Linsen, Tempo*. Abgelaufen 09.2019. Gegessen am 14. April 2022. Zart.
 
-*Hähnchenbrust* von *Geka*. Abgelaufen 12.2017. Gegessen am 13. Januar 2024. Brauchbar.
+*Joghurt nach Griechischer Art Götterfrucht* von *ELINAS*. Abgelaufen 02.2023. Gegessen am 7. Juni 2025. Ohne Befund.
 
 ---
 
-*Grobe Suppennudeln aus Dinkel*. Abgelaufen 11.2020. Gegessen am 27. Februar 2023. Nichts auszusetzen.
+*Grünkohleintopf*. Abgelaufen 05.2020. Gegessen am 28. Juni 2022. Subtil.
 
-*Kakao*. 5 Jahre drüber. Rein.
+*Saltletts Coctail Mix*. 11 Jahre drüber. Machbar.
 
-*Waffeln*. Abgelaufen 2011. Gegessen am 20. Juli 2015. Noch knusprig.
+*Bio-Kartoffeleintopf ohne Salzzusatz* von *Naturkind*. Abgelaufen 2008. Gegessen am 28. August 2014. Überraschend gut.
 
-*Pell Kartoffelsalat*. 2 Jahre drüber. Bewährt.
+*Kinder Cards*. 4 Jahre drüber. Hält ewig.
 
-*Kuchen*. Abgelaufen 07.2021. Gegessen am 18. Dezember 2025. Hätte schlimmer sein können.
+*Turfas - Klassik, Orange & Karamell* von *Rewe*. Abgelaufen 12.2017. Gegessen am 15. März 2021. Noch gut.
 
 ---
 
-*Soße*. Abgelaufen 2014. Gegessen am 19. Oktober 2017. Problemlos.
+*Mohnstollen*. Abgelaufen 2007. Gegessen am 12. Januar 2021. In Ordnung.
 
-*Pommes Salz*. 2 Jahre drüber. Vollständig.
+*Frucht Joghurt*. 3 Jahre drüber. Kräftiger.
 
-*Junge Erbsen mit Möhren extra fein* von *Beste Ernte*. Abgelaufen 06.2018. Gegessen am 6. Februar 2022. Tolerierbar.
+*Aufstrich* von *Belle Journée*. Abgelaufen 10.2022. Gegessen am 6. Dezember 2024. Zufriedenstellend.
 
-*Brot* von *Jumbo*. Abgelaufen 2006. Gegessen am 10. September 2016. Nicht steinhart.
+*Gewürzgurken* von *Hengstenberg*. Abgelaufen 2012. Gegessen am 20. Februar 2019. Problemlos.
 
-*Bonbons*. Abgelaufen 05.2023. Gegessen am 1. November 2025. Vertretbar.
+*Bio-Langkornreis Natur* von *DmBio*. Abgelaufen 05.2015. Gegessen am 26. Januar 2020. Sättigt.
 
 ---
 
-*Käse*. Abgelaufen 2006. Gegessen am 24. September 2025. Subtil.
+*Müsli* von *GoBio*. Abgelaufen 01.2020. Gegessen am 26. November 2025. Vollständig.
 
-*Käse* von *Aldi*. Abgelaufen 12.2020. Gegessen am 4. September 2023. Angenehm.
+*Lebkuchenkonfekt - Zitrone-Ingwer*. Abgelaufen 2014. Gegessen am 22. April 2020. Einwandfrei.
 
-*Käse*. Abgelaufen 2014. Gegessen am 3. Oktober 2020. Konstant.
+*Backmischung Brownies*. 5 Jahre drüber. Vorstellbar.
 
-*Bio Reiswaffeln Joghurt* von *Natur Gut*. Abgelaufen 2008. Gegessen am 1. November 2022. Sauber.
+*Suppe* von *Pote*. Abgelaufen 09.2023. Gegessen am 17. September 2025. Würde wieder.
 
-*Hafer Früchte Müsli* von *Hammermühle*. Abgelaufen 12.2023. Gegessen am 9. Dezember 2025. Lässt sich essen.
+*Instantnudeln Demae Ramen Japanese Curry* von *Nissin*. Abgelaufen 2013. Gegessen am 12. März 2024. Genießbar.
 
 ---
 
-*Bulgur Gericht mexikanisch*. Abgelaufen 2010. Gegessen am 20. März 2018. Annehmbar.
+*Bio-Kartoffelchips Meersalz* von *Alnatura*. Abgelaufen 2008. Gegessen am 2. Oktober 2016. Gut.
 
-*Erdbeer Quitten Konfitüre*. 5 Jahre drüber. Vorbildlich.
+*Apfelmus* von *Biok*. Abgelaufen 06.2022. Gegessen am 6. Dezember 2024. Besser als gedacht.
 
-*Kühne Hot Dog Mustard Cremig milder Senf*. 7 Jahre drüber. Klassiker.
+*Käse-Wurst Original Spessarter*. Abgelaufen 2012. Gegessen am 21. September 2025. Kein Problem.
 
-*Eis* von *Gut & Günstig*. Abgelaufen 10.2022. Gegessen am 6. Mai 2025. Noch Jahre gut.
+*Bohnen Fein*. 9 Jahre drüber. Hinnehmbar.
 
-*Aufstrich* von *Bellafonde*. Abgelaufen 02.2023. Gegessen am 15. März 2025. Kein Problem.
+*Bio-Tomaten-Sahne-Sauce Klassik* von *Bio*. Abgelaufen 06.2016. Gegessen am 1. Juni 2018. Nicht schlecht.
 
 ---
 
-*Käse* von *Bel*. Abgelaufen 07.2018. Gegessen am 18. Juli 2022. Besser als erwartet.
+*Aufstrich* von *Damiano*. Abgelaufen 2014. Gegessen am 13. Juni 2018. Erwartungsgemäß.
 
-*Knacker-Mix* von *Wiesbauer*. Abgelaufen 2013. Gegessen am 3. Dezember 2020. Ausreichend.
+*Broccoli Cremsuppe*. Abgelaufen 05.2019. Gegessen am 14. Mai 2021. Geschmack erhalten.
 
-*Kuchen* von *Dr. Oetker*. Abgelaufen 2014. Gegessen am 15. Januar 2017. Fein.
+*Ferrero Küsschen Schöne Weihnachten*. 2 Jahre drüber. Besser als erwartet.
 
-*Baguette Dinkel*. 13 Jahre drüber. Typisch.
+*Geröstete Paprika* von *1001 delights*. Abgelaufen 2014. Gegessen am 13. Dezember 2025. Dezent.
 
-*Nudeln* von *Barilla*. Abgelaufen 02.2019. Gegessen am 5. Mai 2022. Frisch genug.
+*Nudeln Suppe / Buchstaben* von *3Glocken*. Abgelaufen 03.2018. Gegessen am 20. November 2021. Akzeptabel.
 
 ---
 
-*Zartbitterschokolade* von *Back Family*. Abgelaufen 10.2018. Gegessen am 7. Oktober 2025. Einwandfrei.
+*Kräuterbonbon Original* von *K-Classic*. Abgelaufen 2012. Gegessen am 11. November 2020. Ausgewogen.
 
-*Tiefkühlpizza* von *Original Wagner*. Abgelaufen 2010. Gegessen am 28. Januar 2022. In Ordnung.
+*Rinder Bouillon* von *K-Classic*. Abgelaufen 2007. Gegessen am 7. August 2024. Schmeckt noch.
 
-*Bio-Dattello* von *Makri*. Abgelaufen 2012. Gegessen am 5. März 2019. Solide.
+*Schoko Lolly Vollmilch & Weiß Schokolade*. Abgelaufen 04.2017. Gegessen am 15. August 2022. Mustergültig.
 
-*Schwyzer Kräuter* von *Swiss Monte*. Abgelaufen 2013. Gegessen am 20. Februar 2022. Etwas bröckelig.
+*Chocolat mitflüssigem Choco-Kern*. Abgelaufen 08.2022. Gegessen am 9. August 2024. Nichts auszusetzen.
 
-*Frischkäse*. Abgelaufen 12.2022. Gegessen am 8. Oktober 2025. Stabil.
+*Bio-Lyoner fein* von *Aldi*. Abgelaufen 2006. Gegessen am 25. November 2009. Noch Jahre gut.
 
 ---
 
-*Rote Linsen Strickli*. 2 Jahre drüber. Gut.
+*Rheila Salmiak Pastillen* von *Dr. C. Soldan*. Abgelaufen 10.2021. Gegessen am 7. Oktober 2024. Überraschend gut.
 
-*Bio-Frischecreme Meerrettich* von *Green Heart*. Abgelaufen 07.2017. Gegessen am 25. Januar 2022. Fast wie neu.
+*Californische Mandeln*. Abgelaufen 09.2019. Gegessen am 7. Mai 2025. Wie erwartet.
 
-*Bio-Asia Wok-Gemüsemix* von *Bio Inside*. Abgelaufen 08.2015. Gegessen am 26. Dezember 2025. Nicht schlecht.
+*Weinbrandbohnen*. 3 Jahre drüber. Sanft.
 
-*Lebküchnerei woitinek*. 7 Jahre drüber. Funktioniert.
+*Fruchtjoghurt* von *Edeka*. Abgelaufen 2006. Gegessen am 16. August 2015. Hat noch.
 
-*Gemüse in Sesamsauce* von *Aldi*. Abgelaufen 12.2018. Gegessen am 25. November 2022. Geschmack erhalten.
+*Dessert im Glas - Himbeere* von *Les Amuses du Chef*. Abgelaufen 07.2022. Gegessen am 1. September 2025. Echt.
 
 ---
 
-*Aufstrich*. Abgelaufen 2010. Gegessen am 12. Dezember 2017. Brauchbar.
+*Veggie Hähnchenschinken*. Abgelaufen 05.2019. Gegessen am 12. Juli 2022. Angenehm.
 
-*Knoblauchsalz mit Kräutern*. 4 Jahre drüber. Noch aromatisch.
+*Bio-Soja Geschnetzeltes*. Abgelaufen 2009. Gegessen am 8. April 2024. Zufriedenstellend.
 
-*Cashewkerne Naturbelassen*. 4 Jahre drüber. Unerwartet frisch.
+*Soße* von *K-Favourites*. Abgelaufen 2011. Gegessen am 7. Januar 2024. Okay.
 
-*Aufstrich*. Abgelaufen 08.2023. Gegessen am 23. November 2025. Besser als gedacht.
+*Cocktailwürstchen*. Abgelaufen 2013. Gegessen am 10. März 2016. Essbar.
 
-*Bio-Fruchtmark Apfel Banane* von *Bio Aldi*. Abgelaufen 08.2016. Gegessen am 17. August 2021. Akzeptabel.
+*Wiesn-Stangerl* von *Aldi*. Abgelaufen 2006. Gegessen am 13. März 2013. Funktioniert.
 
 ---
 
-*Haussalami* von *Schuster*. Abgelaufen 07.2018. Gegessen am 21. Juli 2024. Schön gereift.
+*Bruscetta Käse*. Abgelaufen 2012. Gegessen am 13. Juni 2021. Typisch.
 
-*Kekse*. Abgelaufen 05.2017. Gegessen am 25. Juli 2021. Konsistenz anders.
+*Gourmetschinken*. Abgelaufen 03.2019. Gegessen am 11. November 2022. Perfekt.
 
-*Heumilch Naturjogurt*. 6 Jahre drüber. Würde wieder.
+*Popcorn* von *Sun Snacks*. Abgelaufen 2007. Gegessen am 1. September 2024. Einwandfrei.
 
-*Tomatensoße* von *Miracoli*. Abgelaufen 2010. Gegessen am 24. November 2012. Tut's noch.
+*Suppe* von *Buss*. Abgelaufen 01.2016. Gegessen am 16. März 2021. Erfüllt den Zweck.
 
-*Bio-Mandel Dinkel Taler VM* von *Alnatura*. Abgelaufen 05.2019. Gegessen am 18. Mai 2021. Noch gut.
+*Kekse* von *Gut & Günstig*. Abgelaufen 2009. Gegessen am 7. August 2017. Harmonisch.
 
 ---
 
-*Fond Fischfond* von *Feine Küche*. Abgelaufen 12.2020. Gegessen am 19. März 2023. Erfüllt den Zweck.
+*Knoblauch bio gemahlen*. Abgelaufen 11.2021. Gegessen am 20. November 2025. Solide.
 
-*Gewürzgurken*. Abgelaufen 2011. Gegessen am 11. August 2025. Nichts auszusetzen.
+*Schaschlik spezial mit Sauce* von *K.-W. Krümmel GmbH*. Abgelaufen 2013. Gegessen am 11. Oktober 2025. Sauce angedickt.
 
-*Reissirup-Aufstrich*. 8 Jahre drüber. Kein Problem.
+*Heringsfilet exotische Tomate*. Abgelaufen 2008. Gegessen am 3. November 2012. Gut.
 
-*Xucker Xummi Spearmint Zuckerfrei*. Abgelaufen 2007. Gegessen am 13. Januar 2025. Optisch verändert.
+*Cappelletti Ricotta Basilikum*. Abgelaufen 01.2018. Gegessen am 28. Januar 2024. Macht was es soll.
 
-*Kochschinken* von *Gut Drei Eichen*. Abgelaufen 04.2015. Gegessen am 1. Januar 2023. Sauber.
+*Pfeffer Nüsse* von *Weiss*. Abgelaufen 02.2019. Gegessen am 24. Mai 2022. Stimmig.
 
 ---
 
-*Wurst* von *Greisinger*. Abgelaufen 10.2015. Gegessen am 27. März 2020. Keine Beanstandung.
+*Bio-Wiener Würstchen* von *Fleischwerke E. Zimmermann*. Abgelaufen 12.2022. Gegessen am 11. Juli 2025. Noch gut.
 
-*Aufstrich* von *Lazzaris*. Abgelaufen 2011. Gegessen am 11. März 2022. Dezent.
+*Bio Olivenöl mit Zitrone* von *Naturaplan*. Abgelaufen 07.2022. Gegessen am 26. September 2024. Passt.
 
-*Frischkäse*. Abgelaufen 09.2018. Gegessen am 20. April 2022. Schmeckt noch.
+*Butter-Mandel Blätter*. Abgelaufen 2009. Gegessen am 27. Oktober 2018. Nicht schlecht.
 
-*Fisch Zarte Filets vom Hering - Sweet Onion*. 8 Jahre drüber. Zart.
+*Knusper Filets Honig-Senf*. 2 Jahre drüber. In Ordnung.
 
-*Mehl* von *Vorarlberger Mehl*. Abgelaufen 2014. Gegessen am 2. Oktober 2017. Harmonisch.
+*Sächsische Kartoffelmus/Püree* von *Werner's*. Abgelaufen 12.2018. Gegessen am 1. Juli 2025. Akzeptabel.
 
 ---
 
-*Fruchtjoghurt* von *Bauer*. Abgelaufen 07.2019. Gegessen am 8. Juli 2021. Befriedigend.
+*Französischer Ziegen-Weichkäse*. 19 Jahre drüber. Sättigt.
 
-*Edizione del Maestro* von *Giovanni Ferrari*. Abgelaufen 2012. Gegessen am 27. März 2022. Besser als erwartet.
+*Nüsse* von *Genuss Plus*. Abgelaufen 2012. Gegessen am 27. April 2020. Annehmbar.
 
-*Käse*. Abgelaufen 04.2017. Gegessen am 7. November 2020. Unbedenklich.
+*Bio-Bockshornklee gemahlen* von *Sonnentor*. Abgelaufen 2009. Gegessen am 14. März 2025. Schmeckt noch.
 
-*Bio-Milder Joghurt Schoko-Split* von *Rewe*. Abgelaufen 2014. Gegessen am 18. Juni 2021. Essbar.
+*Schoko Tröpfchen Zartbitter* von *REWE Beste Wahl*. Abgelaufen 2010. Gegessen am 14. Juni 2018. Nichts auszusetzen.
 
-*Kuchen* von *Lambertz*. Abgelaufen 11.2020. Gegessen am 1. Dezember 2022. Geht.
+*Dinkel-Sticks*. Abgelaufen 08.2019. Gegessen am 19. Januar 2024. Vollständig.
 
 ---
 
-*Coco Caramella Bio-Nussriegel*. Abgelaufen 2013. Gegessen am 20. Februar 2016. Passt.
+*Vitapower Toastbrötchen*. 2 Jahre drüber. Kein Problem.
 
-*Obazda klassisch*. 7 Jahre drüber. Hat noch.
+*Nürnberger Oblaten-Lebkuchen Bitterschokolade* von *Goldora*. Abgelaufen 11.2021. Gegessen am 24. Juli 2024. Weich geworden.
 
-*Bio-Krunchy Klassik Hafer* von *Barnhouse*. Abgelaufen 2013. Gegessen am 28. Mai 2020. In Ordnung.
+*Wurst* von *Böklunder*. Abgelaufen 12.2020. Gegessen am 5. Oktober 2025. Klassiker.
 
-*Zartbitterschokolade* von *Moser Roth*. Abgelaufen 2011. Gegessen am 20. September 2019. Tadellos.
+*Soße* von *Wolfram Berge Delikatessen*. Abgelaufen 2009. Gegessen am 4. September 2024. Tadellos.
 
-*Brot*. Abgelaufen 01.2022. Gegessen am 16. Juni 2025. Gut.
+*Fondue Hausmischung*. Abgelaufen 2009. Gegessen am 7. Juni 2012. Genießbar.
 
 ---
 
-*Philadelphia So leicht*. 6 Jahre drüber. Funktioniert.
+*Käsegebäck mit Smoked Paprika* von *Cräx*. Abgelaufen 03.2018. Gegessen am 28. August 2024. Besser als erwartet.
 
-*Kondensmilch ungezuckert* von *Migros*. Abgelaufen 2012. Gegessen am 15. September 2014. Einwandfrei.
+*Erdbeer Monstertraum*. 5 Jahre drüber. Unversehrt.
 
-*Pulmoll Halsbonbons Zitrone*. 6 Jahre drüber. Genießbar.
+*Bio-Pommersche Gutsleberwurst* von *BioBio*. Abgelaufen 09.2023. Gegessen am 4. Dezember 2025. Erwartungsgemäß.
 
-*Bio-Apfel Banane & Himbeere* von *Edeka*. Abgelaufen 02.2023. Gegessen am 10. Oktober 2025. Fein.
+*Bio-Gemüse-Maultaschen* von *Zimmermann*. Abgelaufen 2013. Gegessen am 20. November 2025. Mild.
 
-*Kekse*. Abgelaufen 2013. Gegessen am 26. Dezember 2016. Akzeptabel.
+*Veganer Aufschnitt Schnittlauch*. Abgelaufen 09.2016. Gegessen am 8. Februar 2023. Essbar.
 
 ---
 
-*Obst* von *Markttag*. Abgelaufen 12.2015. Gegessen am 14. August 2020. Würde wieder.
+*Nudeln Tortellini Prosciutto*. 2 Jahre drüber. Einwandfrei.
 
-*Quarksnacks Erdbeere*. Abgelaufen 02.2015. Gegessen am 20. November 2025. Tolerierbar.
+*Lisas Kesselchips Essig*. 2 Jahre drüber. Textur verändert.
 
-*Fit proteinreiche Pancakes-Mischung*. 3 Jahre drüber. Lässt sich essen.
+*Nüsse* von *Penny*. Abgelaufen 2006. Gegessen am 8. April 2023. Hat noch.
 
-*Protein Weizen, Hafer & Quinoa* von *Nestlé*. Abgelaufen 2007. Gegessen am 23. Oktober 2024. Okay.
+*Reis* von *Natur pur*. Abgelaufen 2006. Gegessen am 9. April 2025. Tolerierbar.
 
-*Kringelgebäck mit Vanillegeschmack* von *H & B*. Abgelaufen 2011. Gegessen am 15. Mai 2017. Besser als gedacht.
+*Müsli-Riegel Erdnuss* von *Ja!*. Abgelaufen 2010. Gegessen am 18. Dezember 2012. Vertretbar.
 
 ---
 
-*Nuss Eishörnchen*. 3 Jahre drüber. Kann man machen.
+*Bio-Mini-Elisenlebkuchen - schokoliert* von *Aldi*. Abgelaufen 07.2019. Gegessen am 5. Juni 2023. Bewährt.
 
-*Bulgarischer Schafskäse* von *Vanela*. Abgelaufen 2007. Gegessen am 25. Mai 2015. Ausgewogen.
+*Obst* von *Genuss Plus*. Abgelaufen 2008. Gegessen am 11. Mai 2022. Zuverlässig.
 
-*Bonbons* von *Aldi*. Abgelaufen 2007. Gegessen am 20. Mai 2009. Weich.
+*Butter Vanillehörnchen*. Abgelaufen 10.2020. Gegessen am 6. Juli 2025. Gut.
 
-*Aufstrich* von *Unsere Heimat*. Abgelaufen 2006. Gegessen am 13. März 2017. Hinnehmbar.
+*Thunfisch Steaks*. 4 Jahre drüber. Problemlos.
 
-*Fruchtquark Quetsch mich! Erdbeere Banane* von *K-Classic*. Abgelaufen 2014. Gegessen am 25. März 2023. Zufriedenstellend.
+*Bio-WINTER-PFLAUME Vollmilchschokolade mit Pflaume* von *Rapunzel*. Abgelaufen 04.2020. Gegessen am 12. Mai 2022. Robust.
 
 ---
 
-*Faschierte Laibchen mit Stampfkartoffeln*. Abgelaufen 12.2017. Gegessen am 1. Juli 2021. Solide.
+*Käse* von *Heirler*. Abgelaufen 2009. Gegessen am 15. Juni 2013. Weich.
 
-*Essig* von *REWE Feine Welt*. Abgelaufen 07.2020. Gegessen am 10. Mai 2025. Geschmack erhalten.
+*Veganer Nacho dip*. Abgelaufen 11.2017. Gegessen am 12. August 2025. Harmonisch.
 
-*Bio-Dinkel Kuchenmehl* von *Spar Natur pur*. Abgelaufen 2010. Gegessen am 19. September 2023. Neutral.
+*Erdnüsse Ungesalzen*. 2 Jahre drüber. Besser als gedacht.
 
-*Landliebe Joghurt Rhabarber*. 3 Jahre drüber. Subtil.
+*Körner sandwich*. Abgelaufen 03.2018. Gegessen am 8. November 2025. Sättigt.
 
-*Bonbons* von *Storck*. Abgelaufen 09.2019. Gegessen am 6. November 2022. Rund.
+*Löffelbiskuits für Tiramisù* von *Continental Bakeries*. Abgelaufen 2014. Gegessen am 10. Juli 2021. Brauchbar.
 
 ---
 
-*Wurst* von *Gut Drei Eichen*. Abgelaufen 01.2018. Gegessen am 23. Februar 2023. Frisch genug.
+*Frischeria Broccoli-Gratin*. Abgelaufen 2009. Gegessen am 19. April 2018. Vollständig.
 
-*Obst*. Abgelaufen 04.2019. Gegessen am 14. Juli 2021. Unauffällig.
+*Jogobella - Himbeer*. 8 Jahre drüber. Konsistenz anders.
 
-*Vegane Tafel Blond* von *Vehappy*. Abgelaufen 2012. Gegessen am 16. Dezember 2015. Klassiker.
+*Wurst* von *Tarczynki*. Abgelaufen 07.2018. Gegessen am 5. September 2024. Funktioniert.
 
-*Bio-Schoko Reiswaffel* von *dm*. Abgelaufen 2006. Gegessen am 12. Mai 2018. Kein Problem.
+*Bio-Arganöl* von *REWE Feine Welt*. Abgelaufen 2010. Gegessen am 19. November 2020. Möglich.
 
-*Französische Schokobrötchen* von *Aldi*. Abgelaufen 10.2019. Gegessen am 28. Dezember 2021. Bewährt.
+*Nudeln Suppe* von *Rhönland*. Abgelaufen 11.2018. Gegessen am 17. April 2025. Angenehm.
 
 ---
 
-*Bio-Fruchtmus ohne Zuckerzusatz - Apfel-Mango*. Abgelaufen 03.2015. Gegessen am 27. Februar 2021. Fast wie neu.
+*Heimische Rote Zwiebeln, Klasse II*. Abgelaufen 02.2023. Gegessen am 15. April 2025. Heller geworden.
 
-*Gemüse-Brühe*. 7 Jahre drüber. Nicht schlecht.
+*Erdnussmus stückig*. 3 Jahre drüber. Streichfähig.
 
-*Haselnuss Kakao Creme* von *Zentis*. Abgelaufen 2007. Gegessen am 13. Januar 2024. Macht was es soll.
+*Bio-Frischer Hafer Naturghurt* von *Velike!*. Abgelaufen 04.2019. Gegessen am 9. April 2024. Hätte schlimmer sein können.
 
-*Brot* von *Block House*. Abgelaufen 2014. Gegessen am 1. September 2020. Angenehm.
+*Sweet Table Kuchenkugeln* von *Dr. Oetker*. Abgelaufen 12.2018. Gegessen am 16. Juni 2021. Ausreichend.
 
-*Hustenbonbons - Wick Triple Action*. Abgelaufen 09.2017. Gegessen am 13. November 2020. Gut.
+*PastaFrutta*. Abgelaufen 04.2022. Gegessen am 17. Dezember 2024. Neutral.
 
 ---
 
-*Stachelbeer Marmelade* von *Gutbio*. Abgelaufen 2013. Gegessen am 20. August 2017. Farbe verändert.
+*Butter-Spritzgebäck - Zartbitter*. 3 Jahre drüber. Fein.
 
-*Snack-Minis Milch-Haselnuss* von *Manner*. Abgelaufen 2011. Gegessen am 21. August 2017. Möglich.
+*Veganer Schinken Spicker Mortadella* von *Rügenwalder Mühle*. Abgelaufen 2011. Gegessen am 24. Juni 2018. Keine Beanstandung.
 
-*Kekse*. Abgelaufen 03.2016. Gegessen am 3. Juli 2024. Akzeptabel.
+*Crackers mit pfeffer und meersalz*. 2 Jahre drüber. Einwandfrei.
 
-*Fisch* von *Berida*. Abgelaufen 2007. Gegessen am 10. April 2019. Keine Beanstandung.
+*Suppe* von *Wünsch Dir Mahl*. Abgelaufen 2007. Gegessen am 16. September 2018. Passt.
 
-*Schokolade* von *Aldi*. Abgelaufen 2008. Gegessen am 12. Oktober 2020. Einwandfrei.
+*OliveOil* von *Priorat Natur*. Abgelaufen 01.2017. Gegessen am 15. September 2022. Intakt.
 
 ---
 
-*Weise crisp laktosefrei* von *Frankonia*. Abgelaufen 05.2020. Gegessen am 11. Mai 2024. Annehmbar.
+*Rosinen in Schokolade*. 2 Jahre drüber. Makellos.
 
-*Häagen-Dazs Vanille*. 14 Jahre drüber. Noch Jahre gut.
+*Fisch* von *Dovgan Norma*. Abgelaufen 2006. Gegessen am 28. Juni 2013. Solide.
 
-*Suppe* von *Werner‘s*. Abgelaufen 08.2017. Gegessen am 16. Juli 2024. Schmeckt noch.
+*Bio-Joghurt mild - Vanille* von *Andechser Natur*. Abgelaufen 2007. Gegessen am 23. Juli 2024. Akzeptabel.
 
-*Linsen mit suppengrün* von *REWE Beste Wahl*. Abgelaufen 2008. Gegessen am 4. März 2015. Hat noch.
+*Käse* von *Milbona*. Abgelaufen 2007. Gegessen am 28. November 2015. Typisch.
 
-*Rote Zwiebeln mit Kapern*. 2 Jahre drüber. Erfüllt den Zweck.
+*Petite Pause Muesli Snack*. Abgelaufen 03.2018. Gegessen am 19. August 2020. Noch gut.
 
 ---
 
-*OfennFleischkäse fein*. 4 Jahre drüber. Funktioniert.
+*Thunfisch-Filet*. 8 Jahre drüber. Kein Problem.
 
-*Hartkäse* von *K-Classic*. Abgelaufen 07.2016. Gegessen am 24. Mai 2019. Zufriedenstellend.
+*Jumbo Erdnüsse geröstet & gesalzen* von *Max*. Abgelaufen 03.2022. Gegessen am 8. Mai 2024. Unerwartet frisch.
 
-*Kuchen* von *Emil Reimann*. Abgelaufen 01.2015. Gegessen am 22. September 2020. Noch gut.
+*Nudeln* von *La Casa del Grano*. Abgelaufen 10.2015. Gegessen am 8. Februar 2024. Gut.
 
-*Knusperzwiebeln* von *Kania*. Abgelaufen 2009. Gegessen am 26. November 2021. Typisch.
+*Sandwich Moskauer Art Eis*. 5 Jahre drüber. Hat noch.
 
-*Fisch*. Abgelaufen 10.2017. Gegessen am 2. April 2020. Überraschend gut.
+*Hirtenkäse Würfel in Öl*. 4 Jahre drüber. Hinnehmbar.
 
 ---
 
-*Bio-Spanische Chorozo* von *Tesoros del Sur*. Abgelaufen 07.2016. Gegessen am 5. März 2020. Zuverlässig.
+*Gemüse Kartoffel Auflauf* von *REWE Beste Wahl*. Abgelaufen 10.2015. Gegessen am 7. Juli 2025. Besser als gedacht.
 
-*Kirschkuchen Omas Backstube* von *Conradi*. Abgelaufen 10.2020. Gegessen am 17. November 2025. Geschmack erhalten.
+*Leberkäse mit Kartoffelpüree und Weinsauerkraut*. 3 Jahre drüber. Lässt sich essen.
 
-*Schweinefleisch*. Abgelaufen 2007. Gegessen am 7. Dezember 2022. Wie erwartet.
+*Olivenöl italien*. Abgelaufen 2012. Gegessen am 26. November 2020. Authentisch.
 
-*Weizen-Popinos*. 4 Jahre drüber. Zeitlos.
+*Caramel Rallye Schokoriegel*. Abgelaufen 01.2018. Gegessen am 9. Oktober 2023. Würde wieder.
 
-*Bio-6 Bio-Eier Gütekl. A* von *Hof Ankersolt*. Abgelaufen 06.2016. Gegessen am 28. Juli 2024. In Ordnung.
+*Whey Protein Schoko* von *foodspring*. Abgelaufen 03.2016. Gegessen am 1. Februar 2025. Überraschend gut.
 
 ---
 
-*Gouda mild in Scheiben* von *Baackes&Heimes*. Abgelaufen 2011. Gegessen am 10. Januar 2017. Neutral.
+*Pfannengemüse Mexikanische Art . Las Cuarenta*. Abgelaufen 2012. Gegessen am 6. November 2014. Wie erwartet.
 
-*Schokoriegel-mit gepufftem Dinkel*. Abgelaufen 07.2022. Gegessen am 19. Juli 2025. Machbar.
+*Mentos Lakritz* von *CONAXESS TRADE NORGE AS*. Abgelaufen 2014. Gegessen am 1. Dezember 2021. Sättigt.
 
-*Kokos Creme Schoko herb*. 7 Jahre drüber. Besser als gedacht.
+*Milka Ei mit Schoko-Linsen*. Abgelaufen 11.2022. Gegessen am 1. Dezember 2024. Weiß angelaufen.
 
-*Mini Kokos Reiswaffeln Zartbitter* von *DmBio*. Abgelaufen 2006. Gegessen am 11. Oktober 2025. Bewährt.
+*Hafen-Müsli banana bread style* von *Kölln*. Abgelaufen 11.2017. Gegessen am 8. August 2020. Erfüllt den Zweck.
 
-*Aufstrich* von *Schwartau*. Abgelaufen 2010. Gegessen am 9. April 2021. Authentisch.
+*WellMix Sport*. Abgelaufen 12.2015. Gegessen am 3. Dezember 2017. Stabil.
 
 ---
 
-*Vitalbrot-Mix mit Sonnenblumenkerne & Leinsamen* von *Hammermühle*. Abgelaufen 2013. Gegessen am 7. Juli 2019. Mustergültig.
+*REWE Bio Haferflocken*. 6 Jahre drüber. Okay.
 
-*Brot*. Abgelaufen 08.2017. Gegessen am 13. August 2025. Harmonisch.
+*Bio-Rote Beete gekocht* von *Rocal*. Abgelaufen 2007. Gegessen am 14. Mai 2019. Neutral.
 
-*Brot*. Abgelaufen 2011. Gegessen am 24. März 2023. Unversehrt.
+*Karamellisierter Nuss-Mix* von *Kreta Food*. Abgelaufen 04.2021. Gegessen am 14. Januar 2025. Unbedenklich.
 
-*Müsli*. Abgelaufen 2012. Gegessen am 24. Juli 2016. Akzeptabel.
+*Bratheringe in feinwürziger Marinade*. Abgelaufen 2007. Gegessen am 5. November 2020. Einwandfrei.
 
-*Fein Himbeere* von *Zwergenwiese*. Abgelaufen 2014. Gegessen am 3. November 2016. Aroma da.
+*Käse Sahne Rolle*. 2 Jahre drüber. Besser als erwartet.
 
 ---
 
-*Bio-Haselnuss-Nougat-Creme* von *Alnatura*. Abgelaufen 01.2015. Gegessen am 14. Januar 2019. Besser als erwartet.
+*Bio-Schoko Zimt Mandeln* von *Alnatura*. Abgelaufen 2010. Gegessen am 20. November 2022. Hält ewig.
 
-*Fisch* von *Appel*. Abgelaufen 2007. Gegessen am 2. März 2022. Kein Problem.
+*Schoko Peanut Butter* von *share*. Abgelaufen 2013. Gegessen am 5. September 2018. Wie am ersten Tag.
 
-*Vegane Mühlen Nuggets Klassisch*. Abgelaufen 2008. Gegessen am 11. Dezember 2012. Würde wieder.
+*Husten Bonbons, Kräuter-mint*. Abgelaufen 2014. Gegessen am 3. September 2021. Erträglich.
 
-*Pizza ringe*. 6 Jahre drüber. Kein Grund zur Klage.
+*Alce nero Penne Rigate Sorten von Senatore-Hüten*. 10 Jahre drüber. Schmeckt noch.
 
-*Sushi Lachsbox*. 8 Jahre drüber. Einwandfrei.
+*Heringsfilets - Tomaten-Creme* von *Hawesta*. Abgelaufen 04.2021. Gegessen am 25. November 2023. Aroma vorhanden.
 
 ---
 
-*Unox runderknaks*. 5 Jahre drüber. Schmeckt noch.
+*Salat & Knöpfle Käse-Röstzwiebeln* von *LIDL*. Abgelaufen 11.2021. Gegessen am 26. April 2025. Genießbar.
 
-*Käse* von *Food for Future*. Abgelaufen 10.2015. Gegessen am 18. Dezember 2025. Tut's noch.
+*Bio-Chia Superfood Riegel Aprikose & Kürbiskern* von *bio Zentrale*. Abgelaufen 2007. Gegessen am 18. Februar 2014. In Ordnung.
 
-*Falafel mit Gemüse* von *Culinea*. Abgelaufen 05.2019. Gegessen am 8. September 2025. Fein.
+*Dinkelbrot*. 4 Jahre drüber. Kein Problem.
 
-*Bio-Freche Freunde - Apfel & Karotte Riegel* von *Erdbär*. Abgelaufen 2014. Gegessen am 4. August 2018. Nicht schlecht.
+*Blumenkohlreis*. Abgelaufen 03.2018. Gegessen am 24. Juni 2022. Geht runter.
 
-*Cremig-zartes Hafer-Porridge Nuss* von *Kölln*. Abgelaufen 01.2015. Gegessen am 15. August 2017. Keine Beanstandung.
+*Wurst* von *K-Classic*. Abgelaufen 2010. Gegessen am 8. März 2019. Funktioniert.
 
 ---
 
-*Roggenbrot*. Abgelaufen 12.2017. Gegessen am 25. Februar 2024. Vertretbar.
+*Zart Bitter Schokolade*. Abgelaufen 2011. Gegessen am 9. Januar 2018. Kein Grund zur Klage.
 
-*Bio Backofen Frites*. 3 Jahre drüber. Konstant.
+*THOMY Senf mild Der Echte*. 13 Jahre drüber. Ausreichend.
 
-*Kulturchampignons beaun* von *Lidl*. Abgelaufen 2014. Gegessen am 3. März 2024. Geschmack erhalten.
+*Bio-Tikka* von *Zwergenwiese*. Abgelaufen 2012. Gegessen am 4. August 2025. Annehmbar.
 
-*Bio-Brotaufstrich Paprika-Olive* von *Campo Verde*. Abgelaufen 04.2023. Gegessen am 22. September 2025. Robust.
+*Jetjap Manis* von *Go tan*. Abgelaufen 11.2018. Gegessen am 24. Juni 2022. Essbar.
 
-*Wurst* von *Gut & Günstig*. Abgelaufen 2008. Gegessen am 11. Oktober 2013. Hat noch.
+*Bio Erdnusskerne - geröstet & gesalzen*. Abgelaufen 04.2016. Gegessen am 1. April 2018. Konstant.
 
 ---
 
-*Soße*. Abgelaufen 2006. Gegessen am 25. Oktober 2008. Schärfer geworden.
+*Cholula*. 6 Jahre drüber. Bewährt.
 
-*Sonnen Fruchte - Aprikose*. 8 Jahre drüber. Geht.
+*Scomber Mix Classic/ Rügen* von *Rügen Fisch*. Abgelaufen 2012. Gegessen am 18. November 2018. Geht.
 
-*Apfel, Äpfel* von *Obst & Gemüs*. Abgelaufen 2011. Gegessen am 20. März 2022. Sauber.
+*Süßes Aachener Schokoladen-printen* von *Kinkartz*. Abgelaufen 2006. Gegessen am 10. April 2019. Rund.
 
-*Bio-Bergbauern Gouda* von *Zurück zum Ursprung*. Abgelaufen 2007. Gegessen am 2. August 2018. Unbedenklich.
+*Kekse* von *Brandt*. Abgelaufen 2007. Gegessen am 2. August 2020. Zufriedenstellend.
 
-*Soße*. Abgelaufen 03.2016. Gegessen am 25. Februar 2025. Ausreichend.
+*Salsiccia Mettwurst*. 2 Jahre drüber. Unauffällig.
 
 ---
 
-*Stieleis Salted Caramel* von *ICE Fantasy*. Abgelaufen 2014. Gegessen am 7. August 2021. Unauffällig.
+*Protein Quäse* von *Loose*. Abgelaufen 09.2015. Gegessen am 6. Dezember 2021. Gut.
 
-*Bonduelle Erbsen mit Möhrchen*. Abgelaufen 12.2016. Gegessen am 3. Juli 2022. Problemlos.
+*Cornetto Erdbeer*. Abgelaufen 2008. Gegessen am 10. November 2010. Frisch genug.
 
-*Original Jahrmarktsmandeln*. 3 Jahre drüber. Gut.
+*NicNac's TexMex Taco Style*. Abgelaufen 2012. Gegessen am 22. Februar 2020. Solide.
 
-*Zitronen*. 11 Jahre drüber. Funktioniert.
+*Rohschinken Gourmet Light* von *Dulano*. Abgelaufen 2014. Gegessen am 7. März 2025. Akzeptabel.
 
-*Fruchtsnacks Rote Beeren*. 6 Jahre drüber. Bewährt.
+*Soße* von *K-Classic*. Abgelaufen 2009. Gegessen am 9. September 2011. Noch gut.
 
 ---
 
-*Roggen Crisp Broed*. 2 Jahre drüber. Nichts auszusetzen.
+*Frisher Pizzateig*. 15 Jahre drüber. Mild.
 
-*Fisch* von *Dreimaster*. Abgelaufen 2006. Gegessen am 10. August 2009. Annehmbar.
+*Bio-Grünkohl Pulver* von *Govinda*. Abgelaufen 03.2020. Gegessen am 13. März 2025. Unbedenklich.
 
-*Kekse*. Abgelaufen 08.2022. Gegessen am 15. August 2024. Zuverlässig.
+*Fischstäbchen Rest 5 Stück*. 3 Jahre drüber. Robust.
 
-*Bio-Vollkorn Sandwich* von *Rewe*. Abgelaufen 09.2020. Gegessen am 14. Oktober 2025. Echt.
+*Apfelmus* von *K-Favourites*. Abgelaufen 2009. Gegessen am 27. Juni 2020. Besser als gedacht.
 
-*Brot* von *K-Classic*. Abgelaufen 2010. Gegessen am 15. Oktober 2020. Wie am ersten Tag.
+*Feinste Nusskern Mischung*. Abgelaufen 2014. Gegessen am 25. Oktober 2025. Würde wieder.
 
 ---
 
-*Bonbons*. Abgelaufen 12.2021. Gegessen am 19. Februar 2025. Einwandfrei.
+*Erdnüsse pikant gewürzt*. 10 Jahre drüber. Okay.
 
-*Bio Brezel & Banane*. 8 Jahre drüber. Erwartungsgemäß.
+*Bio-Haferpops Natur* von *GutBio*. Abgelaufen 09.2017. Gegessen am 28. November 2025. Einwandfrei.
 
-*Toasty - Schinkenfleisch*. 3 Jahre drüber. Zeitlos.
+*Mehl* von *Panflor*. Abgelaufen 2007. Gegessen am 25. September 2011. Wie erwartet.
 
-*Plant-based Schnitzel* von *The Green Mountain*. Abgelaufen 2007. Gegessen am 11. Oktober 2023. Kann man machen.
+*Rosinen Brötchen*. Abgelaufen 08.2017. Gegessen am 9. April 2023. Original.
 
-*Bergblütenhonig*. 7 Jahre drüber. Erfüllt den Zweck.
+*Blattsalat Mix*. 12 Jahre drüber. Schmeckt noch.
 
 ---
 
-*Rum Rosinen* von *Dr. Oetker*. Abgelaufen 09.2019. Gegessen am 2. Juni 2025. Würde wieder.
+*Mehl* von *Veganz*. Abgelaufen 09.2019. Gegessen am 2. Mai 2023. Problemlos.
 
-*Gewürzgurken Cornicons Chilinote*. Abgelaufen 03.2021. Gegessen am 4. Dezember 2024. Tolerierbar.
+*Vanille Joghurt Mochis*. 3 Jahre drüber. Kein Problem.
 
-*Kuchen*. Abgelaufen 11.2017. Gegessen am 5. Februar 2023. Weich geworden.
+*Bio-Weißes Mandelmus aus Europa* von *Rapunzel*. Abgelaufen 2013. Gegessen am 18. August 2019. Besser als erwartet.
 
-*Soße*. Abgelaufen 11.2021. Gegessen am 25. Februar 2024. Besser als erwartet.
+*Cardamomkapseln, grün, ganz* von *Fuchs*. Abgelaufen 2009. Gegessen am 26. Mai 2024. Unverwüstlich.
 
-*Käse* von *Gourmet Finest Cuisine*. Abgelaufen 12.2019. Gegessen am 17. Dezember 2022. Genügend.
+*Wildschwein-Salami mit Schweinefleisch*. Abgelaufen 02.2015. Gegessen am 26. August 2023. Angenehm.
 
 ---
 
-*Zartbitterschokolade* von *Lindt*. Abgelaufen 2014. Gegessen am 13. Dezember 2019. Solide.
+*Porridge mit Vollkornhafer Apfel-Zimt*. 2 Jahre drüber. Erwartungsgemäß.
 
-*Bio Steinpilz Polenta* von *Aldi*. Abgelaufen 02.2017. Gegessen am 9. Mai 2022. Essbar.
+*Beerenmarmelade* von *Spar*. Abgelaufen 2010. Gegessen am 2. August 2013. Hinnehmbar.
 
-*Kekse* von *Biscotto Aldi*. Abgelaufen 06.2021. Gegessen am 7. Dezember 2025. Kein Problem.
+*Bonbons* von *Schladerer*. Abgelaufen 04.2022. Gegessen am 7. November 2025. In Ordnung.
 
-*Snack-Hasen*. Abgelaufen 2012. Gegessen am 4. Februar 2020. Frisch genug.
+*Ravioli mit pikanter Fleischsause*. Abgelaufen 2009. Gegessen am 20. Februar 2015. Unerwartet frisch.
 
-*Oliven grün al naturale*. 3 Jahre drüber. Genießbar.
+*Bio-Bunte Spiralen* von *byodo*. Abgelaufen 2011. Gegessen am 16. Dezember 2020. Geht.
 
 ---
 
-*Brutti e buoni Mandelmakronen* von *REWE Feine Welt*. Abgelaufen 02.2018. Gegessen am 27. April 2023. Unbedenklich.
+*Dinkelknöpfle* von *Bürger*. Abgelaufen 2012. Gegessen am 25. Januar 2021. Befriedigend.
 
-*Mehl* von *Korn Mühle*. Abgelaufen 2013. Gegessen am 16. Mai 2017. Harmonisch.
+*Dreikorn Toast*. Abgelaufen 2008. Gegessen am 3. März 2025. Hat noch.
 
-*Klassische Spezialitäten* von *Lindt*. Abgelaufen 2007. Gegessen am 28. Januar 2024. Okay.
+*Laugenbrötchen mit Sesam*. 2 Jahre drüber. Gut.
 
-*Bonbons*. Abgelaufen 2013. Gegessen am 2. Juni 2023. Möglich.
+*Bio-Dinkel Mini brezeln* von *DmBio*. Abgelaufen 2009. Gegessen am 1. August 2019. Brauchbar.
 
-*Jägertopf mit Nudeln Kopie Kopie Kopie* von *Meine Mahlzeit*. Abgelaufen 2008. Gegessen am 13. Dezember 2016. Hat noch.
+*Hof-Gemüse Reinhards Rucola Kirschtomate* von *Allos*. Abgelaufen 2006. Gegessen am 22. Dezember 2012. Typisch.
 
 ---
 
-*Vollmilchschokolade* von *Lindt*. Abgelaufen 05.2015. Gegessen am 11. Januar 2018. Stabil.
+*Lahmacun - Türkische Pizza*. Abgelaufen 06.2023. Gegessen am 12. September 2025. Optisch verändert.
 
-*Apfelmus* von *REWE Beste Wahl*. Abgelaufen 2007. Gegessen am 7. Mai 2013. Wie erwartet.
+*Dinkel cookies mit Ingwer Kurkuma Galgant*. 11 Jahre drüber. Zufriedenstellend.
 
-*Gemüse* von *bio natura*. Abgelaufen 12.2021. Gegessen am 4. Januar 2024. Passt.
+*Kinder Country Sparpack, 16 Riegel*. Abgelaufen 04.2022. Gegessen am 4. August 2024. Stabil.
 
-*Schlemmerfilet*. 4 Jahre drüber. Farbe verändert.
+*Ramen Kinoko Pilzbrühe* von *TADA*. Abgelaufen 2014. Gegessen am 13. April 2024. Dezent.
 
-*Bio-Snack-Knäcke Saaten Mix* von *DmBio*. Abgelaufen 2013. Gegessen am 24. Juni 2016. Etwas weich.
+*Weiße Schokolade* von *Ferrero*. Abgelaufen 2009. Gegessen am 2. September 2021. Nichts auszusetzen.
 
 ---
 
-*Aufstrich* von *Terra Sana*. Abgelaufen 2010. Gegessen am 19. August 2020. Original.
+*Kartoffel Snack Hanf Geschmack*. Abgelaufen 07.2016. Gegessen am 12. März 2024. Perfekt.
 
-*Sardinien Zitrone*. Abgelaufen 08.2021. Gegessen am 1. Februar 2025. Ohne Befund.
+*Marmelade Rote Früchte* von *Schwartau*. Abgelaufen 02.2018. Gegessen am 4. Januar 2025. Bewährt.
 
-*Zartbitter Hase*. 2 Jahre drüber. Geht.
+*Eis* von *Ice Fantasy*. Abgelaufen 04.2023. Gegessen am 25. Juni 2025. Weich.
 
-*Bio-Sommerdinkel Spiralen* von *byodo*. Abgelaufen 08.2015. Gegessen am 27. Juli 2018. Sanft.
+*Mini Wiener Würstchen*. Abgelaufen 01.2021. Gegessen am 8. April 2025. Tolerierbar.
 
-*Brot*. Abgelaufen 2014. Gegessen am 2. September 2023. Tadellos.
+*Braune Soße*. 6 Jahre drüber. Stimmig.
 
 ---
 
-*Harzer Minis nach traditioneller Art* von *Gut & Günstig*. Abgelaufen 09.2018. Gegessen am 11. November 2023. Einwandfrei.
+*Gewürzgurken* von *Jardinelle*. Abgelaufen 2006. Gegessen am 19. Dezember 2013. Macht was es soll.
 
-*Marzipan*. Abgelaufen 2013. Gegessen am 23. September 2023. Vertretbar.
+*Knuspriger Frucht-Mix*. 4 Jahre drüber. Einwandfrei.
 
-*Schweizer Tafel Ganze Haselnuss*. 4 Jahre drüber. Ausgewogen.
+*Bio Körnerweckerl*. Abgelaufen 2014. Gegessen am 1. November 2018. Zuverlässig.
 
-*Couscous moyen - medium couscous* von *Duru Bulgur*. Abgelaufen 08.2022. Gegessen am 1. Dezember 2024. Gut.
+*Bio Frischkost Sauerkraut* von *Marschland Naturkost*. Abgelaufen 2012. Gegessen am 21. Juni 2017. Fein.
 
-*Bourbon-Vanielle Waffeln*. 3 Jahre drüber. Akzeptabel.
+*Soße* von *Natürlich vom Biberhof*. Abgelaufen 04.2019. Gegessen am 28. Juli 2025. Kein Problem.
 
 ---
 
-*Bio-Mandel Dinkel Biscotti* von *enerbio*. Abgelaufen 2008. Gegessen am 10. November 2023. Schmeckt noch.
+*Himbeer in weißer Milch- oder Zartbitterschokolade*. Abgelaufen 2011. Gegessen am 3. Mai 2018. Klassiker.
 
-*Aufstrich* von *DmBio*. Abgelaufen 05.2018. Gegessen am 24. Februar 2025. Exemplarisch.
+*Nudeln, Penne, Reis u. Linsen*. 17 Jahre drüber. Geht runter.
 
-*Käse*. Abgelaufen 12.2016. Gegessen am 11. November 2020. Unerwartet frisch.
+*Scharfe Hirte*. Abgelaufen 02.2020. Gegessen am 10. Juni 2022. Genießbar.
 
-*4-Korn-Fruchtjoghurt Apfel-Banane*. 13 Jahre drüber. Angenehm.
+*Schoko-Häschen*. 8 Jahre drüber. Hält ewig.
 
-*Fix Rouladen Gewürz* von *Maggi*. Abgelaufen 2009. Gegessen am 23. Oktober 2020. Konstant.
+*Sojola Streichfett*. Abgelaufen 2012. Gegessen am 2. August 2021. Textur verändert.

@@ -10,7 +10,7 @@ import {
 import { weightedRandom } from "../random";
 import { BaseGenerator, type GeneratedEntry } from "./base-generator";
 
-type EntryVariant = "full" | "no-brand" | "short" | "bio";
+type EntryVariant = "with-brand" | "name-only" | "short" | "bio";
 
 type VariantContext = {
   hasBrand: boolean;
@@ -25,13 +25,13 @@ type VariantConfig = {
 
 const VARIANT_CONFIGS: VariantConfig[] = [
   {
-    variant: "full",
+    variant: "with-brand",
     weight: 60,
     condition: (ctx) => ctx.hasBrand,
   },
   {
-    variant: "no-brand",
-    weight: (ctx) => (ctx.hasBrand ? 10 : 50),
+    variant: "name-only",
+    weight: 20,
   },
   {
     variant: "short",
@@ -210,20 +210,22 @@ export class StandardEntryGenerator extends BaseGenerator {
   ): string {
     const expiryStr = formatExpiryDate(expiryDate);
     const eatenStr = formatEatenDate(eatenDate);
-    const productName = product.genericName
-      ? weightedRandom([product.genericName, product.name], [70, 30])
-      : product.name;
 
     switch (variant) {
-      case "full": {
+      case "with-brand": {
+        // Only with-brand can use genericName (since brand provides identification)
+        const productName = product.genericName
+          ? weightedRandom([product.genericName, product.name], [70, 30])
+          : product.name;
         return `${this.em(productName)} von ${this.em(product.brand!)}. Abgelaufen ${expiryStr}. Gegessen am ${eatenStr}. ${rating}`;
       }
 
-      case "no-brand":
-        return `${this.em(productName)}. Abgelaufen ${expiryStr}. Gegessen am ${eatenStr}. ${rating}`;
+      case "name-only":
+        // Always use product.name (never genericName) - it's specific enough without brand
+        return `${this.em(product.name)}. Abgelaufen ${expiryStr}. Gegessen am ${eatenStr}. ${rating}`;
 
       case "short": {
-        // Use relative time format
+        // Use relative time format with product.name
         const relativeWeeks = formatWeeksDiff(expiryDate, eatenDate);
         const relativeMonths = formatRelativeExpiry(expiryDate, eatenDate);
         const relative =
@@ -240,7 +242,7 @@ export class StandardEntryGenerator extends BaseGenerator {
       }
 
       default:
-        return `${this.em(productName)}. Abgelaufen ${expiryStr}. ${rating}`;
+        return `${this.em(product.name)}. Abgelaufen ${expiryStr}. ${rating}`;
     }
   }
 }
