@@ -370,6 +370,13 @@ RISKY_TRANSPARENT_CATEGORIES = {
     "fresh-beef-preparations", "fresh-ground-meat-preparations",
     "fresh-ground-beef-preparations", "fresh-ground-steaks",
     "fresh-ground-beef-steaks",
+
+    # Gekochtes Fleisch (oft in transparenter Folie)
+    "cooked-poultries", "cooked-chicken", "cooked-chicken-breast-slices",
+    "diced-ham",
+
+    # Fertigsalate/Gemüse (oft in Klarsichtschalen)
+    "prepared-salads", "prepared-vegetables",
 }
 
 SAFE_OPAQUE_CATEGORIES = {
