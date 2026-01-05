@@ -29,23 +29,23 @@ _language_detector = LanguageDetectorBuilder.from_languages(
 # fmt: off
 ALLOWED_FOOD_CATEGORIES = {
     # === HAUPT-LEBENSMITTELKATEGORIEN ===
-    "plant-based-foods",  # NICHT "plant-based-foods-and-beverages"!
+    # plant-based-foods entfernt (zu breit, enthält loses Obst/Gemüse)
     "snacks", "sweet-snacks", "salty-snacks",
     "cereals-and-potatoes", "cereals-and-their-products",
     "dairies", "fermented-milk-products", "fermented-dairy-desserts",
-    "condiments", "fruits-and-vegetables-based-foods",
+    "condiments",  # fruits-and-vegetables-based-foods entfernt (zu breit, enthält loses Obst/Gemüse)
     "fermented-foods", "meats-and-their-products", "meals",
     "desserts", "spreads", "sauces", "cheeses",
-    "vegetables-based-foods", "breakfasts", "confectioneries",
+    "breakfasts", "confectioneries",  # vegetables-based-foods entfernt (zu breit)
     "cocoa-and-its-products", "prepared-meats", "meats",
     "groceries", "biscuits-and-cakes", "frozen-foods", "canned-foods",
-    "fruits-based-foods", "dairy-desserts", "pastas", "seeds",
+    "dairy-desserts", "pastas", "seeds",  # fruits-based-foods entfernt (zu breit)
     "plant-based-spreads", "seafood", "breads", "chocolates",
     "legumes-and-their-products", "biscuits-and-crackers", "sweet-spreads",
     "nuts-and-their-products", "canned-plant-based-foods",
-    "fishes-and-their-products", "vegetables", "breakfast-cereals",
+    "fishes-and-their-products", "breakfast-cereals",  # vegetables entfernt (zu breit)
     "fishes", "dried-products", "biscuits", "fats", "yogurts",
-    "chocolate-candies", "fruits", "appetizers", "legumes", "sausages",
+    "chocolate-candies", "appetizers", "legumes", "sausages",  # fruits entfernt (zu breit)
     "nuts", "frozen-desserts", "cereal-grains", "meat-alternatives",
     "ice-creams-and-sorbets", "canned-vegetables", "dairy-substitutes",
     "fatty-fishes", "cured-sausages", "candies", "chips-and-fries", "bars",
@@ -58,21 +58,21 @@ ALLOWED_FOOD_CATEGORIES = {
 
     # === SPEZIFISCHE LEBENSMITTELKATEGORIEN ===
     "milk-chocolates", "pizzas-pies-and-quiches", "cream-cheeses", "pastries",
-    "bee-products", "chicken-and-its-products", "honeys", "culinary-plants",
+    "bee-products", "chicken-and-its-products", "honeys",  # culinary-plants entfernt (lose)
     "fermented-dairy-desserts-with-fruits", "dried-fruits",
     "frozen-plant-based-foods", "hams", "breaded-products", "dark-chocolates",
     "italian-cheeses", "pizzas", "vegan-products", "spreadable-fats",
     "canned-fishes", "potato-crisps", "fruit-yogurts", "eggs",
-    "pork-and-its-products", "tomatoes", "pickled-vegetables",
+    "pork-and-its-products", "pickled-vegetables",  # tomatoes entfernt (lose)
     "stuffed-pastas", "dry-pastas", "durum-wheat-pasta", "creams", "olives",
     "compotes", "quarks", "ketchup", "mustards", "pestos", "broths", "dips",
-    "cooking-helpers", "mushrooms-and-their-products", "mushrooms",
+    "cooking-helpers", "mushrooms-and-their-products",  # mushrooms entfernt (lose)
     "sandwiches", "bread-rolls", "special-breads", "hummus", "salad-dressings",
     "smoked-fishes", "hot-sauces", "beef-and-its-products", "legume-butters",
     "peanut-butters", "hard-cheeses", "coconut-milks-and-creams",
     "bakery-products", "mayonnaises", "mueslis-with-fruits", "pastry-helpers",
-    "fish-preparations", "gherkins", "apple-compotes", "canned-fruits",
-    "tropical-fruits", "crustaceans", "shrimps", "prepared-vegetables",
+    "fish-preparations", "gherkins", "apple-compotes", "canned-fruits", "frozen-fruits",
+    "crustaceans", "shrimps", "prepared-vegetables",  # tropical-fruits entfernt (lose)
     "hazelnut-spreads", "non-dairy-fermented-foods", "chicken-preparations",
     "non-dairy-yogurts", "ice-cream-bars", "rolled-oats", "flatbreads",
     "waffles", "citrus-jams", "puffed-cereal-cakes", "sliced-breads",
@@ -85,23 +85,23 @@ ALLOWED_FOOD_CATEGORIES = {
     "margarines", "wafers", "applesauces", "cocoa-and-hazelnuts-spreads",
     "corn-chips", "marzipan", "potato-preparations", "smoked-salmons",
     "crispbreads", "breaded-chicken", "white-chocolates", "roasted-nuts",
-    "fresh-eggs", "basmati-rices", "porridge", "rice-dishes", "potatoes",
+    "fresh-eggs", "basmati-rices", "porridge", "rice-dishes",  # potatoes entfernt (lose)
     "baguettes", "easter-food", "products-without-gluten",  # fresh-fruits entfernt (lose)
     "wheat-breads", "emmentaler", "vegetarian-sausages", "combination-meals",
     "vegetable-soups", "meat-spreads", "fresh-cheeses", "prawns",
     "frozen-ready-made-meals", "cured-liver-sausages", "vegetable-rods",
-    "cured-hams", "citrus", "salmon-fillets", "fermented-creams",
-    "dried-vegetables", "filled-milk-chocolates", "cheese-spreads", "corn",
-    "filled-biscuits", "chicken-breasts", "french-cheeses", "apples",
+    "cured-hams", "salmon-fillets", "fermented-creams",  # citrus entfernt (lose)
+    "dried-vegetables", "filled-milk-chocolates", "cheese-spreads",  # corn entfernt (lose Maiskolben)
+    "filled-biscuits", "chicken-breasts", "french-cheeses",  # apples entfernt (lose)
     "soy-sauces", "tomato-pastes", "ravioli", "dehydrated-broths",
     "canned-soups", "dried-tomatoes", "assorted-chocolate-candies",
     "fermented-vegetables", "vegetable-broths", "meals-with-chicken",
     "german-sausages", "chocolates-with-hazelnuts", "gnocchi", "meals-with-fish",
     "puffed-rice-cakes", "frozen-seafood", "frozen-fried-potatoes",
     "cheese-substitutes", "tortellini", "canned-cereals", "baking-mixes",
-    "greek-cheeses", "carrots", "potato-dishes", "curry-pastes",
-    "whipped-creams", "canned-corn", "blueberries", "green-pestos",
-    "german-bakery-products", "dates", "fries", "sour-creams",
+    "greek-cheeses", "potato-dishes", "curry-pastes",  # carrots entfernt (lose)
+    "whipped-creams", "canned-corn", "green-pestos",  # blueberries entfernt (lose)
+    "german-bakery-products", "fries", "sour-creams",  # dates entfernt (lose)
     "greek-style-yogurts", "plain-fermented-dairy-desserts", "wholemeal-breads",
     "goat-cheeses", "poultry-nuggets", "pumpkin-and-squash-plant-products",
     "sugar-free-chewing-gum", "sauerkrauts", "strawberry-jams", "stews",
@@ -111,21 +111,36 @@ ALLOWED_FOOD_CATEGORIES = {
     "tunas", "salmons", "puddings", "festive-foods", "christmas-foods-and-drinks",
     "nut-butters", "chocolate-spreads",  # fresh-plant-based-foods, fresh-foods entfernt (lose)
 
+    # === VERPACKTE OBST/GEMÜSE/FISCH-KATEGORIEN (explizit hinzugefügt) ===
+    "canned-legumes", "canned-meals", "canned-mushrooms", "canned-meats",
+    "canned-peas", "canned-chickpeas", "canned-red-kidney-beans", "canned-pineapples",
+    "canned-peppers", "canned-sardines", "canned-sweet-corn", "canned-peas-and-carrots",
+    "canned-fruits-in-juice", "canned-champignon-mushrooms", "canned-raviolis",
+    "canned-green-beans", "canned-lentils", "canned-asparagus", "canned-artichokes",
+    "frozen-pizzas-and-pies", "frozen-pizzas", "frozen-fishes", "frozen-fries",
+    "frozen-berries", "frozen-spinachs", "frozen-legumes", "frozen-meats",
+    "frozen-mixed-vegetables",
+    "dried-meals", "dried-figs", "dried-apricots", "dried-mixed-fruits",
+    "dried-cranberries", "dried-mangoes", "dried-coconut", "dried-prunes",
+    "dried-meats", "dried-mushrooms", "dried-apples",
+    "smoked-trouts", "smoked-tofu", "pickled-capers",
+
     # === DEUTSCHE KATEGORIENAMEN (aus OFF-Daten) ===
-    "pflanzliche-lebensmittel", "susser-snack", "susswaren",
-    "frucht-und-gemusebasierte-lebensmittel", "kase",
+    # pflanzliche-lebensmittel entfernt (zu breit)
+    # frucht-und-gemusebasierte-lebensmittel entfernt (zu breit)
+    "susser-snack", "susswaren", "kase",
 
     # === WEITERE SPEZIFISCHE KATEGORIEN ===
     "cereal-pastas", "oilseed-purees", "gummi-candies", "instant-noodles",
     "mueslis-with-chocolate", "candy-chocolate-bars", "chicken-eggs",
-    "aromatic-plants", "berry-jams", "crackers-appetizers", "cheeses-of-the-netherlands",
+    "berry-jams", "crackers-appetizers", "cheeses-of-the-netherlands",  # aromatic-plants entfernt (lose)
     "long-grain-rices", "filled-chocolates", "pasta-sauces", "chocolate-cereals",
     "sliced-cheeses", "gingerbreads", "soft-cheeses",  # fresh-vegetables entfernt (lose)
-    "stretched-curd-cheeses", "common-beans", "salads", "soft-cheeses-with-bloomy-rind",
-    "plant-based-creams", "herbs", "spaghetti", "extruded-cereals", "shelled-nuts",
+    "stretched-curd-cheeses", "common-beans", "soft-cheeses-with-bloomy-rind",  # salads entfernt (lose)
+    "plant-based-creams", "spaghetti", "extruded-cereals", "shelled-nuts",  # herbs entfernt (lose)
     "peanuts", "plant-based-creams-for-cooking", "mueslis-with-fruits", "aromatic-rices",
     "meal-sauces", "lentils", "indica-rices", "canned-tunas",
-    "uncooked-pressed-cheeses", "animal-fats", "cereal-flakes", "leaf-vegetables",
+    "uncooked-pressed-cheeses", "animal-fats", "cereal-flakes",  # leaf-vegetables entfernt (lose)
     "milkfat", "butters", "spice-mix", "pickled-cucumbers", "sunflower-seeds-and-their-products",
     "flakes", "ice-cream-tubs", "homogenized-milks", "pasteurised-products",
     "dairy-spreads", "cereals-with-fruits", "extruded-flakes", "petits-suisses",
@@ -147,30 +162,16 @@ ALLOWED_FOOD_CATEGORIES = {
     "risotto", "paella", "biryani", "pilaf",
     "polenta", "grits", "semolina", "bulgur", "quinoa", "amaranth", "millet",
     "buckwheat", "spelt", "kamut", "freekeh", "farro", "teff",
-    "cranberries", "raspberries", "blackberries", "strawberries",
-    "cherries", "plums", "peaches", "apricots", "nectarines",
-    "mangos", "papayas", "pineapples", "bananas", "kiwis", "figs",
-    "pomegranates", "passion-fruits", "lychees", "dragon-fruits",
-    "avocados", "coconuts", "grapes", "melons", "watermelons",
-    "oranges", "lemons", "limes", "grapefruits", "tangerines", "mandarins",
-    "broccoli", "cauliflower", "cabbage", "brussels-sprouts", "kale",
-    "spinach", "lettuce", "arugula", "chard", "collard-greens",
-    "asparagus", "artichokes", "celery", "fennel", "leeks",
-    "zucchini", "eggplants", "cucumbers", "bell-peppers", "chili-peppers",
-    "peas", "green-beans", "wax-beans", "snap-peas", "snow-peas",
-    "beets", "radishes", "turnips", "parsnips", "rutabagas",
-    "sweet-potatoes", "yams", "taro", "cassava",
-    "walnuts", "pecans", "hazelnuts", "macadamias", "pistachios",
-    "brazil-nuts", "pine-nuts", "chestnuts",
-    "sunflower-seeds", "pumpkin-seeds", "sesame-seeds", "chia-seeds",
-    "flax-seeds", "hemp-seeds", "poppy-seeds",
-    "lamb", "mutton", "veal", "venison", "rabbit", "duck", "goose", "turkey",
+    # === ENTFERNT: Loses Obst (cranberries bis mandarins) ===
+    # === ENTFERNT: Loses Gemüse (broccoli bis cassava) ===
+    # === ENTFERNT: Lose Nüsse (walnuts bis chestnuts) - shelled-nuts/roasted-nuts bleiben ===
+    # === ENTFERNT: Lose Samen (sunflower-seeds bis poppy-seeds) ===
+    # === ENTFERNT: Generisches Fleisch (lamb, mutton, veal, venison, rabbit, duck, goose, turkey) ===
     "bacon", "pancetta", "prosciutto", "chorizo", "bratwurst", "frankfurter",
     "mortadella", "bologna", "pepperoni", "pastrami", "corned-beef",
-    "anchovies", "sardines", "mackerel", "trout", "cod", "haddock", "halibut",
-    "sole", "flounder", "sea-bass", "tilapia", "catfish", "carp",
-    "lobster", "crab", "mussels", "clams", "oysters", "scallops", "squid", "octopus",
-    "caviar", "roe", "fish-roe", "crab-meat",
+    # === ENTFERNT: Generischer Fisch (anchovies bis carp) - canned-fishes/smoked-fishes bleiben ===
+    # === ENTFERNT: Generische Meeresfrüchte (lobster bis octopus) ===
+    "caviar", "roe", "fish-roe", "crab-meat",  # Typischerweise in Gläsern/Dosen
     "brie", "gruyere", "cheddar", "parmesan", "pecorino", "manchego",
     "roquefort", "gorgonzola", "stilton", "blue-cheese",
     "ricotta", "mascarpone", "cottage-cheese", "quark",
