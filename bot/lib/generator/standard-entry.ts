@@ -234,8 +234,8 @@ export class StandardEntryGenerator extends BaseGenerator {
       }
 
       case "bio": {
-        // Don't add "Bio-" prefix if name already starts with "Bio"
-        const bioName = /^bio[\s-]/i.test(product.name)
+        // Don't add "Bio-" prefix if name already contains "Bio"
+        const bioName = /\bbio[\s-]?/i.test(product.name)
           ? product.name
           : `Bio-${product.name}`;
         return `${this.em(bioName)} von ${this.em(product.brand!)}. Abgelaufen ${expiryStr}. Gegessen am ${eatenStr}. ${rating}`;
