@@ -123,12 +123,27 @@ ALLOWED_FOOD_CATEGORIES = {
     "dried-meals", "dried-figs", "dried-apricots", "dried-mixed-fruits",
     "dried-cranberries", "dried-mangoes", "dried-coconut", "dried-prunes",
     "dried-meats", "dried-mushrooms", "dried-apples",
-    "smoked-trouts", "smoked-tofu", "pickled-capers",
+    "smoked-trouts", "smoked-tofu", "smoked-cured-hams", "smoked-sausages",
+    "smoked-bacon", "smoked-cheeses", "smoked-mackerels", "smoked-herrings",
+    "pickled-capers",
+    "dried-hams", "dried-bananas", "dried-seaweeds", "dried-tomato-in-oil",
+    "frozen-plant-based-foods-mixes", "frozen-cakes-and-pastries", "frozen-lasagne",
+    "cooked-poultries", "cooked-chicken", "cooked-chicken-breast-slices",
+    "stuffed-olives", "baked-beans-in-tomato-sauce", "fried-onions",
+    "stuffed-vine-leaves", "candied-fruits", "marinated-olives",
+    "breaded-fish", "breaded-cheeses", "breaded-meat-cutlets", "breaded-camemberts",
+    "instant-noodle-soups", "instant-pasta", "instant-mashed-potatoes", "precooked-rices",
+    "fruit-jellies", "fruit-confectioneries", "fruit-chutneys", "fruit-mousses",
+    "vegetable-lasagnas", "vegetable-gratins", "grated-horseradish", "diced-ham",
 
     # === DEUTSCHE KATEGORIENAMEN (aus OFF-Daten) ===
     # pflanzliche-lebensmittel entfernt (zu breit)
     # frucht-und-gemusebasierte-lebensmittel entfernt (zu breit)
     "susser-snack", "susswaren", "kase",
+    "fleischsalat", "fleischerzeugnisse", "nürnberger-lebkuchen", "fruchtaufstrich",
+    "gefrorene-fertiggerichte", "maultaschen", "wurstaufschnitt", "dominosteine",
+    "bierschinken", "schwarzwälder-schinken", "fleischkäse", "leberkäse",
+    "mettwurst", "lyoner", "kartoffelsalat",
 
     # === WEITERE SPEZIFISCHE KATEGORIEN ===
     "cereal-pastas", "oilseed-purees", "gummi-candies", "instant-noodles",
