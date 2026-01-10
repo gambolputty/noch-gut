@@ -11,12 +11,11 @@ import {
   shuffle,
 } from "noch-gut-bot";
 
-import { Lightbox } from "./Lightbox";
-
 type DisplayEntry = {
   id: number;
   text: string;
   imageUrl: string | null;
+  showImage: boolean;
 };
 
 type DisplayDay = {
@@ -26,13 +25,16 @@ type DisplayDay = {
   entries: DisplayEntry[];
 };
 
+// Show an image roughly every N entries, but max one per day
+const IMAGE_FREQUENCY = 8;
+
 export function EntryList() {
   const [days, setDays] = useState<DisplayDay[]>([]);
   const [loading, setLoading] = useState(true);
-  const [lightboxImage, setLightboxImage] = useState<string | null>(null);
   const generatorRef = useRef<ProtocolGenerator | null>(null);
   const dayIdRef = useRef(0);
   const entryIdRef = useRef(0);
+  const globalEntryCountRef = useRef(0);
   const lastDateRef = useRef<Date | null>(null);
 
   useEffect(() => {
@@ -73,15 +75,34 @@ export function EntryList() {
   }, []);
 
   const convertDay = useCallback((day: ProtocolDay): DisplayDay => {
+    let dayHasImage = false;
+
     return {
       id: dayIdRef.current++,
       date: day.date,
       header: formatProtocolDayHeader(day.date),
-      entries: day.entries.map((entry) => ({
-        id: entryIdRef.current++,
-        text: entry.text,
-        imageUrl: entry.product.imageUrl,
-      })),
+      entries: day.entries.map((entry) => {
+        const globalIndex = globalEntryCountRef.current++;
+        const hasImage = entry.product.imageUrl !== null;
+
+        // Show image if: it's time for one, day doesn't have one yet, and entry has an image
+        const showImage =
+          !dayHasImage &&
+          hasImage &&
+          globalIndex > 0 &&
+          globalIndex % IMAGE_FREQUENCY === 0;
+
+        if (showImage) {
+          dayHasImage = true;
+        }
+
+        return {
+          id: entryIdRef.current++,
+          text: entry.text,
+          imageUrl: entry.product.imageUrl,
+          showImage,
+        };
+      }),
     };
   }, []);
 
@@ -122,25 +143,19 @@ export function EntryList() {
               <h2 class="day-header">{day.header}</h2>
               <ul class="entries">
                 {day.entries.map((entry) => (
-                  <li key={entry.id} class="entry">
-                    {entry.imageUrl && (
+                  <li
+                    key={entry.id}
+                    class={entry.showImage ? "entry entry-featured" : "entry"}
+                  >
+                    {entry.showImage && entry.imageUrl && (
                       <img
-                        class="entry-thumb"
-                        src={entry.imageUrl.replace(".400.", ".100.")}
+                        class="entry-image"
+                        src={entry.imageUrl}
                         alt=""
                         loading="lazy"
-                        onClick={() => setLightboxImage(entry.imageUrl)}
-                        onMouseEnter={() => {
-                          const img = new Image();
-                          img.src = entry.imageUrl!;
-                        }}
-                        onLoad={(e) => {
-                          (e.target as HTMLImageElement).dataset.loaded =
-                            "true";
-                        }}
                       />
                     )}
-                    {entry.text}
+                    <span class="entry-text">{entry.text}</span>
                   </li>
                 ))}
               </ul>
@@ -148,13 +163,6 @@ export function EntryList() {
           ))}
         </div>
       </InfiniteScroll>
-
-      {lightboxImage && (
-        <Lightbox
-          src={lightboxImage}
-          onClose={() => setLightboxImage(null)}
-        />
-      )}
     </>
   );
 }
