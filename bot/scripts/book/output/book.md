@@ -1,410 +1,454 @@
 # Protokoll
 
 Beginn: 1. Januar 2016
-Ende: 10. Januar 2026
+Ende: 11. Januar 2026
 
-**6. Februar 2016**
+**18. Januar 2016**
 
-*Rogan Josh Sauce nach indischer Art*. 18 Jahre drüber. Vertretbar.
+*Sandwich Dinkel*. Abgelaufen 2013. Bewährt.
 
-**16. Juni 2016**
+*Fisch* (Aldi). Abgelaufen 2010. Gut.
 
-*Bio-Maultaschen*. Abgelaufen 2006. Makellos.
+**26. Januar 2016**
 
-**19. Juni 2016**
+*Karamel-Mandel-Krokant Vollmilchschokolade*. 14 Jahre drüber. Unverwüstlich.
 
-*Goldstücke* (Lindt & Sprüngli). Abgelaufen 2006. Unbedenklich.
+**19. Februar 2016**
 
-*Nudeln* (Combino). Abgelaufen 2010. Echt.
+*Makrelenfilets in feiner Tomaten-Creme*. Abgelaufen 2013. Typisch.
 
-**25. Juni 2016**
+**8. April 2016**
 
-*Paprika Kartoffel Sticks* (ja!). Abgelaufen 2007. Essbar.
+*Feinste Elisen-Lebkuchen*. Abgelaufen 2013. Einwandfrei.
 
-**28. Juni 2016**
+*Saucisse Aux Pommes De Terre Traditionnelle*. Abgelaufen 2012. Schmeckt noch.
 
-*Chili sind Carne*. Abgelaufen 2006. Brauchbar.
+**18. April 2016**
 
-*Pasta-Sauce Tomate-Sahne*. Abgelaufen 2012. Stabil.
+*Roggenmehl*. Abgelaufen 2008. Brauchbar.
 
-**23. August 2016**
+*K-take it veggie Vegane Burgerscheiben*. Abgelaufen 2010. Kein Problem.
 
-*Salat Gewürz* (Coop). Abgelaufen 2014. Zeitlos.
+**1. Mai 2016**
 
-*Darkmilk Kakao Splitter*. 15 Jahre drüber. Unerwartet frisch.
+*Ahornsirup*. Abgelaufen 2011. Rein.
 
-**23. November 2016**
+*Pate d'amandes*. 13 Jahre drüber. Noch gut.
 
-*Olivennudeln* (Wajos). Abgelaufen 2008. Einwandfrei.
+**10. Mai 2016**
 
-**4. Dezember 2016**
+*Apfel Wassereis* (Sun Lolly). Abgelaufen 2008. Akzeptabel.
 
-*Landfein cremoso*. 14 Jahre drüber. In Ordnung.
+**21. Mai 2016**
 
-*Kekse* (de Beukelaer). Abgelaufen 2010. Passt.
+*Kidney-Bohnen dunkelrot* (Star Marke). Abgelaufen 2013. Besser als erwartet.
 
-*Green Cuisine vegetarische Lasagne* (iglo). Abgelaufen 2007. Zuverlässig.
+**14. Juli 2016**
 
-*Joghurt* (Hof-Milch). Abgelaufen 2008. Exemplarisch.
+*Kekse* (Capico). Abgelaufen 2011. Harmonisch.
 
-**5. Dezember 2016**
+*Frühstücksmüsli*. 17 Jahre drüber. Wie erwartet.
 
-*Ölivenöl*. 17 Jahre drüber. Würde wieder.
+**24. Oktober 2016**
 
-*Hummus - Kürbis*. Abgelaufen 2014. Schärfer geworden.
+*Hartkäse* (FKS GmbH). Abgelaufen 2013. In Ordnung.
 
-*Schoko Sirup* (Nestlé). Abgelaufen 2012. Schmeckt noch.
+*Feuille de vignes* (1001 Delights). Abgelaufen 2007. Vertretbar.
 
-**27. Januar 2017**
+*Pastasalat Paprika-Feta*. Abgelaufen 2009. Erwartungsgemäß.
 
-*Sitzender Osterhase, fairtrade* (Riegelein). Abgelaufen 2007. Besser als erwartet.
+*Veganer Lachs*. Abgelaufen 2009. Nicht schlecht.
 
-*Milka zarte pralinés*. Abgelaufen 2014. Noch gut.
+**22. November 2016**
 
-**22. Februar 2017**
+*Vanille Pudding zum Kochen* (Kaufland). Abgelaufen 2007. Dezent.
 
-*Fisch* (Penny). Abgelaufen 2009. Kein Problem.
+*Chilibohnen Feurig-Scharf* (La Doria). Abgelaufen 2010. Besser als gedacht.
 
-**9. April 2017**
+**2. Dezember 2016**
 
-*Spaghetti Vollkornnudeln* (Deeg's-Biohof). Abgelaufen 2009. Genießbar.
+*Tex-Mex Zwiebelmettwurst*. 15 Jahre drüber. Problemlos.
 
-*Brot* (Bäckerei Müller & Egerer). Abgelaufen 2013. Optisch verändert.
+**13. Dezember 2016**
 
-**14. April 2017**
+*Käse* (Aldi). Abgelaufen 2006. Erfüllt den Zweck.
 
-*Kekse* (Migros Bio). Abgelaufen 2012. Akzeptabel.
+*Dosen Rindfleisch-Nudeltopf*. Abgelaufen 2006. Genügend.
 
-**13. Juli 2017**
+*Haltbare Fettarme Milch*. Abgelaufen 2013. Makellos.
 
-*Chipsfrisch Salt & Vinegar*. 19 Jahre drüber. Hat noch.
+**18. Februar 2017**
 
-*Nusskrem*. 17 Jahre drüber. Geschmack erhalten.
+*Birnen halbe Frucht*. 15 Jahre drüber. Geht.
 
-**2. August 2017**
+**26. Mai 2017**
 
-*Wurst* (REWE Beste Wahl). Abgelaufen 2009. Typisch.
+*Fisch* (Lidl). Abgelaufen 2010. Würde wieder.
 
-*Baby Karotten*. Abgelaufen 2014. Gut.
+**11. Juli 2017**
 
-*Nudeln* (Wai wai). Abgelaufen 2009. Unauffällig.
+*Heiße Tasse*. 19 Jahre drüber. Aroma vorhanden.
 
-*Heidemettwurst in Gelee* (Bley). Abgelaufen 2012. Machbar.
+*Hausmacher Kartoffelwurst* (Kübler). Abgelaufen 2011. Hält ewig.
 
-**3. November 2017**
+**25. August 2017**
 
-*Dinkelgrieß Bio*. 13 Jahre drüber. Funktioniert.
+*Kartoffeln*. Abgelaufen 2008. Gut.
 
-**2. Dezember 2017**
+*Creme Mediterranea Frischkäse und Basilikum*. Abgelaufen 2012. Genießbar.
 
-*Edel-Salami Mild Geräuchert*. Abgelaufen 2007. Keine Beanstandung.
+**18. Oktober 2017**
 
-*Thon rosé Oel* (Migros). Abgelaufen 2010. Besser als gedacht.
+*Eiernudeln mit Tomaten und Chili* (Alb Gold). Abgelaufen 2014. Überraschend gut.
 
-**19. Dezember 2017**
+**14. Januar 2018**
 
-*Frischkäse* (Frischli). Abgelaufen 2014. Robust.
+*Ei-Schnittlauch-Aufstrich*. Abgelaufen 2012. Hat noch.
 
-**12. März 2018**
+*Früchtemischung Bonbon*. Abgelaufen 2007. Einwandfrei.
 
-*Gewürzgurken* (K-Classic). Abgelaufen 2012. Befriedigend.
+**10. März 2018**
 
-**30. April 2018**
+*Soße* (Wan Kwai). Abgelaufen 2008. Zart.
 
-*Speisequark 20 % Fett*. 13 Jahre drüber. Neutral.
+**29. März 2018**
 
-**15. Mai 2018**
+*Fix Tagliatelle mit Lachs* (Knorr). Abgelaufen 2006. Frisch genug.
 
-*Aufstrich* (dennree). Abgelaufen 2010. Farbe verändert.
+**24. Juli 2018**
 
-*Ritter Sport Minis*. Abgelaufen 2015. Frisch genug.
+*Nudeln Buchstaben*. Abgelaufen 2013. Klassiker.
 
-*Aufstrich* (Woigie). Abgelaufen 2010. Einwandfrei.
+*Soße* (Asia). Abgelaufen 2010. Konstant.
 
-*Frischkäse* (Gut & Günstig). Abgelaufen 2013. Mild.
+*Käse* (Gut Bio). Abgelaufen 2013. Keine Beanstandung.
 
-**4. Juli 2018**
+**1. August 2018**
 
-*Gewürzgurken* (Melis). Abgelaufen 2008. Nichts auszusetzen.
+*Softe Honigkugeln* (Deluxe). Abgelaufen 2010. Kein Problem.
 
-*Vollmilchschokolade* (Schogetten). Abgelaufen 2011. Erfüllt den Zweck.
+*Knackige Gewürzgurken*. 14 Jahre drüber. Beständig.
 
-**5. September 2018**
+*Aufstrich* (Oil & Vinegar). Abgelaufen 2014. Ausreichend.
 
-*Kekse* (Sommer). Abgelaufen 2010. Denkbar.
+**28. Januar 2019**
 
-**26. Oktober 2018**
+*Mini Duo-Schokokuchen* (Back Family). Abgelaufen 2011. Geschmack erhalten.
 
-*Roobar Hemp Protein*. Abgelaufen 2014. Würde wieder.
+*High protein spar hafer-riegel*. 12 Jahre drüber. Akzeptabel.
 
-*Mais* (Spar). Abgelaufen 01.2016. Zuverlässig.
+**29. Januar 2019**
 
-*Skippy Superchunk Erdnussbutter*. 10 Jahre drüber. Wie erwartet.
+*Mediterrane Gewürzzubereitung* (Campus Handels GmbH). Abgelaufen 2007. Unauffällig.
 
-**23. November 2018**
+*Kägi fret Classic*. Abgelaufen 2013. Wie erwartet.
 
-*Bio Leinsamen gequetscht*. Abgelaufen 2006. Besser als erwartet.
+**15. Februar 2019**
 
-**30. November 2018**
+*Bio Zwiebeln* (Heilmann). Abgelaufen 2007. Schmeckt noch.
 
-*Süssmais*. Abgelaufen 2014. Ausreichend.
+*Kartoffelpüree mit Röstzwiebeln* (Thea’s Beste). Abgelaufen 2014. Okay.
 
-*Nudeln* (K-Classic). Abgelaufen 2011. Dezent.
+**12. April 2019**
 
-**27. Dezember 2018**
+*Brötchen* (Harry). Abgelaufen 2013. Echt.
 
-*Allgäuer Schmelzscheiben*. Abgelaufen 2012. Kein Problem.
+*Semmelknödel* (Alpen fest). Abgelaufen 2006. Nicht schlecht.
 
-**27. Februar 2019**
+**29. April 2019**
 
-*Getreide und Hülsenfrüchte* (Le Gusto). Abgelaufen 2009. Stabil.
+*Nudeln* (Presto). Abgelaufen 2014. Fein.
 
-*Biskuit-Zungen* (Schulte). Abgelaufen 2015. Nicht schlecht.
+*Pfeffer weiß ganz* (Ostmann). Abgelaufen 2010. Dezent.
 
-*Bonbons* (Reber). Abgelaufen 2011. Hätte schlimmer sein können.
+**3. August 2019**
 
-**10. April 2019**
+*Eiskalte Kiste* (Mucci). Abgelaufen 2011. Annehmbar.
 
-*Choceur, Alpenvollmilch*. 19 Jahre drüber. Perfekt.
+*Alles Bolo* (Just Spices). Abgelaufen 2007. Lässt sich essen.
 
-**14. April 2019**
+**20. August 2019**
 
-*Fruchtjoghurt* (Weihenstephan). Abgelaufen 09.2016. Möglich.
+*Original Rösti bratfertig*. 13 Jahre drüber. Vorbildlich.
 
-*Butter Blätterteig*. Abgelaufen 03.2017. Geht.
+*Wurst* (Wiltmann). Abgelaufen 2006. Besser als gedacht.
 
-**30. Mai 2019**
+**28. November 2019**
 
-*Mandelkrokant*. Abgelaufen 03.2017. Brauchbar.
+*Brot* (Edeka). Abgelaufen 2008. Besser als erwartet.
 
-*Bio-Hausmacher Leberwurst*. Abgelaufen 2011. Genügend.
+**9. Januar 2020**
 
-**20. Juni 2019**
+*Beeren-mischung* (Ja!). Abgelaufen 2011. Gut.
 
-*5-Korn Aktiv Müsli Sieben Beeren* (Bioland). Abgelaufen 2007. Beständig.
+**2. März 2020**
 
-**16. August 2019**
+*Kartoffelchips mit Trüffelgeschmack*. Abgelaufen 07.2016. Sauber.
 
-*Öl Rapsöl* (Purea). Abgelaufen 2013. Gut.
+*Tomatenmark Würzgemüse*. 15 Jahre drüber. Einwandfrei.
 
-*Choco Banana Müesliriegel*. Abgelaufen 2006. Hat noch.
+*Seitenbacher Vollkorn Kekse - Dinkel Zimt*. Abgelaufen 12.2017. Essbar.
 
-*Joghurt* (Milbona). Abgelaufen 2013. Keine Beanstandung.
+**24. März 2020**
 
-*Geflügel-Lyoner mit Paprika* (Ja!). Abgelaufen 2014. Besser als gedacht.
+*Eis* (Aldi). Abgelaufen 02.2016. Optisch verändert.
 
-**15. September 2019**
+*Eis* (Mövenpick). Abgelaufen 2006. Funktioniert.
 
-*Mango Curry Streichcreme* (Nabio). Abgelaufen 09.2016. Machbar.
+**9. April 2020**
 
-*Kekse* (Natur Gut). Abgelaufen 2013. Essbar.
+*Roggenkraft*. Abgelaufen 2014. Bewährt.
 
-*Wurst* (Redlefsen). Abgelaufen 2014. Okay.
+*MakiNigi Lachs Mix* (sushicircle). Abgelaufen 2008. In Ordnung.
 
-*Ringel-Würmchen*. Abgelaufen 08.2017. Stimmig.
+*Tafelsalz mit Meersalz*. Abgelaufen 2013. Angenehm.
 
-**13. November 2019**
+**17. Mai 2020**
 
-*Daim*. Abgelaufen 2011. Farbe verändert.
+*Zwiebel Grillies* (Bäckerkrönung). Abgelaufen 2007. Aroma vorhanden.
 
-*Omega-3 Pflanzenöl Classic*. Abgelaufen 2011. In Ordnung.
+*Hartkäse* (Milbona). Abgelaufen 08.2016. Keine Beanstandung.
 
-**11. März 2020**
+*Käse* (Metro Chef). Abgelaufen 2012. Säuerlicher.
 
-*Mandeln naturbelassen*. Abgelaufen 2011. Etwas muffig.
+**6. September 2020**
 
-*Ohne Gleichen Edelherb*. Abgelaufen 2010. Einwandfrei.
+*Suppe* (Larco). Abgelaufen 2009. Kein Problem.
 
-**21. März 2020**
+**5. Dezember 2020**
 
-*Schinken* (Steinhaus). Abgelaufen 2007. Neutral.
+*Müsli* (Histaminikus). Abgelaufen 09.2017. Klassiker.
 
-**26. März 2020**
+*Tomaten Gewürzsalz* (Kania). Abgelaufen 12.2016. Überraschend gut.
 
-*Dessert Soße - Vanille*. Abgelaufen 2006. Schmeckt noch.
+**18. Mai 2021**
 
-*Soße* (Milram). Abgelaufen 2011. Mild.
+*Brot* (Lieken). Abgelaufen 08.2017. Textur verändert.
 
-**30. April 2020**
+**3. Juni 2021**
 
-*Gigant Mini Mandel Weiß*. 18 Jahre drüber. Denkbar.
+*Olivennudeln*. Abgelaufen 2015. Hat noch.
 
-*Gemüsepfanne nach französischer Art*. Abgelaufen 2007. Kein Problem.
+*Wurst* (Berschneider). Abgelaufen 2006. Rein.
 
-**7. Juni 2020**
+*Vegane Austernsauce*. 8 Jahre drüber. Nicht schlecht.
 
-*Fix für Bolognese* (Tello fix). Abgelaufen 09.2016. Befriedigend.
+*Eis* (Gelatelli). Abgelaufen 2014. Beständig.
 
-*Aufstrich* (Aldi). Abgelaufen 03.2016. Unauffällig.
+**14. August 2021**
 
-**17. Juni 2020**
+*Zartbitterschokolade* (Rotstern). Abgelaufen 09.2018. Original.
 
-*Lichtes geschält*. Abgelaufen 2010. Echt.
+*Käse* (Hofburger). Abgelaufen 2008. Mild.
 
-*Augenbohne*. 14 Jahre drüber. Hält ewig.
+**5. Februar 2022**
 
-**27. August 2020**
+*Bio Veganer Ei-Ersatz*. 11 Jahre drüber. Annehmbar.
 
-*Bonbons* (Norma). Abgelaufen 2010. Überraschend gut.
+*Nudeln* (Combino). Abgelaufen 07.2018. Geht.
 
-**25. Dezember 2020**
+*Goldessa Frischkäse Paprika*. Abgelaufen 2011. Schmeckt noch.
 
-*Gekeimte Haferflocken* (Nanduria). Abgelaufen 2008. Vollständig.
+**16. Februar 2022**
 
-**5. Januar 2021**
+*Reispapier - Tapioka*. Abgelaufen 03.2018. Ausgewogen.
 
-*Heringsfilets in Tomatensoße*. Abgelaufen 2006. Würde wieder.
+*Fischstäbchen*. Abgelaufen 2010. Sauce angedickt.
 
-*Weiss Lebkuchenherzen Zartbitter*. 13 Jahre drüber. Unbedenklich.
+**20. Juni 2022**
 
-**2. Februar 2021**
+*Putenbrustfilet gebacken* (Mühlenhof). Abgelaufen 2012. Okay.
 
-*Chips* (Lorenz). Abgelaufen 2007. Brauchbar.
+**25. Juni 2022**
 
-*Oliven schwarz* (Coop). Abgelaufen 2008. Noch gut.
+*'Gurke' Veganer Aufschnitt*. Abgelaufen 05.2016. Unauffällig.
 
-**10. Februar 2021**
+**4. August 2022**
 
-*Passiert Aprikose* (Bonne Maman). Abgelaufen 05.2018. Annehmbar.
+*High Protein Milchreis - Klassik* (Milbona). Abgelaufen 2007. Besser als erwartet.
 
-*Nudeln* (Asia). Abgelaufen 06.2017. Genießbar.
+*Feinjoghurt, Schweizer Schokolade*. 18 Jahre drüber. Befriedigend.
 
-*Birnensuppe mit Klütern* (Regionale Küche Feinstes vom Meisterkoch). Abgelaufen 2012. Kein Grund zur Klage.
+*Bonbons* (Ferrero). Abgelaufen 2015. Einwandfrei.
 
-**1. April 2021**
+**11. August 2022**
 
-*Meerrettich gerieben* (Scandia). Abgelaufen 08.2018. Ohne Befund.
+*Suppe* (Followfood). Abgelaufen 02.2020. Geschmack erhalten.
 
-*Gemüse* (Gartenkrone). Abgelaufen 2010. Gut.
+*Noisette Schokolade*. Abgelaufen 2007. Zeitlos.
 
-**19. April 2021**
+*Dinkel Spritzgebäck Zartbitterschokolade*. 14 Jahre drüber. Gut.
 
-*Hähnchen Kebab Pfanne* (Gourmeat). Abgelaufen 2014. Geht runter.
+**5. Januar 2023**
 
-*10 frische Eier aus Bodenhaltung*. 14 Jahre drüber. Nicht schlecht.
+*Wurst* (Willi's). Abgelaufen 12.2020. Ausreichend.
 
-**22. Mai 2021**
+*Bergbauern Heumilch Bergkäse*. 17 Jahre drüber. In Ordnung.
 
-*Aufschnitt Buffet Gut & Günstig Bierschinken*. Abgelaufen 2012. Bewährt.
+*Bravo Casgewkerne und Erdnusse*. 13 Jahre drüber. Noch gut.
 
-*Pulmoll - Kirsch Pastillen ohne Zucker*. 8 Jahre drüber. Hat noch.
+**14. Januar 2023**
 
-*Teigblätter Sac Yufka* (Baktat). Abgelaufen 2012. In Ordnung.
+*Monsters Sticks* (Gusto). Abgelaufen 2015. Erwartungsgemäß.
 
-**24. September 2021**
+*Pizzateig groß* (Hergestellt). Abgelaufen 2011. Würde wieder.
 
-*Haselnuss-Möhren Kuchen* (Backstube). Abgelaufen 2014. Einwandfrei.
+*Brot* (funny-frisch). Abgelaufen 2013. Unerwartet frisch.
 
-*Veggie Tomaten Burger* (Bauck Hof). Abgelaufen 2009. Besser als gedacht.
+**20. Januar 2023**
 
-*Zartbitterschokolade* (Stollwerk). Abgelaufen 10.2017. Geht.
+*Yippie Protein cookie bites* (Weider). Abgelaufen 2009. Akzeptabel.
 
-*Alles Liebe Zotter*. Abgelaufen 2011. Etwas bröckelig.
+**26. Februar 2023**
 
-**6. Oktober 2021**
+*Appenzeller Bärli-Biber*. Abgelaufen 03.2020. Besser als gedacht.
 
-*Himbeer Konfitüre Extra*. Abgelaufen 07.2019. Weich.
+**5. März 2023**
 
-*Pflaume 75 % Frucht* (Rewe). Abgelaufen 10.2016. Angenehm.
+*Tomaten Gewürz Ketchup ohne Zucker*. 8 Jahre drüber. Unbedenklich.
 
-*Prinzen Rolle BLACK AND WHITE*. Abgelaufen 2009. Weich geworden.
+*Erdbeerjoghurt Schokoriegel*. Abgelaufen 07.2017. Bewährt.
 
-**16. Januar 2022**
+**17. September 2023**
 
-*Rum Rosijnen Vla*. Abgelaufen 2011. Kein Problem.
+*Kartoffeln mal anders,Käse*. Abgelaufen 11.2017. Echt.
 
-**5. Mai 2022**
+*Lien Ying Zitronengras eingelegt*. Abgelaufen 2008. Klassiker.
 
-*Vollkorn Weizen Mehl*. 19 Jahre drüber. Keine Beanstandung.
+**26. Januar 2024**
 
-**28. Mai 2022**
+*Kuchen* (Hanina). Abgelaufen 2008. Noch knusprig.
 
-*Almdudler* (Haribo). Abgelaufen 2010. Dezent.
+*Forellenfilets*. Abgelaufen 12.2016. Frisch genug.
 
-*Vollkorn Spaghetti*. 18 Jahre drüber. Wie frisch.
+*10 Bunte gekochte Eier*. Abgelaufen 2006. Wie erwartet.
 
-*Mild würziger Gouda aus Weidenmilch* (Edeka). Abgelaufen 2010. Ideal.
+**26. März 2024**
 
-**27. September 2022**
+*Zuckerdekor*. Abgelaufen 2012. Möglich.
 
-*Milchmäuse Tafel - Milchcreme* (Choceur). Abgelaufen 09.2020. Würde wieder.
+*Paprika Kartoffel Sticks* (ja!). Abgelaufen 2011. Annehmbar.
 
-*Aufstrich Linse Balsamico* (bio Zentrale). Abgelaufen 2007. Ausreichend.
+*Marmelade Erdbeer*. Abgelaufen 04.2018. Mild.
 
-*Bacon streifen*. Abgelaufen 2013. Aroma vorhanden.
+**6. Mai 2024**
 
-*Kasseler Nacken Scheiben* (LamdPrimus). Abgelaufen 2015. Nichts auszusetzen.
+*Landliebe Quark Aprikose*. Abgelaufen 2015. Makellos.
 
-**30. September 2022**
+*Geriebener Meerrettich Scharf*. Abgelaufen 08.2021. Fein.
 
-*Mayo Knoblauch* (Miracel Whip). Abgelaufen 04.2017. Besser als erwartet.
+**2. Juni 2024**
 
-*Knoblauch granuliert Kreta* (Kania). Abgelaufen 2010. Zufriedenstellend.
+*BIO-Band-Nudeln* (Minkenhof). Abgelaufen 2009. Stabil.
 
-*Nogger Choc* (Langnese). Abgelaufen 2010. Solide.
+*Remoulade, dänische Art* (Bähncke). Abgelaufen 05.2022. Schmeckt noch.
 
-**13. Oktober 2022**
+*Mini-Cordon Bleu* (Die Schnitzelmacher). Abgelaufen 08.2016. Einwandfrei.
 
-*Brat-Olivenöl* (Bio Planete). Abgelaufen 2012. Unauffällig.
+**15. Juni 2024**
 
-*Mohren - Apfelsalat nit ingwer*. Abgelaufen 2006. Befriedigend.
+*Fisch* (Edeka). Abgelaufen 12.2021. Beständig.
 
-*Gemüse* (Mildessa). Abgelaufen 2008. Unbedenklich.
+*Käse* (Harzbube). Abgelaufen 2014. Zart.
 
-*Dunkle Vollmilch Feinmild* (Das Exquisite). Abgelaufen 2013. Robust.
+*Aufstrich* (Florentin). Abgelaufen 2008. Stimmig.
 
-**14. November 2022**
+**20. Juni 2024**
 
-*Nudeln* (Aldi). Abgelaufen 2014. Akzeptabel.
+*The Wonder vegane Fischstäbchen* (Aldi). Abgelaufen 10.2020. Gut.
 
-**30. Januar 2023**
+*Glühwein-Gewürz* (Schuhbecks). Abgelaufen 06.2018. Neutral.
 
-*Oatgurt* (Oatly). Abgelaufen 01.2020. Geht runter.
+*Joghurt-Crisp - Bananen-Joghurt & Schoko-Chips*. Abgelaufen 2015. Hält ewig.
 
-**11. März 2023**
+**12. Juli 2024**
 
-*Halsbonbon Kraeuter* (Kaufland Classic). Abgelaufen 2008. Wie erwartet.
+*Joghurt* (Hochwald Foods). Abgelaufen 01.2018. Okay.
 
-*Süßkartoffel & Rosmarin*. Abgelaufen 06.2016. Funktioniert.
+**13. Juli 2024**
 
-**21. Januar 2024**
+*Kekse* (Wicklein). Abgelaufen 2010. Überraschend gut.
 
-*Bockshornkleesamen gemahlen* (Hartkorn). Abgelaufen 2010. Einwandfrei.
+*Marzipan Karotten*. Abgelaufen 2007. Würde wieder.
 
-**1. April 2024**
+**20. Juli 2024**
 
-*Bio Halloumi*. Abgelaufen 10.2016. Stabil.
+*Süße Aprikosen*. Abgelaufen 09.2021. Kein Problem.
 
-**3. Mai 2024**
+*Pulmoll Halsbonbons Zitrone*. 15 Jahre drüber. Noch gut.
 
-*Hähnchen Mediterraneo in Tomatensauce* (Gustoria). Abgelaufen 03.2021. Fein.
+*Nudeln* (Trady). Abgelaufen 2014. Erträglich.
 
-*Vollmilchschokolade* (Rewe). Abgelaufen 2015. Hat noch.
+**1. Oktober 2024**
 
-**6. Juli 2024**
+*Wurst* (Werz). Abgelaufen 06.2018. Hätte schlimmer sein können.
 
-*Kichererbsen Waffeln zartbitter*. Abgelaufen 2015. Sanft.
+*Cuordi di Crema* (Sottolestelle). Abgelaufen 2008. Geschmack erhalten.
 
-*Kokosöl*. 7 Jahre drüber. Kein Grund zur Klage.
+**24. Oktober 2024**
 
-*Pizzamehl Tipo 00*. 12 Jahre drüber. In Ordnung.
+*Kochschinken* (Herta). Abgelaufen 2012. Geht.
 
-**27. September 2024**
+*Aufstrich* (Damiano). Abgelaufen 2013. In Ordnung.
 
-*Bockwurst*. Abgelaufen 2014. Keine Beanstandung.
+**5. April 2025**
 
-*Käse* (Gutes Land). Abgelaufen 05.2022. Gut.
+*Tomaten/Tetrapack passierte* (REWE). Abgelaufen 2010. Rein.
 
-**18. November 2024**
+*Käse* (Food for Future). Abgelaufen 09.2021. Unbedenklich.
 
-*Müsli* (Dr. Oetker). Abgelaufen 2014. Annehmbar.
+**8. April 2025**
 
-*Käse* (Milbona). Abgelaufen 2006. Intakt.
+*Nudeln* (bio ZENTRALE). Abgelaufen 2006. Unversehrt.
 
-**24. Dezember 2025**
+*Nudeln* (Müller's Landnudeln). Abgelaufen 2006. Akzeptabel.
 
-*Trolli Wurrli*. Abgelaufen 02.2018. Erwartungsgemäß.
+*Samba Oelek Würzpaste*. Abgelaufen 2014. Geht runter.
 
-*Fruchtjoghurt* (Berchtesgadener Land). Abgelaufen 05.2016. Zuverlässig.
+*Aufstrich* (vegan leben). Abgelaufen 05.2020. Ausreichend.
 
-*Essig* (Kühne). Abgelaufen 10.2020. Okay.
+**8. Mai 2025**
+
+*Vollmilchschokolade* (Milka). Abgelaufen 2008. Lässt sich essen.
+
+*Rosinen* (Rapunzel). Abgelaufen 07.2016. Unerwartet frisch.
+
+**24. Mai 2025**
+
+*Zitroneneis*. 10 Jahre drüber. Annehmbar.
+
+*Gewürzgurken* (K-Bio). Abgelaufen 2008. Farbe verändert.
+
+*Doppelkekse Kakao*. 7 Jahre drüber. Brauchbar.
+
+**4. Juni 2025**
+
+*Creme fraiche mit Kräutern*. 9 Jahre drüber. Genießbar.
+
+*Kartoffelchips mit Rosmaringescmack* (Edeka). Abgelaufen 2007. Besser als erwartet.
+
+*Schokokekse* (Hofer). Abgelaufen 2012. Möglich.
+
+**12. Juni 2025**
+
+*Wurst* (Aldi). Abgelaufen 11.2022. Gut.
+
+**15. Juli 2025**
+
+*Lachs Fischstäbchen* (Biopolar). Abgelaufen 10.2016. Vorbildlich.
+
+*Chips* (enerbio). Abgelaufen 2008. Einwandfrei.
+
+*Amaranth Früchte Müsli* (Allos). Abgelaufen 01.2016. Sanft.
+
+**5. August 2025**
+
+*Soße* (Knorr). Abgelaufen 2007. Unverwüstlich.
+
+**23. August 2025**
+
+*Kichererbsen Tomate Lupine Aufstrich* (Alnatura). Abgelaufen 2006. Solide.
+
+**25. November 2025**
+
+*Aufstrich* (Deli Genuss). Abgelaufen 2015. Neutral.

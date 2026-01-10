@@ -1,5 +1,4 @@
 export {
-  getApplicableRatings,
   getRating,
   loadProducts,
   loadRatings,
@@ -33,7 +32,7 @@ export {
 export {
   randomElement,
   randomFromRange,
-  SeededRandom,
+  setSeed,
   shuffle,
   weightedRandom,
 } from "./random";

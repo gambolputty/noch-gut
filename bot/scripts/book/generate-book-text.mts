@@ -9,8 +9,12 @@ import {
   loadRatings,
   type Protocol,
   ProtocolGenerator,
+  setSeed,
 } from "../../lib";
 import { RecencyTracker } from "../../lib/recency";
+
+// Fixed seed for reproducible book generation
+const BOOK_SEED = 42;
 
 /**
  * Format a protocol as markdown book text.
@@ -41,6 +45,9 @@ const formatProtocolAsBook = (protocol: Protocol): string => {
 };
 
 const main = async () => {
+  // Set seed for reproducible output
+  setSeed(BOOK_SEED);
+
   const options = {
     // Protocol time range
     protocolStartDate: new Date(2016, 0, 1), // 1. Januar 2016
@@ -55,6 +62,7 @@ const main = async () => {
 
   console.log("Book Generator (Protocol Format)");
   console.log("=================================");
+  console.log(`Seed: ${BOOK_SEED}`);
   console.log(`Protocol: ${options.protocolStartDate.toLocaleDateString("de-DE")} - ${options.protocolEndDate.toLocaleDateString("de-DE")}`);
   console.log(`Active day ratio: ${(options.activeDayRatio * 100).toFixed(1)}%`);
   console.log();

@@ -23,12 +23,6 @@ export class RecencySet extends Set<string> {
     return this;
   }
 
-  addMany(values: string[]): void {
-    for (const value of values) {
-      this.add(value);
-    }
-  }
-
   hasAny(values: string[]): boolean {
     for (const value of values) {
       if (this.has(value)) {
@@ -45,9 +39,5 @@ export class RecencySet extends Set<string> {
         this.delete(oldest);
       }
     }
-  }
-
-  getMaxItems(): number {
-    return this.maxItems;
   }
 }

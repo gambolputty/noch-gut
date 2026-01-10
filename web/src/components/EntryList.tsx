@@ -1,5 +1,6 @@
 import { useCallback, useEffect, useRef, useState } from "preact/hooks";
 import InfiniteScroll from "react-infinite-scroll-component";
+import { EntryImage } from "./ImageWithSkeleton";
 import {
   calculateValidExpiryRange,
   formatProtocolDayHeader,
@@ -148,12 +149,7 @@ export function EntryList() {
                     class={entry.showImage ? "entry entry-featured" : "entry"}
                   >
                     {entry.showImage && entry.imageUrl && (
-                      <img
-                        class="entry-image"
-                        src={entry.imageUrl}
-                        alt=""
-                        loading="lazy"
-                      />
+                      <EntryImage src={entry.imageUrl} />
                     )}
                     <span class="entry-text">{entry.text}</span>
                   </li>
