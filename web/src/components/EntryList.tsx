@@ -44,7 +44,7 @@ export function EntryList() {
       const productsUrl = new URL("/products.csv", window.location.origin);
       const ratingsUrl = new URL(
         "noch-gut-bot/assets/ratings.csv",
-        import.meta.url,
+        import.meta.url
       );
       const [loadedProducts, loadedRatings] = await Promise.all([
         loadProducts(productsUrl),
@@ -108,7 +108,10 @@ export function EntryList() {
   const loadMore = useCallback(() => {
     if (!generatorRef.current) return;
 
-    const newDays = generatorRef.current.generateDays(5, lastDateRef.current ?? undefined);
+    const newDays = generatorRef.current.generateDays(
+      5,
+      lastDateRef.current ?? undefined
+    );
     if (newDays.length > 0) {
       lastDateRef.current = newDays[newDays.length - 1].date;
       setDays((prev) => [...prev, ...newDays.map(convertDay)]);
@@ -117,9 +120,14 @@ export function EntryList() {
 
   useEffect(() => {
     if (!loading && generatorRef.current) {
-      loadMore();
+      // Load more initial days to fill the viewport
+      const initialDays = generatorRef.current.generateDays(20);
+      if (initialDays.length > 0) {
+        lastDateRef.current = initialDays[initialDays.length - 1].date;
+        setDays(initialDays.map(convertDay));
+      }
     }
-  }, [loading, loadMore]);
+  }, [loading, convertDay]);
 
   if (loading) {
     return <p style={{ color: "#999" }}>...</p>;
