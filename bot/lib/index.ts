@@ -12,6 +12,8 @@ export {
   type ExpiryDate,
   formatEatenDate,
   formatExpiryDate,
+  formatRelativeExpiry,
+  formatWeeksDiff,
   generateEatenDate,
   generateExpiryDate,
 } from "./date";
@@ -28,3 +30,4 @@ export {
   shuffle,
   weightedRandom,
 } from "./random";
+export { RecencyTracker } from "./recency";

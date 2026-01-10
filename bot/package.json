@@ -2,6 +2,9 @@
   "name": "noch-gut-bot",
   "version": "0.1.0",
   "type": "module",
+  "exports": {
+    ".": "./lib/index.ts"
+  },
   "scripts": {
     "dev": "tsx watch ./run.ts",
     "book:generate": "tsx ./scripts/book/generate-book-text.mts --italic",

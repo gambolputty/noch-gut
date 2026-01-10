@@ -1,6 +1,4 @@
-import fs from "node:fs";
-
-import Papa from "papaparse";
+import { loadFile, parseCsv } from "./utils";
 
 export type Product = {
   name: string;
@@ -48,37 +46,27 @@ const parseIntField = (value: string): number | null => {
   return isNaN(parsed) ? null : parsed;
 };
 
-export const loadProducts = async (csvPath: string): Promise<Product[]> => {
-  const csvContent = fs.readFileSync(csvPath, "utf-8");
-
-  return new Promise((resolve, reject) => {
-    Papa.parse<RawProduct>(csvContent, {
-      header: true,
-      skipEmptyLines: true,
-      complete: (results) => {
-        const products: Product[] = results.data.map((raw) => ({
-          name: raw.name,
-          brand: parseStringField(raw.brand),
-          quantity: parseStringField(raw.quantity),
-          genericName: parseStringField(raw.generic_name),
-          imageUrl: parseStringField(raw.image_url),
-          categories: parseArrayField(raw.categories),
-          labels: parseArrayField(raw.labels),
-          allergens: parseArrayField(raw.allergens),
-          nutriscore: parseStringField(raw.nutriscore),
-          nova_group: parseIntField(raw.nova_group),
-          ecoscore: parseStringField(raw.ecoscore),
-          origins: parseStringField(raw.origins),
-        }));
-        resolve(products);
-      },
-      error: (error: Error) => {
-        reject(error);
-      },
-    });
-  });
+const parseProducts = (rawProducts: RawProduct[]): Product[] => {
+  return rawProducts.map((raw) => ({
+    name: raw.name,
+    brand: parseStringField(raw.brand),
+    quantity: parseStringField(raw.quantity),
+    genericName: parseStringField(raw.generic_name),
+    imageUrl: parseStringField(raw.image_url),
+    categories: parseArrayField(raw.categories),
+    labels: parseArrayField(raw.labels),
+    allergens: parseArrayField(raw.allergens),
+    nutriscore: parseStringField(raw.nutriscore),
+    nova_group: parseIntField(raw.nova_group),
+    ecoscore: parseStringField(raw.ecoscore),
+    origins: parseStringField(raw.origins),
+  }));
 };
 
-export const loadProductsFromUrl = async (csvUrl: URL): Promise<Product[]> => {
-  return loadProducts(csvUrl.pathname);
+export const loadProducts = async (
+  csvUrl: URL | string
+): Promise<Product[]> => {
+  const csvContent = await loadFile(csvUrl);
+  const rawProducts = parseCsv<RawProduct>(csvContent);
+  return parseProducts(rawProducts);
 };

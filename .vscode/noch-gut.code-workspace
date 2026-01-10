@@ -11,6 +11,10 @@
     {
       "name": "bot",
       "path": "../bot"
+    },
+    {
+      "name": "web",
+      "path": "../web"
     }
   ],
   "settings": {

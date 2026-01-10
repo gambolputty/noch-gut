@@ -1,0 +1,137 @@
+---
+import { EntryList } from "../components/EntryList";
+---
+
+<html lang="de">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Noch gut</title>
+    <style is:global>
+      * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+      }
+
+      body {
+        font-family: system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
+        font-size: 16px;
+        line-height: 1.6;
+        color: #222;
+        background: #fff;
+        padding: 2rem 1rem;
+        max-width: 40rem;
+        margin: 0 auto;
+      }
+
+      h1 {
+        font-size: 1rem;
+        font-weight: normal;
+        margin-bottom: 2rem;
+        color: #666;
+      }
+
+      .entries {
+        list-style: none;
+      }
+
+      .entry {
+        margin-bottom: 1.5rem;
+        position: relative;
+        display: flex;
+        gap: 0.5rem;
+        align-items: flex-start;
+        min-height: 48px;
+      }
+
+      .entry-thumb {
+        width: 48px;
+        height: 48px;
+        flex-shrink: 0;
+        object-fit: cover;
+        cursor: pointer;
+        margin-top: 0.2em;
+        background: linear-gradient(90deg, #f5f5f5 25%, #ebebeb 50%, #f5f5f5 75%);
+        background-size: 200% 100%;
+        animation: skeleton 2.5s ease-in-out infinite;
+      }
+
+      .entry-thumb[data-loaded="true"] {
+        background: none;
+        animation: none;
+      }
+
+      .entry-thumb:hover {
+        opacity: 0.8;
+      }
+
+      @keyframes skeleton {
+        0% { background-position: 200% 0; }
+        100% { background-position: -200% 0; }
+      }
+
+      @media (min-width: 50rem) {
+        body {
+          padding-left: 6rem;
+        }
+
+        .entry {
+          display: block;
+        }
+
+        .entry-thumb {
+          position: absolute;
+          left: -5rem;
+          top: 0;
+        }
+      }
+
+      .more {
+        color: #999;
+        text-align: center;
+        padding: 2rem 0;
+      }
+
+      .infinite-scroll-component {
+        overflow: visible !important;
+      }
+
+      .lightbox {
+        position: fixed;
+        inset: 0;
+        background: rgba(255, 255, 255, 0.95);
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        cursor: pointer;
+        z-index: 100;
+      }
+
+      .lightbox img {
+        max-width: 90vw;
+        max-height: 90vh;
+        object-fit: contain;
+        transition: opacity 0.15s;
+      }
+
+      .lightbox-spinner {
+        width: 24px;
+        height: 24px;
+        border: 2px solid #ccc;
+        border-top-color: #666;
+        border-radius: 50%;
+        animation: spin 0.8s linear infinite;
+        position: absolute;
+      }
+
+      @keyframes spin {
+        to { transform: rotate(360deg); }
+      }
+    </style>
+  </head>
+  <body>
+    <h1>Noch gut</h1>
+    <EntryList client:load />
+  </body>
+</html>
