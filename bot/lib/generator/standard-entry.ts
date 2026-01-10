@@ -10,11 +10,10 @@ import {
 import { weightedRandom } from "../random";
 import { BaseGenerator, type GeneratedEntry } from "./base-generator";
 
-type EntryVariant = "with-brand" | "name-only" | "short" | "bio";
+type EntryVariant = "with-brand" | "name-only" | "short";
 
 type VariantContext = {
   hasBrand: boolean;
-  isBio: boolean;
 };
 
 type VariantConfig = {
@@ -36,11 +35,6 @@ const VARIANT_CONFIGS: VariantConfig[] = [
   {
     variant: "short",
     weight: 10,
-  },
-  {
-    variant: "bio",
-    weight: 15,
-    condition: (ctx) => ctx.isBio && ctx.hasBrand,
   },
 ];
 
@@ -159,12 +153,6 @@ export class StandardEntryGenerator extends BaseGenerator {
   }): EntryVariant {
     const ctx: VariantContext = {
       hasBrand: !isBrandRedundant(product.name, product.brand),
-      isBio: product.labels.some(
-        (l) =>
-          l.includes("organic") ||
-          l.includes("bio") ||
-          l.includes("en:eu-organic"),
-      ),
     };
 
     // Get blocked variants from recency tracker
@@ -231,14 +219,6 @@ export class StandardEntryGenerator extends BaseGenerator {
         const relative =
           relativeWeeks || relativeMonths || `Abgelaufen ${expiryStr}`;
         return `${this.em(product.name)}. ${relative}. ${rating}`;
-      }
-
-      case "bio": {
-        // Don't add "Bio-" prefix if name already contains "Bio"
-        const bioName = /\bbio[\s-]?/i.test(product.name)
-          ? product.name
-          : `Bio-${product.name}`;
-        return `${this.em(bioName)} von ${this.em(product.brand!)}. Abgelaufen ${expiryStr}. Gegessen am ${eatenStr}. ${rating}`;
       }
 
       default:
