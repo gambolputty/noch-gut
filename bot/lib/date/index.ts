@@ -165,3 +165,28 @@ export const formatWeeksDiff = (
 
   return null; // Use month format instead
 };
+
+/**
+ * Format a date as a protocol day header.
+ * Example: "19. Dezember 2016"
+ */
+export const formatProtocolDayHeader = (date: Date): string => {
+  const day = date.getDate();
+  const month = MONTHS_DE[date.getMonth()];
+  const year = date.getFullYear();
+  return `${day}. ${month} ${year}`;
+};
+
+/**
+ * Format a date range for the protocol header.
+ * Example: "Beginn: 1. Januar 2016 / Ende: 10. Januar 2026"
+ */
+export const formatProtocolDateRange = (
+  startDate: Date,
+  endDate: Date,
+): { start: string; end: string } => {
+  return {
+    start: formatProtocolDayHeader(startDate),
+    end: formatProtocolDayHeader(endDate),
+  };
+};

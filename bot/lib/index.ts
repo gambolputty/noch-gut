@@ -12,6 +12,8 @@ export {
   type ExpiryDate,
   formatEatenDate,
   formatExpiryDate,
+  formatProtocolDateRange,
+  formatProtocolDayHeader,
   formatRelativeExpiry,
   formatWeeksDiff,
   generateEatenDate,
@@ -21,6 +23,11 @@ export {
   BaseGenerator,
   type GeneratedEntry,
   type GeneratorConfig,
+  type Protocol,
+  type ProtocolDay,
+  type ProtocolEntry,
+  ProtocolGenerator,
+  type ProtocolGeneratorConfig,
   StandardEntryGenerator,
 } from "./generator";
 export {

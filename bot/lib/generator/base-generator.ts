@@ -3,6 +3,7 @@ import type { Rating } from "../data/ratings";
 import type { DateRange, ExpiryDate } from "../date";
 import { randomElement } from "../random";
 import type { RecencyTracker } from "../recency";
+import type { EntryVariant } from "./variant";
 
 const DEFAULT_MIN_MONTHS_AFTER_EXPIRY = 24; // 2 years
 
@@ -64,5 +65,32 @@ export abstract class BaseGenerator {
 
   public getRemainingProductCount(): number {
     return this.products.length - this.usedProducts.size;
+  }
+
+  /**
+   * Wrap text in italic markers if italic mode is enabled.
+   */
+  protected em(text: string): string {
+    return this.italic ? `*${text}*` : text;
+  }
+
+  /**
+   * Track used elements for recency to avoid repetition.
+   */
+  protected trackRecency(
+    product: Product,
+    rating: string,
+    variant: EntryVariant,
+  ): void {
+    if (!this.recencyTracker) return;
+
+    this.recencyTracker.add("ratings", rating);
+    this.recencyTracker.add("variants", variant);
+    if (product.genericName) {
+      this.recencyTracker.add("genericNames", product.genericName);
+    }
+    if (product.brand) {
+      this.recencyTracker.add("brands", product.brand);
+    }
   }
 }

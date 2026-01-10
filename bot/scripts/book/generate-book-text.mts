@@ -3,27 +3,60 @@ import path from "node:path";
 
 import {
   calculateValidExpiryRange,
-  type GeneratedEntry,
+  formatProtocolDateRange,
+  formatProtocolDayHeader,
   loadProducts,
   loadRatings,
-  StandardEntryGenerator,
+  type Protocol,
+  ProtocolGenerator,
 } from "../../lib";
 import { RecencyTracker } from "../../lib/recency";
 
+/**
+ * Format a protocol as markdown book text.
+ * Groups entries by day with date headers.
+ */
+const formatProtocolAsBook = (protocol: Protocol): string => {
+  const { start, end } = formatProtocolDateRange(
+    protocol.startDate,
+    protocol.endDate,
+  );
+
+  const lines: string[] = [
+    "# Protokoll",
+    "",
+    `Beginn: ${start}`,
+    `Ende: ${end}`,
+    "",
+  ];
+
+  for (const day of protocol.days) {
+    const dayHeader = formatProtocolDayHeader(day.date);
+    const dayEntries = day.entries.map((e) => e.text);
+    lines.push(`**${dayHeader}**\n\n${dayEntries.join("\n\n")}`);
+    lines.push("");
+  }
+
+  return lines.join("\n");
+};
+
 const main = async () => {
   const options = {
-    pages: 100,
-    entriesPerPage: 5,
+    // Protocol time range
+    protocolStartDate: new Date(2016, 0, 1), // 1. Januar 2016
+    protocolEndDate: new Date(), // heute
+    // How often entries appear
+    activeDayRatio: 0.02, // ~7 days per year with entries
+    entriesPerDay: { min: 1, max: 4, weights: [40, 35, 20, 5] },
+    // Expiry date range
     dateRange: calculateValidExpiryRange(2006, 24),
     italic: true,
   };
-  const totalEntries = options.pages * options.entriesPerPage;
 
-  console.log("Book Generator");
-  console.log("==============");
-  console.log(`Pages: ${options.pages}`);
-  console.log(`Entries per page: ${options.entriesPerPage}`);
-  console.log(`Total entries: ${totalEntries}`);
+  console.log("Book Generator (Protocol Format)");
+  console.log("=================================");
+  console.log(`Protocol: ${options.protocolStartDate.toLocaleDateString("de-DE")} - ${options.protocolEndDate.toLocaleDateString("de-DE")}`);
+  console.log(`Active day ratio: ${(options.activeDayRatio * 100).toFixed(1)}%`);
   console.log();
 
   // Load data
@@ -36,43 +69,37 @@ const main = async () => {
   const ratings = await loadRatings(ratingsPath);
 
   console.log(
-    `Loaded ${products.length} products and ${ratings.length} ratings`
+    `Loaded ${products.length} products and ${ratings.length} ratings`,
   );
 
-  // Generate all entries with recency tracking
+  // Generate protocol
   const recencyTracker = new RecencyTracker();
 
-  const generator = new StandardEntryGenerator({
+  const generator = new ProtocolGenerator({
     products,
     ratings,
     dateRange: options.dateRange,
+    protocolStartDate: options.protocolStartDate,
+    protocolEndDate: options.protocolEndDate,
+    activeDayRatio: options.activeDayRatio,
+    entriesPerDay: options.entriesPerDay,
     italic: options.italic,
     recencyTracker,
   });
 
-  const allEntries: GeneratedEntry[] = [];
+  console.log("Generating protocol...");
+  const protocol = generator.generateProtocol();
 
-  for (let i = 0; i < totalEntries; i++) {
-    const entry = generator.generate();
-    if (!entry) break;
-    allEntries.push(entry);
+  const totalEntries = protocol.days.reduce(
+    (sum, day) => sum + day.entries.length,
+    0,
+  );
+  console.log(
+    `Generated ${totalEntries} entries across ${protocol.days.length} days`,
+  );
 
-    // Progress update every 100 entries
-    if ((i + 1) % 100 === 0) {
-      console.log(`Generated ${i + 1}/${totalEntries} entries...`);
-    }
-  }
-
-  console.log(`Generated ${allEntries.length} entries`);
-
-  // Split into pages
-  const pages: string[] = [];
-  for (let i = 0; i < allEntries.length; i += options.entriesPerPage) {
-    const pageEntries = allEntries.slice(i, i + options.entriesPerPage);
-    pages.push(pageEntries.map((e) => e.text).join("\n\n"));
-  }
-
-  const bookText = pages.join("\n\n---\n\n");
+  // Format as book
+  const bookText = formatProtocolAsBook(protocol);
 
   // Save output
   const scriptDir = path.dirname(new URL(import.meta.url).pathname);
@@ -86,12 +113,9 @@ const main = async () => {
   fs.writeFileSync(outputPath, bookText, "utf-8");
 
   console.log();
-  console.log(
-    `Generated ${allEntries.length} entries across ${pages.length} pages`
-  );
   console.log(`Saved to ${outputPath}`);
   console.log(
-    `File size: ${(fs.statSync(outputPath).size / 1024).toFixed(1)} KB`
+    `File size: ${(fs.statSync(outputPath).size / 1024).toFixed(1)} KB`,
   );
 };
 
