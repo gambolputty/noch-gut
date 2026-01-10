@@ -40,10 +40,8 @@ export function EntryList() {
 
   useEffect(() => {
     const loadData = async () => {
-      const productsUrl = new URL(
-        "noch-gut-bot/assets/products.csv",
-        import.meta.url,
-      );
+      // Use sampled products from public folder (1/3 of full dataset)
+      const productsUrl = new URL("/products.csv", window.location.origin);
       const ratingsUrl = new URL(
         "noch-gut-bot/assets/ratings.csv",
         import.meta.url,

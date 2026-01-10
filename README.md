@@ -25,7 +25,8 @@ noch-gut/
 ├── data/                  # Python-Pipelines (gemeinsame venv)
 │   ├── src/               # Python-Packages
 │   └── openfoodfacts/     # Daten + Scripts für Open Food Facts
-└── bot/                   # TypeScript-Generator (Textgenerierung)
+├── bot/                   # TypeScript-Generator (Textgenerierung)
+└── web/                   # Astro/Preact Web-App
 ```
 
 ## Setup
@@ -58,6 +59,24 @@ npm run book:generate -- --pages 100 --entries-per-page 5
 # Social Media posten (erfordert .env)
 npm run post:mastodon
 npm run post:bluesky
+```
+
+### Web-App
+
+```bash
+cd data
+
+# Reduzierte Produktdaten für Web generieren (~4 MB statt 11 MB)
+uv run python scripts/sample_products.py
+
+cd ../web
+npm install
+
+# Entwicklungsmodus
+npm run dev
+
+# Build für Produktion
+npm run build
 ```
 
 ### Umgebungsvariablen

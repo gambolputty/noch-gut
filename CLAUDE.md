@@ -12,6 +12,7 @@ A rule-based text generator for conceptual prose. The first-person narrator docu
   - `openfoodfacts/` - Data files and scripts for Open Food Facts
   - `wikidata-extinct/` - Data files and scripts for Wikidata
 - `bot/` - TypeScript generator that creates the text
+- `web/` - Astro/Preact web application
 - `docs/` - Concept documentation
 
 ## Data Pipeline: Open Food Facts
@@ -80,6 +81,33 @@ npm run post:bluesky
 - `scripts/book/generate-book-text.mts` - Book generation script
 - `scripts/post-to-mastodon.mts` - Mastodon posting
 - `scripts/post-to-bluesky.mts` - Bluesky posting
+
+## Web Application
+
+```bash
+cd web
+
+# Development mode
+npm run dev
+
+# Build for production
+npm run build
+```
+
+The web app uses a sampled subset of products (1/3) to reduce load times:
+
+```bash
+cd data
+
+# Generate sampled products.csv for web app (~4 MB instead of 11 MB)
+uv run python scripts/sample_products.py
+```
+
+### Key Files
+
+- `web/src/components/EntryList.tsx` - Main entry list with infinite scroll
+- `web/public/products.csv` - Sampled product data (generated)
+- `data/scripts/sample_products.py` - Script to sample 1/3 of products
 
 ### Data Fields
 
