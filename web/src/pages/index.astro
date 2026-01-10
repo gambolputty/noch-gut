@@ -32,6 +32,27 @@ import { EntryList } from "../components/EntryList";
         color: #666;
       }
 
+      .nav {
+        display: flex;
+        justify-content: flex-end;
+        gap: 1.5rem;
+        margin-bottom: 1.5rem;
+      }
+
+      .nav-link {
+        color: #666;
+        text-decoration: none;
+        font-size: 0.875rem;
+        cursor: pointer;
+        border: none;
+        background: none;
+        font-family: inherit;
+      }
+
+      .nav-link:hover {
+        color: #222;
+      }
+
       .protocol-day {
         margin-bottom: 2.5rem;
       }
@@ -106,7 +127,18 @@ import { EntryList } from "../components/EntryList";
     </style>
   </head>
   <body>
+    <nav class="nav">
+      <button class="nav-link" id="regenerate">Neu generieren</button>
+      <a class="nav-link" href="https://ggor.de/project/noch-gut/" target="_blank" rel="noopener">Über</a>
+    </nav>
+
     <h1>Noch gut</h1>
     <EntryList client:load />
+
+    <script>
+      document.getElementById('regenerate')?.addEventListener('click', () => {
+        location.reload();
+      });
+    </script>
   </body>
 </html>
