@@ -82,6 +82,7 @@ export function EntryList() {
 
   return (
     <>
+      {/* @ts-ignore - React component works with Preact compat */}
       <InfiniteScroll
         dataLength={entries.length}
         next={loadMore}
