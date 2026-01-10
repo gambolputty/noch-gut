@@ -26,9 +26,11 @@ export function EntryList() {
 
   useEffect(() => {
     const loadData = async () => {
+      const productsUrl = new URL("noch-gut-bot/assets/products.csv", import.meta.url);
+      const ratingsUrl = new URL("noch-gut-bot/assets/ratings.csv", import.meta.url);
       const [loadedProducts, loadedRatings] = await Promise.all([
-        loadProducts("/products.csv"),
-        loadRatings("/ratings.csv"),
+        loadProducts(productsUrl),
+        loadRatings(ratingsUrl),
       ]);
 
       const dateRange = calculateValidExpiryRange(2006, 3);

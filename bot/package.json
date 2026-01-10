@@ -3,7 +3,8 @@
   "version": "0.1.0",
   "type": "module",
   "exports": {
-    ".": "./lib/index.ts"
+    ".": "./lib/index.ts",
+    "./assets/*": "./assets/*"
   },
   "scripts": {
     "dev": "tsx watch ./run.ts",
