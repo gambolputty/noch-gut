@@ -25,11 +25,58 @@ import { EntryList } from "../components/EntryList";
         margin: 0 auto;
       }
 
+      a {
+        color: #06c;
+      }
+
+      a:hover {
+        text-decoration: underline;
+      }
+
       h1 {
-        font-size: 1rem;
-        font-weight: normal;
-        margin-bottom: 2rem;
+        font-size: 1.5rem;
+        font-weight: bold;
+        margin-bottom: 0.5rem;
         color: #666;
+      }
+
+      .intro {
+        color: #666;
+        margin-bottom: 2rem;
+      }
+
+      .intro-text {
+        display: inline;
+      }
+
+      .more-toggle {
+        color: #06c;
+        cursor: pointer;
+        border: none;
+        background: none;
+        font: inherit;
+        padding: 0;
+      }
+
+      .more-toggle:hover {
+        text-decoration: underline;
+      }
+
+      .more-content {
+        margin-top: 1rem;
+      }
+
+      .more-content.hidden {
+        display: none;
+      }
+
+      .more-content p {
+        margin-bottom: 0.5rem;
+      }
+
+      .more-content .links {
+        display: flex;
+        gap: 1rem;
       }
 
       .nav {
@@ -129,15 +176,34 @@ import { EntryList } from "../components/EntryList";
   <body>
     <nav class="nav">
       <button class="nav-link" id="regenerate">Neu generieren</button>
-      <a class="nav-link" href="https://ggor.de/project/noch-gut/" target="_blank" rel="noopener">Über</a>
     </nav>
 
     <h1>Noch gut</h1>
+    <div class="intro">
+      <span class="intro-text">Protokoll gegessener Lebensmittel, die ihr Mindesthaltbarkeitsdatum überschritten haben.</span>
+      <button class="more-toggle" id="more-toggle">Mehr</button>
+      <div class="more-content hidden" id="more-content">
+        <p>Die Produktdaten stammen von <a href="https://world.openfoodfacts.org/" target="_blank" rel="noopener">Open Food Facts</a>, einer offenen Lebensmitteldatenbank.</p>
+        <p class="links">
+          <a href="https://bsky.app/profile/noch-gut.bsky.social" target="_blank" rel="noopener">Bluesky</a>
+          <a href="https://mas.to/@noch_gut" target="_blank" rel="noopener">Mastodon</a>
+          <a href="https://github.com/gambolputty/noch-gut" target="_blank" rel="noopener">GitHub</a>
+          <a href="https://ggor.de/project/noch-gut/" target="_blank" rel="noopener">Projektseite</a>
+        </p>
+      </div>
+    </div>
     <EntryList client:load />
 
     <script>
       document.getElementById('regenerate')?.addEventListener('click', () => {
         location.reload();
+      });
+
+      document.getElementById('more-toggle')?.addEventListener('click', (e) => {
+        const content = document.getElementById('more-content');
+        const button = e.target as HTMLButtonElement;
+        content?.classList.toggle('hidden');
+        button.textContent = content?.classList.contains('hidden') ? 'Mehr' : 'Weniger';
       });
     </script>
   </body>
