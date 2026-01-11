@@ -51,7 +51,7 @@ export function EntryList() {
         loadRatings(ratingsUrl),
       ]);
 
-      const dateRange = calculateValidExpiryRange(2006, 3);
+      const dateRange = calculateValidExpiryRange(2006, 24);
       const recencyTracker = new RecencyTracker();
 
       generatorRef.current = new ProtocolGenerator({
