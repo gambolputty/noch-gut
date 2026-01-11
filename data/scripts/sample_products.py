@@ -14,7 +14,7 @@ REPO_ROOT = Path(__file__).parent.parent.parent
 INPUT_FILE = REPO_ROOT / "bot" / "assets" / "products.csv"
 OUTPUT_FILE = REPO_ROOT / "web" / "public" / "products.csv"
 
-SAMPLE_RATIO = 1 / 4
+SAMPLE_RATIO = 1 / 8
 RANDOM_SEED = 42  # For reproducibility
 
 
@@ -25,6 +25,8 @@ def main():
     with open(INPUT_FILE, newline="", encoding="utf-8") as f:
         reader = csv.DictReader(f)
         fieldnames = reader.fieldnames
+        if fieldnames is None:
+            raise ValueError("CSV file has no headers")
         products = list(reader)
 
     total = len(products)

@@ -58,7 +58,7 @@ export function EntryList() {
         products: shuffle(loadedProducts),
         ratings: loadedRatings,
         dateRange,
-        protocolStartDate: new Date(2016, 0, 1),
+        protocolStartDate: new Date(2008, 0, 1),
         protocolEndDate: new Date(),
         activeDayRatio: 0.15,
         entriesPerDay: { min: 1, max: 4, weights: [40, 35, 20, 5] },

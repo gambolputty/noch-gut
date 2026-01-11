@@ -23,7 +23,7 @@ const BOOK_SEED = 42;
 const formatProtocolAsBook = (protocol: Protocol): string => {
   const { start, end } = formatProtocolDateRange(
     protocol.startDate,
-    protocol.endDate,
+    protocol.endDate
   );
 
   const lines: string[] = [
@@ -50,7 +50,7 @@ const main = async () => {
 
   const options = {
     // Protocol time range
-    protocolStartDate: new Date(2016, 0, 1), // 1. Januar 2016
+    protocolStartDate: new Date(2008, 0, 1), // 1. Januar 2016
     protocolEndDate: new Date(), // heute
     // How often entries appear
     activeDayRatio: 0.02, // ~7 days per year with entries
@@ -63,8 +63,12 @@ const main = async () => {
   console.log("Book Generator (Protocol Format)");
   console.log("=================================");
   console.log(`Seed: ${BOOK_SEED}`);
-  console.log(`Protocol: ${options.protocolStartDate.toLocaleDateString("de-DE")} - ${options.protocolEndDate.toLocaleDateString("de-DE")}`);
-  console.log(`Active day ratio: ${(options.activeDayRatio * 100).toFixed(1)}%`);
+  console.log(
+    `Protocol: ${options.protocolStartDate.toLocaleDateString("de-DE")} - ${options.protocolEndDate.toLocaleDateString("de-DE")}`
+  );
+  console.log(
+    `Active day ratio: ${(options.activeDayRatio * 100).toFixed(1)}%`
+  );
   console.log();
 
   // Load data
@@ -77,7 +81,7 @@ const main = async () => {
   const ratings = await loadRatings(ratingsPath);
 
   console.log(
-    `Loaded ${products.length} products and ${ratings.length} ratings`,
+    `Loaded ${products.length} products and ${ratings.length} ratings`
   );
 
   // Generate protocol
@@ -100,10 +104,10 @@ const main = async () => {
 
   const totalEntries = protocol.days.reduce(
     (sum, day) => sum + day.entries.length,
-    0,
+    0
   );
   console.log(
-    `Generated ${totalEntries} entries across ${protocol.days.length} days`,
+    `Generated ${totalEntries} entries across ${protocol.days.length} days`
   );
 
   // Format as book
@@ -123,7 +127,7 @@ const main = async () => {
   console.log();
   console.log(`Saved to ${outputPath}`);
   console.log(
-    `File size: ${(fs.statSync(outputPath).size / 1024).toFixed(1)} KB`,
+    `File size: ${(fs.statSync(outputPath).size / 1024).toFixed(1)} KB`
   );
 };
 
