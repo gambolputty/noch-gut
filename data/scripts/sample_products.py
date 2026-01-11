@@ -14,7 +14,7 @@ REPO_ROOT = Path(__file__).parent.parent.parent
 INPUT_FILE = REPO_ROOT / "bot" / "assets" / "products.csv"
 OUTPUT_FILE = REPO_ROOT / "web" / "public" / "products.csv"
 
-SAMPLE_RATIO = 1 / 3
+SAMPLE_RATIO = 1 / 4
 RANDOM_SEED = 42  # For reproducibility
 
 
