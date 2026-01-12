@@ -7,9 +7,15 @@ import { EntryList } from "../components/EntryList";
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>Noch gut</title>
-    <meta name="description" content="Protokoll gegessener Lebensmittel, die ihr Mindesthaltbarkeitsdatum überschritten haben." />
+    <meta
+      name="description"
+      content="Protokoll gegessener Lebensmittel, deren Mindesthaltbarkeitsdatum überschritten ist."
+    />
     <meta property="og:title" content="Noch gut" />
-    <meta property="og:description" content="Protokoll gegessener Lebensmittel, die ihr Mindesthaltbarkeitsdatum überschritten haben." />
+    <meta
+      property="og:description"
+      content="Protokoll gegessener Lebensmittel, deren Mindesthaltbarkeitsdatum überschritten ist."
+    />
     <meta property="og:type" content="website" />
     <meta name="theme-color" content="#ffffff" />
     <style is:global>
@@ -20,7 +26,11 @@ import { EntryList } from "../components/EntryList";
       }
 
       body {
-        font-family: system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
+        font-family:
+          system-ui,
+          -apple-system,
+          BlinkMacSystemFont,
+          sans-serif;
         font-size: 16px;
         line-height: 1.6;
         color: #222;
@@ -187,30 +197,55 @@ import { EntryList } from "../components/EntryList";
 
     <h1>Noch gut</h1>
     <div class="intro">
-      <span class="intro-text">Protokoll gegessener Lebensmittel, die ihr Mindesthaltbarkeitsdatum überschritten haben.</span>
+      <span class="intro-text"
+        >Protokoll gegessener Lebensmittel, deren Mindesthaltbarkeitsdatum
+        überschritten ist.</span
+      >
       <button class="more-toggle" id="more-toggle">Mehr</button>
       <div class="more-content hidden" id="more-content">
-        <p>Die Produktdaten stammen von <a href="https://world.openfoodfacts.org/" target="_blank" rel="noopener">Open Food Facts</a>, einer offenen Lebensmitteldatenbank.</p>
-        <p class="links">
-          <a href="https://bsky.app/profile/noch-gut.bsky.social" target="_blank" rel="noopener">Bluesky</a>
-          <a href="https://mas.to/@noch_gut" target="_blank" rel="noopener">Mastodon</a>
-          <a href="https://github.com/gambolputty/noch-gut" target="_blank" rel="noopener">GitHub</a>
+        <p>
+          Die Produktdaten stammen von <a
+            href="https://world.openfoodfacts.org/"
+            target="_blank"
+            rel="noopener">Open Food Facts</a
+          >, einer offenen Lebensmitteldatenbank.
         </p>
-        <p><a href="https://ggor.de" target="_blank" rel="noopener">Gregor Weichbrodt</a>, 2026</p>
+        <p class="links">
+          <a
+            href="https://bsky.app/profile/noch-gut.bsky.social"
+            target="_blank"
+            rel="noopener">Bluesky</a
+          >
+          <a href="https://mas.to/@noch_gut" target="_blank" rel="noopener"
+            >Mastodon</a
+          >
+          <a
+            href="https://github.com/gambolputty/noch-gut"
+            target="_blank"
+            rel="noopener">GitHub</a
+          >
+        </p>
+        <p>
+          <a href="https://ggor.de" target="_blank" rel="noopener"
+            >Gregor Weichbrodt</a
+          >, 2026
+        </p>
       </div>
     </div>
     <EntryList client:load />
 
     <script>
-      document.getElementById('regenerate')?.addEventListener('click', () => {
+      document.getElementById("regenerate")?.addEventListener("click", () => {
         location.reload();
       });
 
-      document.getElementById('more-toggle')?.addEventListener('click', (e) => {
-        const content = document.getElementById('more-content');
+      document.getElementById("more-toggle")?.addEventListener("click", (e) => {
+        const content = document.getElementById("more-content");
         const button = e.target as HTMLButtonElement;
-        content?.classList.toggle('hidden');
-        button.textContent = content?.classList.contains('hidden') ? 'Mehr' : 'Weniger';
+        content?.classList.toggle("hidden");
+        button.textContent = content?.classList.contains("hidden")
+          ? "Mehr"
+          : "Weniger";
       });
     </script>
   </body>
